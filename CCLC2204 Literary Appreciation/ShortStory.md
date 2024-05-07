@@ -10,6 +10,10 @@
 
 ### Setting
 
+Setting includes the time, place, and social conditions of the story.  
+
+Describe the setting of “A Jury of Her Peers”.  Include specific quotes / details, explaining how they contribute to the development of the story.
+
 ### Irony 
 
 G.R. Thompson defines irony as "a basic discrepancy between what is expected or apparent and what is actually the case." (the difference between expectation and the reality)
@@ -18,9 +22,9 @@ G.R. Thompson defines irony as "a basic discrepancy between what is expected or 
 
 **Verbal irony:** When something is said that is the opposite of what it meant.
 
-**Situational irony:** when what actually happens is the opposite of what is expected.
+**Situational irony:** When what actually happens is the opposite of what is expected.
 
-**Dramatic irony:** when the readers know something that other characters don’t know.
+**Dramatic irony:** When the readers know something that other characters don’t know.
 
 #### What’s the “irony” in Glaspell’s “A Jury of Her Peers”?
 
@@ -80,12 +84,22 @@ The sheriff’s wife did not reply. The silence made Mrs. Hale turn round. Mrs. 
 Mrs. Hale came nearer.  
 “Looks as if some one must have been--rough with it.” - para. 189-182, p.7
 
+**Analysis 1**  
+Minnie Foster Wright reveals how a woman can be broken and destroyed by her tyrannical husband in a patriarchal society.  
+She used to be an extroverted woman but has now been reduced to someone who wears shabby clothes. 
+Mrs. Hale remembers Minnie for her youthful innocence and happiness before she was married.
+The marriage was abusive for her and one-sided As it was said by "Mrs.   
+Hale's mind that that rocker didn't look in the least like Minnie Foster - the Minnie Foster of twenty years before and the chair sagged to one side" (Glaspell 2).
+The rocking chair symbolises Minnie Foster Wright as the victim of  an abusive relationship as it shows John Wright's rough and violent attitude towards his belongings which include his wife as a women is regarded as a man's property.
 
-Analysis 1
-Minnie Foster Wright reveals how a woman can be broken and destroyed by her tyrannical husband in a patriarchal society. She used to be an extroverted woman but has now been reduced to someone who wears shabby clothes. Mrs. Hale remembers Minnie for her youthful innocence and happiness before she was married. The marriage was abusive for her and one-sided As it was said by "Mrs. Hale's mind that that rocker didn't look in the least like Minnie Foster - the Minnie Foster of twenty years before" "and the chair sagged to one side" (Glaspell 2). The rocking chair symbolises Minnie Foster Wright as the victim of  an abusive relationship as it shows John Wright's rough and violent attitude towards his belongings which include his wife as a women is regarded as a man's property.
-
-Analysis 2
-Minnie Foster Wright represents the marginalized groups that being oppressed in the men dominated society. She lives in a "lonesome-looking place" and her house is "down in a hollow and the poplar trees around it was lonesome-looking trees." That demonstrates the emptiness and isolation of Minnie Foster. Since the place is "down in a hollow", Minnie cannot establish any connections with her friends. Furthermore, the marriage has changed her personality. Before the marriage, Minnie Foster is a cheerful person, as the article mentioned that "she used to wear pretty clothes and  be lively--when she was Minnie Foster, one of the town girls, singing in the choir." But after she is married to Mr. Wright, she becomes depressed and indifferent. She doesn't wear any pretty clothes or sing as she used to. She is trapped in an abusive relationship.
+**Analysis 2**  
+Minnie Foster Wright represents the marginalized groups that being oppressed in the men dominated society.
+She lives in a "lonesome-looking place" and her house is "down in a hollow and the poplar trees around it was lonesome-looking trees." 
+That demonstrates the emptiness and isolation of Minnie Foster. 
+Since the place is "down in a hollow", Minnie cannot establish any connections with her friends. 
+Furthermore, the marriage has changed her personality. 
+Before the marriage, Minnie Foster is a cheerful person, as the article mentioned that "she used to wear pretty clothes and  be lively--when she was Minnie Foster, one of the town girls, singing in the choir." 
+But after she is married to Mr. Wright, she becomes depressed and indifferent. She doesn't wear any pretty clothes or sing as she used to. She is trapped in an abusive relationship.
 
 Analysis 3
 Mrs Wright represents how women are oppressed in the patriarchal society. Being married is a turning point of Mrs Wright. Mrs Wright from being a proud woman and changed to be an isolated women. the writing examine that she was a member of choir and could able to sing without shy in public. however, after she married to Mr Wright, she changed to be less appear in choir or even not participate in choir anymore. which is similar with the bird she killed, the bird was able to be free to fly in the freedom but then the bird forced to lock up in the cage, and couldn't break though it, since getting married was the only option for women in that century. the bird is symptoms to Mrs Wright as she couldn't escape or break though from "marriage ". therefore she have to do something to escape the "cage", which make her kill her husband - Mr Wright, and this action just symptoms of the dead bird in the cage, which is women kill husband then the women is guilty by the law, then the women have to accept the penalty as the dead bird. although she kills her husband but she is the true victim at all, as she loses her own life by getting married.

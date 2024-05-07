@@ -23,7 +23,7 @@ Makes an **indirect comparison** between two unlike things without using words s
 
 #### Personification
 
- **Human qualities are given to non-human** things such as an animal, thought, or object.
+**Human qualities are given to non-human** things such as an animal, thought, or object.
 
 - The trees screamed in the raging wind.
 
@@ -53,7 +53,7 @@ A deliberate playing down of a situation in order to make a point; intentionally
 
 #### Irony
 
-A meaningful gap between expectation and outcome, or when what is said is different from what is meant.
+A meaningful gap between expectation and outcome, or when **what is said is different from what is meant**.
 
 - I posted a video on YouTube about how boring and useless YouTube is.
 
@@ -61,15 +61,15 @@ A meaningful gap between expectation and outcome, or when what is said is differ
 
 #### Symbolism
 
-An object represents the subject / idea. It’s the “symbol” of the idea.
+An object represents the subject/idea. It’s the “symbol” of the idea.
 
 - Sleep is often related to death. Night often suggests darkness, death, or grief. Dreams are linked to the future or fate.
-- Seasons often represent ages: winter/old age or death; spring/youth; summer/prime of life; fall or autumn/middle age
-- Colours are often linked to emotions: red/passion or anger; blue/happiness or calm; green/jealousy; colors are also used to represent states of being: black/death or evil; white/purity or innocence; red/danger; green/growth
+- Seasons often represent ages: winter/old age or death; spring/youth; summer/prime of life; fall or autumn/middle age.
+- Colours are often linked to emotions: red/passion or anger; blue/happiness or calm; green/jealousy; colors are also used to represent states of being: black/death or evil; white/purity or innocence; red/danger; green/growth.
 
 #### Repetition
 
-Ideas or words that are repeated more than once to emphasise and deepen meaning.
+**Ideas or words** that are **repeated** more than once to **emphasize** and deepen meaning.
 
 - “And miles to go before I sleep,
    And miles to go before I sleep”
@@ -151,10 +151,10 @@ line 行
 
 by Margaret Atwood
 
-> You fit into me
+> You fit into me  
 > like a hook into an eye
 >
-> a fish hook
+> a fish hook  
 > an open eye
 
 #### Identity one poetic device and explain its effect.
@@ -245,7 +245,7 @@ The deceased was the speaker’s direction, his everything. This comparison indi
 
 ### STEP 3: Annotate
 
-- Highlight the important and interesting images in the poem
-- Highlight any other interesting words in the poem
+- Highlight the important and interesting images in the poem.
+- Highlight any other interesting words in the poem.
 - Does the tone shift at any point?
 - How does the poem begin and end?
