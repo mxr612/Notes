@@ -172,18 +172,20 @@ To what extent do the advantages of having an ageing population outweigh the dis
 
 ## **Cambridge 19**
 
-Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.
+### T1
 
-Discuss both these views and give your own opinion.
+>Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.
+>Discuss both these views and give your own opinion.
 
- 
+### T2
 
-The working week should be shorter and workers should have a longer weekend. Do you agree or disagree?
+> The working week should be shorter and workers should have a longer weekend. Do you agree or disagree?
 
-It is important for everyone, including young people, to save money for their future.
+### T3
 
-To what extent do you agree or disagree with this statement?
+>It is important for everyone, including young people, to save money for their future.
+>To what extent do you agree or disagree with this statement?
 
- 
+### T4
 
-In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?
+>In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?

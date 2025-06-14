@@ -8,6 +8,11 @@ status: Ongoing
 pomodoro: "1"
 ---
 
+> 1. Stop worrying a lot about complex idea to boost fluency 
+> 2. Simpler sentence to minimize grammar error in every sentence 
+> 3. Use vocab that u know how to use it 100% appropriately 
+> 4. Speak slower to get more clarity in pronunciation.
+
 ## Daily Practice
 
 - [Recordings](Recordings.md) on daily basis
@@ -254,18 +259,18 @@ e.g. beneifical; important; significant; essential and so forth.
 ## 10. The public
 
 Question form:
-> how do the people in china do something?
-> What do the people do in china to + verb . e.g. celebrate?
+> how do the people in China do something?
+> What do the people do in China to + verb. e.g. celebrate?
 
 1. Watch your mouth; a little bird told me that ; even worse apples and oranges 
 2. Location; age; gender; time; religion or culture
 
-the approach should be comparing
+You may compare the population by dividing them into small groups:
 1. time (day, season)
 2. gender
-3. location
+3. location (north vs. south)
 4. religion
-5. culture
+5. culture (tradition)
 
 ## 11. Reason giving
 
@@ -274,6 +279,37 @@ Question form
 
 1. due to; owe to; thanks to; because of; the reason behind this is the fact that; the chief reason for the indeed fact is that. The most obviously / apparently reason for the fact is that; 
 2. Personally speaking, there are a couple of factors that make contribution to the fact. One factor that I’d like to start my talking with is… another factor is that… to end up with + summary.
+
+#### **1. Introductory Phrases**
+
+- "The reason behind this is the fact that..."
+- "Due to / Owing to / Thanks to / Because of..."
+- "The most obvious reason is that..."
+
+#### **2. Multi-Factor Explanation**
+
+- **Template:**  
+    _"Personally speaking, there are a couple of factors contributing to this. First, [Factor 1]. Second, [Factor 2]. To summarize, [brief restatement]."_
+
+#### **3. Examples from Context**
+
+- **From [09 Personal perspective](obsidian://open?file=2025_IELTS%2FSpeaking%2FAssignments%2F09%20Personal%20perspective.md):**
+    - _"Do you think teamwork improves efficiency?"_  
+        → _"The chief reason is that collaboration pools diverse skills, while another factor is reduced workload through task division."_
+    - _"Why is free time important?"_  
+        → _"Thanks to leisure, people recharge mentally; moreover, it fosters creativity."_
+
+#### **4. Linking to Personal Perspective**
+
+- Use phrases from [Notes - IELTS Speaking](obsidian://open?file=note.mxr612.io%2FIELTS%2FNotes%20-%20IELTS%20Speaking.md) like:
+    - _"In my eyes..."_
+    - _"What I’m getting at is..."_
+
+#### **5. Part 3 Discussion (Advanced)**
+
+For deeper analysis (e.g., societal impacts):
+
+- _"From a societal perspective, this matters because..."_ (Link to [Note - IELTS Writing](obsidian://open?file=note.mxr612.io%2FIELTS%2FNote%20-%20IELTS%20Writing.md)’s "Scope" section for broader themes like economy, ethics, etc.).
 
 ## 12. Advantage and Disadvantage
 

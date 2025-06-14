@@ -280,3 +280,79 @@ I am dying to start my own business, but yet not successful. I have a project pr
 
 ## 8. Personal Experience
 
+
+### Part 1 (Personal Experience Focus)
+
+**Have you ever had the experience of fishing?**
+
+If my memory serves me well, my parent had taken me to a pay-to-fish pond when I was like 14 or 16. At the time, I know nothing about fishing but using a stick and a wire. My dad taught me about all the required skills. I spent hours waiting **for a bite** but end up empty-handed. I guess the most required skill or quality for fishing should be your patient.
+
+**Have you ever forgotten something important?**
+
+Absolutely, I guess everyone got such experience. For me, I always forgot friends' birthday, even my ex-girlfriend. I guess that's the reason we broke up, but I got no evident. She thought I should have prepared a huge surprise for her at the time and started guessing what was it. But the truth is, I only noticed that when she was asking.
+
+**Have you made any new friends recently?**
+
+Luckily yes, I was striving to scroll tinder since I was new to this city. I had matched with few girls at the moment, but the first time when I met her offline I was like **heals over head**. We talked about film, literature, and philosophy. She is a student major in film producing in a college near my place. We are going hand in hand now, studying together for language tests and planing for further studies.
+
+**Have you ever made a good decision recently?**
+
+The first thing comes to my mind is the psychological consulting. I am a psychology student, but I have never tried it. Recently, I am totally in chaos from life to work and study. I even have frictions with my family for my study plan. My consultant saved me a lot, from the overwhelming emotion and endless works.
+
+**Have you ever taken a risk that ended up with a positive result?**
+
+Generally speaking, I am not a person who takes risk, but in order to achieve my ambition, I have to. I didn't do well in the university entrance test in my country, and facing two choices that rather enter a notorious school or have a shot for associate degree in Hong Kong. An associate degree is not accepted in China as a formal degree, but making it easier to apply for a better college in the Education system of UK. I took my shot, and it comes up to be my GPA is good enough to enter top-tier universities in the world, and even awarded with scholarship in Hong Kong.
+
+**Describe a time when you made a plan to do an activity with a lot of people.**
+
+Schedule events are inevitable for school clubs, and plays an important role in leadership education. Once I was assigned to design a booth for well-being week in my college, on behalf of Psychology health association. It was my first time leading a large-scale event, and I’ll admit I **got cold feet** initially—coordinating 20 volunteers and expecting 200+ visitors felt like **biting off more than I could chew**. But in the end everything goes well, students enjoys our booth, and I learned that how a man can be creative under a high pressure.
+
+## 9. Personal perspective
+### Part 1
+
+**Do you think teachers play an important role in students' lives?**
+
+I would use the word, essential. Students' mental, physical, and intellectual development are highly influenced by their educator. What I mean by that is, understanding and intervention are two key functions  teachers perform and will eventually change children's life upside down.
+
+**Do you think teamwork can improve work efficiency?**
+
+No, absolutely no. From my experience, group works only lead to social loafing. Social loafing is a psychological concept indicating that people are more tends to work less hard when in a big group, which is verified by bunches of repetition experiences. Personally speaking, working by my self is a far better option. You are able to march to the beat of your own drum.
+
+**Do you think taking photos can help you remember things?**
+
+There's no doubt that photos are useful cue to fetch back memories. Memories are networks built with neural cells. Which means, people lose their words or details of something, are simply because the lack of some entrance. Visual sources are vivid start points that brings you back to the time.  
+
+**Do you think it's important to have free time?**
+
+I do enjoy spare time that I don't have to be stressed by all sorts of things. Recently I was busy in test preparation. If things gets better, I would like to have a long holiday. The reason behind the benefit of being free is to enjoy the peace of life, which is mentally halpful.
+
+**Do you think it's easy to make true friends?**
+
+In my view, being true is not easy for everyone, never say having a true friend that you can stay real to each other. You have to know the person well, including what they do even what they think. All these are based on you two have common interest, adjacent geographically and other limitations. 
+
+### Part 3
+
+
+**In your opinion, what makes a story engaging and worth sharing in daily life?**
+
+I guess it depends on your audience. For kids, maybe an interesting story with prince and princess is good enough. But for adults, things are totally different. We are looking for emotional relatability, well-paced narrative, and even advanced techniques like literature devices if you're a literature student.
+
+**In your opinion, what are the most common causes of disagreements between people?**
+
+People from all walks of life, has its circle of life. Adding with their culture and religion background, it becomes harder to stay in the same page. To cope with such difficulty, people should distinguish the “fact” and the “opinion” at first, which is also the common root why people are disagreeing with each other.
+
+> Tips: Cognitive, social, and situational factors
+
+**In your opinion, what are the key benefits of effective time management for individuals and society as a whole?**
+
+Just like machine needs to reduce energy waste, systems big as society or small as one person needs to save their time. It says that, time is invaluable, but I believe that it could be valued as the cost of maintenance. For example, my living cost per day is $50 in average, therefore spending one day doing nothing will be a waste of $50. These time waste is happening everywhere, increasing the cost of both individual and society. 
+
+> Productivity & Efficiency, Economic & Environmental 
+
+**In your opinion, what should technology developers do to improve the user experience and make their products more accessible?**
+
+It's a hard one. First things first, they need a comprehensive research of the market, especially their target market. Based on which, business can tailor their product to meet user needs and preference. Specifically, people always complain that taxi takes forever to arrive, which may be a good point to start a better user experience.
+
+**In your opinion, what are some effective teaching methods that can enhance students’ learning experience?**
+
+I would say one of the effective method is hands-on learning. Nowadays, teachers are more tends to assign homework that allows students to find solutions online by them self in order to solve a given problem. In which progress, students are more engaged in understanding the reason choosing the specific orientation in such circumstance, instead of just listening to lectueror and memorize rules.

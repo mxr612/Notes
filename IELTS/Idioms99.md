@@ -76,12 +76,12 @@ Referenced to: [01_idiom](Couse%20Notes/idiom.pdf)
 68. **have it out with smb** 
 69. **head over heels (in love)** 
 70. here we go again 
-71. **high and low** 
+71. **high and low**
 72. **get hold of smb/smth** 
 73. **bring home the bacon (informal)** 
 74. **come home (to smb)** 
 75. keep it up 
-76. **kick the bucket (BrE, informal, humorous)** 
+76. **[kick the bucket](https://www.collinsdictionary.com/dictionary/english/kick-the-bucket) (BrE, informal, humorous)** 
 77. kill two birds with one stone 
 78. kind of/sort of (informal) 
 79. (two) of a kind/sort 
@@ -105,3 +105,5 @@ Referenced to: [01_idiom](Couse%20Notes/idiom.pdf)
 97. by numbers 
 98. **a hard/tough nut (to crack) (informal)** 
 99. **(put smth) in a nutshell (informal)** 
+100. [let one's hair down](https://www.collinsdictionary.com/search/?dictCode=english&q=let+one%27s+hair+down)
+101. [the be-all and end-all of sth](https://www.collinsdictionary.com/dictionary/english/the-be-all-and-end-all-of-something)
