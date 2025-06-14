@@ -316,5 +316,3 @@ Solution
 > How can teachers be better supported and motivated in public schools? What measures can be taken to reduce crime rates in urban areas?
 
 ## 14. Trend Predication
-
-[[Note - IELTS Writing]]
