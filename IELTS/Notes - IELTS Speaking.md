@@ -231,6 +231,25 @@ e.g. beneifical; important; significant; essential and so forth.
 > Do you believe something is ?
 > What do you think about something?
 
+**1. Direct Opinion**
+
+- _"Personally, I believe that [topic] is [adjective] because..."_
+- _"In my view, [topic] plays a crucial role in..."_
+- _"I’m convinced that [topic] is [adjective] due to..."_
+
+**2. Reason + Example**
+
+- _"The chief reason for my stance is that... For instance,..."_
+- _"This is primarily because... Take [example] as a case in point."_
+
+**3. Balanced View (optional)**
+
+- _"While some argue that [counterpoint], I maintain that..."_
+
+**4. Conclusion**
+
+- _"Thus, I firmly hold that..."_
+- _"All things considered, my perspective remains that..."_
 
 ## 10. The public
 
@@ -298,3 +317,4 @@ Solution
 
 ## 14. Trend Predication
 
+[[Note - IELTS Writing]]
