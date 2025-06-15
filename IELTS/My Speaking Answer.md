@@ -356,3 +356,49 @@ It's a hard one. First things first, they need a comprehensive research of the m
 **In your opinion, what are some effective teaching methods that can enhance students’ learning experience?**
 
 I would say one of the effective method is hands-on learning. Nowadays, teachers are more tends to assign homework that allows students to find solutions online by them self in order to solve a given problem. In which progress, students are more engaged in understanding the reason choosing the specific orientation in such circumstance, instead of just listening to lectueror and memorize rules.
+
+## 10. The public
+
+### Part 1
+
+**Why do you think chocolate is popular worldwide?**
+
+Aww, who don't like chocolate! It's an ultimate comfort food. You can eat it on your own or share with your friends. Also, you can just simply eat it or make it into different delicious foods like ice cream, cakes, and cookies.
+
+**What are the most and least popular apps in China?**
+
+It depends on what ages you are talking about. For younger generations, the red note is highly used, especially by girls because there are latest sharing for fashion, food, and so on. For elderly, maybe news apps like RSS subscriptions are the most popular one. But when it comes to the least used one, it should belong to apps that the government ask you to install, like the anti-fraud apps.
+
+**Do you think most people in China can effectively balance their work and personal life?**
+
+Work-life balance is a universal problem. From what I've seen, a lot of people in China are really dedicated to their work and are willing to put their extra effort to get ahead. They have a bunch of debts to pay including houses, cars, and nurturing kids. They have to bring home the bacon and make ends meet.
+
+**How do public events contribute to community engagement?**
+
+Well, public activities bring people together. It's a chance for people to mingle, share experience, and exchange opinions. For example, a local festival engages all walks of life, allowing them to have fun and feel a sense of belonging to what bigger than them self.
+
+**What activities can people do in parks and gardens?**
+
+People may kill their time and enjoy the outdoors in green lands of the city. I always find someone is playing tai-chi in the park near my place in the morning. Parents also walks their kids after their school to let them burn out energies a bit. Overall, it's a good place for outdoors, not only for exercises, but also could be reading and picnics.
+
+### Part 3 (from Part 2 topics)
+
+**What negative effects can noise have on people's lives and health?**
+
+Noise is quite annoying for most of the time. It may bother you when you are working, having bad impact in people's mood and mental health. If you stay in an environment with high level of noise, it could also influence your acoustic function. So it's a must to put on ear plugs when you are going to work or stay in a noisy place. 
+
+**Are there differences in the types of noise people tolerate in different environments (such as at home, at work, or in entertainment venues)? Why?**
+
+It depends on what type of task you are expecting to accomplish in the place. At home, people are more tending to let their hair down, so they may expect a quieter environment. But when you are working in your office, you may have tolerant to sound like typing or discussing because it's inevitable in work place. When you are going out for some fun, you may even seek noise to let off some steam.
+
+**What kind of culture is popular among the young?**
+
+There are different type of sub-culture nowadays. Young people are being fans of K-pop of J-pop depends on which type of idol they prefer. Also, social media influencer are producing cultures based on their opinion and knowledge frame, which is spreading though out the young like a fever.
+
+**Will people use bikes more or less in cities in the future?**
+
+That's a tough one. Some say modern transportations are taking place of walking and cycling gradually, but ultimately it's impossible. The use of bicycle will be limited but common in the future in my view. In order to access public transports, you may need a bike to get to a bus or tube station, which may maintain the use of bike.
+
+**Do you think people are more easily persuaded by those they know well or by strangers? Why?**
+
+It depends on the situation, like what is the topic you are talking about. People may more easily be persuaded by acquaintance because of the trust. However, they may also be stubborn due to the stereotype, which may not likely happen on strangers. So for topics people don't like to think too much, they may just pick friends' brain. For topics that they need to contemplate, maybe strangers will provide a totally different perspective and persuade successfully.
