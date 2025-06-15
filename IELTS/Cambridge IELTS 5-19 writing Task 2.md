@@ -100,92 +100,76 @@ In spite of the advances made in agriculture, many people around the world still
 
 ## **Cambridge 14**
 
-Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situation.
+> Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situation.
+> **Discuss both these views** and give your own opinion. (C14T1)
 
-Discuss both these views and give your own opinion. (C14T1)
+> Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. **Discuss both these views** and give your own opinion. (C14T2)
 
-Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion. (C14T2)
+> Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you **agree or disagree** with this **opinion**? (C14T3)
 
-Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion? (C14T3)
-
-Nowadays, many people choose to be self-employed rather than to work for a company or organization. What might this be the case? What could be the disadvantages of being self-employed? (C14T4)
+> Nowadays, many people choose to be self-employed rather than to work for a company or organization. What might this be the case? What could be the disadvantages of being self-employed? (C14T4)
 
 ## **Cambridge 15**
 
-In some countries, owning a house rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? (C15T1)
+> In some countries, owning a house rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? (C15T1)
 
-In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you agree or disagree with this statement? (C15T2)
+> In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you **agree or disagree** with this **statement**? (C15T2)
 
-Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. Discuss both these views and give your own opinion. (C15T3)
+> Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. **Discuss both these views** and give your own opinion. (C15T3)
 
-In some countries, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? (C15T4)
+> In some countries, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? (C15T4)
 
 ## **Cambridge 16**
 
-In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this? (C16T1)
+> In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this? (C16T1)
+> Give reasons for your answer and include any relevant examples from your own knowledge or experience.
 
-Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+> In their advertising, businesses nowadays usually emphasize that their products are new in some ways. Why is this? Do you think it is a positive or negative development? (C16T2)
 
- 
-
-In their advertising, businesses nowadays usually emphasize that their products are new in some ways. Why is this? Do you think it is a positive or negative development? (C16T2)
-
- 
-
-Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree?
-
-Give reasons for your answer and include any relevant examples from your own knowledge or experience. (C16T3)
+ > Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products **should** be made more expensive to encourage people to consume less sugar. Do you **agree or disagree**?
+> Give reasons for your answer and include any relevant examples from your own knowledge or experience. (C16T3)
 
  
 
-In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages? (C16T4)
+>In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers. Do you think the advantages of driverless vehicles outweigh the disadvantages? (C16T4)
 
 ## **Cambridge 17**
 
-It is important for people to take risks, both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages? (C17T1)
+> It is important for people to take risks, both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages? (C17T1)
+> Given reasons for your answer and include any relevant examples from your own knowledge or experience.
 
-Given reasons for your answer and include any relevant examples from your own knowledge or experience.
+> Some children spend hours every day on their smartphones. Why is this case? Do you think this is a positive or a negative development? (C17T2)
+> Given reasons for your answer and include any relevant examples from your own knowledge or experience.
 
-Some children spend hours every day on their smartphones. Why is this case? Do you think this is a positive or a negative development? (C17T2)
+> Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish. **Discuss both these views** and given your own opinion. (C17T3)
 
-Given reasons for your answer and include any relevant examples from your own knowledge or experience.
-
-Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish. Discuss both these views and given your own opinion. (C17T3)
-
-Nowadays, a growing number of people with health problems are trying alternative medicines and treatments instead of visiting their usual doctor.
-
-Do you think this is a positive or a negative development? (C17T4)
+>Nowadays, a growing number of people with health problems are trying alternative medicines and treatments instead of visiting their usual doctor
+>Do you think this is a positive or a negative development? (C17T4)
 
 ## **Cambridge 18**
 
-The most important aim of science should be to improve people's lives.
+> The most important aim of science **should** be to improve people's lives
+> To what extent do you **agree or disagree** with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience.
 
-To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+>Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. **Discuss both these views** and give your own opinion.
 
-Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both these views and give your own opinion.
+>In many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing. Do you think this is a positive or a negative development?
 
-In many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing. Do you think this is a positive or a negative development?
-
-In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people.
-
-To what extent do the advantages of having an ageing population outweigh the disadvantages?
+>In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people.
+>To what extent do the advantages of having an ageing population outweigh the disadvantages?
 
 ## **Cambridge 19**
 
-### T1
-
 >Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.
->Discuss both these views and give your own opinion.
+>**Discuss both these views** and give your own opinion.
 
-### T2
 
-> The working week should be shorter and workers should have a longer weekend. Do you agree or disagree?
 
-### T3
+> The working week should be shorter and workers **should** have a longer weekend. Do you **agree or disagree**?
+
 
 >It is important for everyone, including young people, to save money for their future.
->To what extent do you agree or disagree with this statement?
+>To what extent do you **agree or disagree** with this **statement**?
 
-### T4
 
 >In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?
