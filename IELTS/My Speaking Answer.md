@@ -390,3 +390,50 @@ That's a tough one. Some say modern transportations are taking place of walking 
 **Do you think people are more easily persuaded by those they know well or by strangers? Why?**
 
 It depends on the situation, like what is the topic you are talking about. People may more easily be persuaded by acquaintance because of the trust. However, they may also be stubborn due to the stereotype, which may not likely happen on strangers. So for topics people don't like to think too much, they may just pick friends' brain. For topics that they need to contemplate, maybe strangers will provide a totally different perspective and persuade successfully.
+
+## 11. Reason giving
+
+### Part 1 (Sample Questions)
+
+
+**Why do you think some people like to use perfume? (Perfume)**
+
+I think some people may tend to use it to cover some odour, which is actually making things even worse. Others may dress a perfume for a special mood or make statement by different scents. Overall, people are trying to make themselves feel better though a perfume.
+
+**Why do you think geography is important in daily life? (Geography)**
+
+Geography plays a role in understanding the world around us. Like, knowing the place where we are, understanding the pattern of weather, or find the fastest way to move from one point to another. For example, geography is used in weather forecast, navigation, and so on.
+
+**Why do you think students need more time for relaxation? (Relaxation)**
+
+It's critical for adults to have work-life balance, so do students. Student are not having a specific time to go to work and get off from work: they have to do assignments after school, and do reviews which will never prepared enough. Under such circumstance, making a well-structured routine ensures time to let their hairs down is a good option.
+
+**Why do you think people like to enjoy good views? (Good view)**
+
+Views are great to see. It makes people relax, calm down, and refreshed. When you look at a pretty landscape or a city skyline, it's like all your worries just fade away. Some may wonder why human beings are fond of such a common thing. I would say, it may be a nature inherited from our ancestors.
+
+**Why do you think it is important for people to follow fashion trends when dressing? (Well-dressed friend)**
+
+Some people may want to look cool and fit in when wearing latest clothes, or to show off a little. It can also express themselves and show their personality. And following trends also make you confident and up-to-date. But I guess it's not for everyone, some may be loyal to some specific out fit or style because it make them feel safe.
+
+### Part 2 & 3 (Sample Prompts)
+
+**Why do you think music is important? (Person who enjoys music)**
+
+Music are expression of emotions, which bring all audience onto the same stage, from happy to sad, and from excited to frustrated. It's like a universal language you know. People could inspired and encouraged by it, especially when they are down. On the battlefield, music also plays an significant role to enhance the morale.
+
+**Why do you think it is important to have ambitions? (Ambition)**
+
+It gives you something to strive for it, and will become the main line of your life, making you work harder and achieve good things. Having ambitions can also make you satisfied and fulfilled after you accomplished it. To put in a nutshell, it's a good way to motivate yourself.
+
+**Why do you think it is important to have a good environment for study/work? (Place of study/work)**
+
+A good environment can totally boost your study or work. Think about it, when you are starting in a quiet space with a desk which is clean and with everything you need in right place, you are gonna able to focus more and being productive. Research shows student are more focused, measured by eye tracking, by 20% when their desks are clean and the environment is quiet.
+
+**Why do you think it is important to have a good teacher? (Teacher)**
+
+Absolutely, teachers are crucial in a student's growth. Some may say, teachers are just pass things to students, but I am totally disagreed with that. It's the courier guy. A good teacher is capable to change a student's way to think, besides impart knowledge. Back to Qing dynasty, teacher are seem as the second father of a kid, teaching them how to behave and earn their life.
+
+**Why do you think it is important to have a good law? (Law you would introduce)**
+
+Laws are there to protect people and keep social stability, therefore is super important. A good law is helpful to make sure that everyone are treated equally, and prevent the crime, making the country a safer place. Without a good law, the world would be in a chaos. Isn't it?
