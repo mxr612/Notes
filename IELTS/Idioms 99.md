@@ -107,3 +107,6 @@ Referenced to: [01_idiom](Couse%20Notes/idiom.pdf)
 99. **(put smth) in a nutshell (informal)** 
 100. [let one's hair down](https://www.collinsdictionary.com/search/?dictCode=english&q=let+one%27s+hair+down)
 101. [the be-all and end-all of sth](https://www.collinsdictionary.com/dictionary/english/the-be-all-and-end-all-of-something)
+102. [make ends meet](https://www.collinsdictionary.com/dictionary/english/make-ends-meet)
+103. [All work and no play makes Jack a dull boy](https://en.wikipedia.org/wiki/All_work_and_no_play_makes_Jack_a_dull_boy)
+104. [All walks of life](https://plainenglish.com/expressions/all-walks-of-life/)

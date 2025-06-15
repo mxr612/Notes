@@ -37,7 +37,7 @@ pomodoro: "1"
 
 ### Idiom
 
-[Idioms99](../../note.mxr612.io/IELTS/Idioms99.md)
+[Idioms 99](Idioms%2099.md)
 
 **Q: How do you usually study for exams?**
 I usually hit the books for several hours each day. Sometimes, when the material is tough, I really have to put on my thinking cap and brainstorm ideas with classmates. I try to avoid burning the midnight oil too much, though, to stay healthy.
