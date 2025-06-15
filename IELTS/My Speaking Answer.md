@@ -9,12 +9,17 @@ status: Ongoing
 ## 3. Like and Dislikes
 ### skill learning
 
--   **Do you engage in playing video games regularly?**
-    To tell the truth, I have been played video games biweekly for over 10 years. For me, playing video games with a proper interval can not only entertain myself but also closer the relationship with friends. 
--   **Do you have an interest in science?**
-    Of course, I have been studied science since my primary school. For me, science is not only the way I exercise my brain, but also a philosophy  understanding truth.
--   **How often do you use a calculator?**
-    Honestly, I started to use a calculator only since my collage time. And now I am highly relied on it, on daily basis. For me, it’s not only a tool which accurate my work, but a good time saver that allows me to have more free time.
+**Do you engage in playing video games regularly?**
+
+To tell the truth, I have been played video games biweekly for over 10 years. For me, playing video games with a proper interval can not only entertain myself but also closer the relationship with friends. 
+
+**Do you have an interest in science?**
+
+Of course, I have been studied science since my primary school. For me, science is not only the way I exercise my brain, but also a philosophy  understanding truth.
+
+**How often do you use a calculator?**
+
+Honestly, I started to use a calculator only since my collage time. And now I am highly relied on it, on daily basis. For me, it’s not only a tool which accurate my work, but a good time saver that allows me to have more free time.
 
 ### pros and cons
 
@@ -72,10 +77,6 @@ status: Ongoing
 
     I’m more or less a old-fashioned person who seldom scroll short videos and news online. What do I only do online is updating my blog, like once a week. It usually takes me around 3 hours to transfer my writings and photos online with fine typeset with my friend’s help.
 
-### References
-
-- [02 Likes and Dislikes](02%20Likes%20and%20Dislikes.pdf)
-
 ## 4. Often and Usually
 
 
@@ -113,14 +114,7 @@ status: Ongoing
 | On what occasions do people usually give flowers in your country? | ?                                                                                                                                                                                                                            |
 | Do you usually make plans for your weekends?<br>                  | Absolutely. For the majority of my weekend, a proper plan is unavoidable basis of my chill time. Typically, my weekend starts with a newspaper or magazine in the morning, followed by sports with friends to let out steam. |
 
-
-### References
-
-- [03 Often and Usually](../../2025_IELTS/Speaking/Couse%20Notes/03%20Often%20and%20Usually%201.pdf)
-- [01_22.0](22.0.pdf)
-
 ## 5. Personal Preference
-### Preference
 
 **Do you usually relax or keep yourself busy during the evening?** （补一个 Usually=Typical 问题）
 
@@ -186,12 +180,6 @@ Nine times of ten, **you'll catch me putting** a pen to paper, but not a pencil.
 **Do you usually choose hats based on fashion trends or for practical purposes like sun protection?**
 
 I'm not one to **follow the herd** with trendy hats, sun protection **takes the cake**. A wide-brimmed hat **weights more than gold** in summer in order to protect me from the UV.
-
-### References
-
-- [22.0](../../2025_IELTS/Speaking/22.0.pdf)
-- [04 Preference & Comparison](../../2025_IELTS/Speaking/Couse%20Notes/04%20Preference%20&%20Comparison.pdf)
-- [Notes - IELTS Speaking](Notes%20-%20IELTS%20Speaking.md)
 
 ## 6. Comparison
 
