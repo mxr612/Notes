@@ -128,6 +128,7 @@ there be/we can see/lie/be located/ be situated (in/at)、can be found in the ea
 
 
 >认清今天讨论话题的方向，能从不同的角度对于个人观点进行展开。
+
 ![](https://photo.mxr612.io/api/v1/t/823be5bdafe9a8906d67d96acbd5caa26cfbbc17/ui8yksrc/fit_1280)
 ### 2.1 Agree and Disagree
 
