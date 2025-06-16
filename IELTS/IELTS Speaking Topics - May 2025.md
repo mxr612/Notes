@@ -2,182 +2,182 @@
 status: Done
 ---
 
-# Part1
+## Part1
 
-## 必考三剑客 
+### 必考三剑客 
 
-###  Work or Studies  "Work":   
+####  Work or Studies  "Work":   
 
 1. Do you work or are you still studying? 
 2. What is your job? 
 3. How long have you been working in your current job? 
 4. What are your main responsibilities at work?  
 
-### Work or Studies  "Study":   
+#### Work or Studies  "Study":   
 1. Are you currently studying or have you ﬁnished your studies? 
 2. What is your major or area of study? 
 3. How do you usually study? 
 4. Do you prefer to study alone or with a group?                                                
 
-### Home/Accommodation   
+#### Home/Accommodation   
 1. Describe the type of house or apartment you envision living in the future. 
 2. What transportation options are available near your home? 
 3. Do you prefer living in a house or an apartment? 
 4. Can you describe your current living space, including your favorite room?  
 
-### Hometown   
+#### Hometown   
 1. Where is your hometown located? 
 2. How would you describe the size of your hometown? 
 3. What aspects do you like most about your hometown? 
 4. Are there any features or aspects of your hometown that you dislike?   
 
-## 2025年5⽉增 
+### 2025年5⽉增 
 
-### Being busy 
+#### Being busy 
 1. Do you often feel busy? 
 2. What do you usually do when you’re busy? 
 3. Do you prefer to be busy or have free time? 
 4. How do you manage your time when you are busy?   
 
-### Puzzles 
+#### Puzzles 
 1. Do you like doing puzzles? 
 2. What kind of puzzles do you enjoy the most? 
 3. Did you play with puzzles when you were a child? 
 4. Do you think puzzles are good for children? 
 
-### Saying thank you 
+#### Saying thank you 
 1. Do you often say “thank you” in your daily life? 
 2. In what situations do you usually say thank you? 
 3. Do you prefer saying thank you in person or through messages? 
 4. Why do you think it’s important to express gratitude
 
-### Public transportation 
+#### Public transportation 
 1. Do you often use public transportation? 
 2. What’s your favourite type of public transportation? 
 3. Are there any problems with public transportation in your city? 
 4. How do you think public transportation could be improved?   
 
-### Names 
+#### Names 
 1. Does your name have any special meaning? 
 2. Do you like your name? Why or why not? 
 3. Do you think a person’s name can affect their life? 
 4. Do people in your country usually change their names?
 
-### Geography 
+#### Geography 
 1. Did you study geography at school? 
 2. What’s the most interesting geographical feature you’ve seen? 
 3. Do you think geography is important in daily life? 
 4. Is there a place with unique geography that you want to visit?   
 
-### Flowers 
+#### Flowers 
 1. Do you like ﬂowers? Why or why not? 
 2. Have you ever grown ﬂowers by yourself? 
 3. Are there any special meanings of ﬂowers in your country? 
 4. On what occasions do people usually give ﬂowers in your country?
 
-### Plan/schedule 
+#### Plan/schedule 
 1. Do you usually make plans for your weekends? 
 2. How do you usually organize your daily schedule? 
 3. Do you prefer to make detailed plans or just have a general idea? 
 4. Have you ever had a plan that didn't work out? What happened? 
 
-### Text messages 
+#### Text messages 
 1. Do you send a lot of text messages every day? 
 2. What kind of text messages do you receive most frequently? 
 3. Do you prefer sending text messages or making phone calls? 
 4. Have text messages changed the way you communicate with others?
 
-## 2025年1⽉增 
+### 2025年1⽉增 
 
-### Colours 
+#### Colours 
 1. What's your favourite colour? 
 2. Why do you like this colour so much? 
 3. Do you often wear clothes in your favourite colour? 
 4. Do you think your preference for this colour reﬂects your personality in some way?
 
-### Stories 
+#### Stories 
 1. Do you often share stories with your friends or family in daily conversations? 
 2. Have you heard any interesting or funny stories from your colleagues recently? 
 3. When you meet new people, do you like to listen to their personal stories? Why or why not? 
 4. In your opinion, what makes a story engaging and worth sharing in daily life? 
 
-### Borrowing/lending 
+#### Borrowing/lending 
 1. Do you often borrow things from others? 
 2. When you borrow something, do you always return it on time? Why or why not? 
 3. What do you think are the important things to consider before lending? 
 4. In your experience, has borrowing or lending ever caused any misunderstandings or problems? 
 
-### Hats/caps 
+#### Hats/caps 
 1. What's your favorite type of hat or cap? Why do you like it? 
 2. Do you usually choose hats based on fashion trends or for practical purposes like sun protection?
 3. Have you ever worn a hat that was completely out of your comfort zone? 
 4. When you see people wearing different styles of hats on the street, which ones catch your eye the most and why? 
 
-## 2024年11⽉增
+### 2024年11⽉增
 
-### Dreams
+#### Dreams
 1. Do you often remember your dreams? What kind of dreams do you usually recall, vivid ones or just fragments? 
 2. Is there any particular dream that has stayed with you for a long time? What was it about? 
 3. Do you think there are any factors that can affect whether you remember your dreams or not, like stress or diet? 
 4. Do you believe that dreams have hidden meanings? Have you ever tried to interpret your own dreams? 
 
-### Watch 
+#### Watch 
 1. Do you pay more attention to the design, functionality, or brand of the watch? 
 2. Have you ever received a watch as a gift? 
 3. Do you wear a watch every day? 
 4. Are there any occasions when you think it's inappropriate to wear a watch, for example, at a formal dinner? Why?  
 
-### Feel bored 
+#### Feel bored 
 1. Do you often feel bored?. 
 2. What should people do when they feel bored? 
 3. What kinds of things are boring to you? 
 4. What will you do when you feel bored? 
 
-### Evening time
+#### Evening time
 1. What do people usually do in the evening? 
 2. What do you usually do in the evening? 
 3. Do you usually relax or keep yourself busy during the evening? 
 4. Are there any evenings when you completely break your routine? 
 
-### Old buildings
+#### Old buildings
 1. Have you ever visited any old buildings? 
 2. Do you think we should preserve old buildings in cities? 
 3. Are there any old buildings you want to visit in the future? 
 4. Do you prefer living in an old or a modern building?
 
-### E-mails 
+#### E-mails 
 1. Do you often send emails? 
 2. When would you send emails to others? 
 3. Is sending emails popular in China? 
 4. Do you think sending emails will be more or less popular in the future?   
 
-### Mirrors 
+#### Mirrors 
 1. Do you often look at yourself in the mirror? 
 2. When do you use a mirror? 
 3. Have you ever bought a mirror? 
 4. What kind of mirrors have you bought?
 
-### Meeting new friends/people 
+#### Meeting new friends/people 
 1. Do you like making friends? 
 2. Did you make a lot of friends when you were a child? 
 3. Have you made any new friends recently? 
 4. What do you often talk about with your new friends? 
 
-## 2024年9⽉增 
+### 2024年9⽉增 
 
-### Bikes
+#### Bikes
 - Did you have a bike when you were young?     
 - Do you have a bike now?
 - Do you often ride a bike now?     
 - Are bikes popular in China? 
 
-### Talking with others
+#### Talking with others
 - Do you like to talk with others?     
 - Do you like to talk a lot with others?     
 - Did you like to talk with others when you were a child?     
 - Are you good at communicating with others? 
 
-### Coins     
+#### Coins     
 - Do you often take coins with you?     
 - Have you collected coins?     
 - Is it convenient to use coins?     
