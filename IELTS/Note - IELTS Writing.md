@@ -57,7 +57,7 @@ status: Ongoing
 这是一类（时间上）对比2-3组数据的题目，要求学生均衡地分配重心在静态特征及简单的变化上。
 呈现方式上，可能是饼图或者表格图。
 
-![](2025_IELTS/Writting/assets/Picture%202.png)
+![](https://photo.mxr612.io/api/v1/t/93495fbc18af3b24d47b66e1f4da96ba6efdad98/ui8yksrc/fit_720)
 
 **Basic structure** (by paragraph & type)
 1. Rephrase the question
@@ -106,7 +106,7 @@ Basic Structure:
 | 表示顺序   | first/first of all/ firstly/initially/During the initial phase/to begin with/once<br><br>second/then/next/in the meantime/meanwhile/prior to/until/simultaneously<br><br>The first stage involves……/ the seconds stage is……/in the third stage/in the last stage/ |
 | 表示目的   | In order to/In order that/ so that/so as to…….                                                                                                                                                                                                                    |
 
-![](assets/1748775132018.png)
+![](https://photo.mxr612.io/api/v1/t/6525db530835995e9713f776479bb891ef3c48f2/ui8yksrc/fit_1280)
 
 #### 1.3.3 地图
 
@@ -128,7 +128,7 @@ there be/we can see/lie/be located/ be situated (in/at)、can be found in the ea
 
 
 >认清今天讨论话题的方向，能从不同的角度对于个人观点进行展开。
-![Picture](../../2025_IELTS/Writting/assets/Picture.png)
+![](https://photo.mxr612.io/api/v1/t/823be5bdafe9a8906d67d96acbd5caa26cfbbc17/ui8yksrc/fit_1280)
 ### 2.1 Agree and Disagree
 
 - [00_试听课笔记](CouseNote/00_试听课笔记.docx)
