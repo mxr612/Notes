@@ -311,7 +311,7 @@ For deeper analysis (e.g., societal impacts):
 
 - _"From a societal perspective, this matters because..."_ (Link to [Note - IELTS Writing](obsidian://open?file=note.mxr612.io%2FIELTS%2FNote%20-%20IELTS%20Writing.md)’s "Scope" section for broader themes like economy, ethics, etc.).
 
-## 12. Advantage and Disadvantage
+## 12. Advantage and Disadvantage ++--
 
 Introduction:
 - Well, I suppose that there are quite a few clear benefits
@@ -333,6 +333,7 @@ Introduction:
 > How can I effectively solve this challenge?
 > What strategies have worked for others in similar situations?
 
+
 Beginning
 - A variety of strategic measures can be implemented to effectively address this issue.
 - There exists a range of practical and well-considered actions that may be employed to tackle the concern in a systematic and effective manner
@@ -341,14 +342,15 @@ Beginning
 
 Solution
 - This challenge can be addressed through the adoption of multiple targeted strategies, each designed to resolve a specific aspect of the difficulty.
-- In order to resolve this matter, stakeholders may consider a diverse array of solutions, each requiring careful planning and exaction.
-- To manage this situation effectively, it is essential to evaluate and implement  a serious of well-structured response tailored to specific content.
+- In order to resolve this matter, **stakeholders** may consider a diverse array of solutions, each requiring careful planning and exaction.
 - An assortment of remedial actions is available, which, if appropriately coordinated, could significantly alleviate the underlying issue.
 
-> What can universities do to help students cope with academic pressure and stress?
-> How can time management skills be effectively taught to university students? What can governments do to ensure equal access to medical service for all citizens?
-> How can the shortage of medical staff in public hospitals be addressed?
-> What strategies can be implemented to improve the quality of public education?
-> How can teachers be better supported and motivated in public schools? What measures can be taken to reduce crime rates in urban areas?
+| Step/Strategy              | How to Apply in IELTS Speaking                                  |
+| -------------------------- | --------------------------------------------------------------- |
+| Identify the problem       | Restate the issue in your own words                             |
+| Suggest solutions          | Offer 1-2 practical, specific solutions                         |
+| Explain reasoning          | Briefly explain why your solution works                         |
+| Give examples              | Use personal experience or general examples                     |
+| Refer to common strategies | Mention what others do, compare approaches, use real-life cases |
 
 ## 14. Trend Predication
