@@ -437,3 +437,54 @@ Absolutely, teachers are crucial in a student's growth. Some may say, teachers a
 **Why do you think it is important to have a good law? (Law you would introduce)**
 
 Laws are there to protect people and keep social stability, therefore is super important. A good law is helpful to make sure that everyone are treated equally, and prevent the crime, making the country a safer place. Without a good law, the world would be in a chaos. Isn't it?
+
+## 12. Advantage and Disadvantage
+
+**What are the advantages and disadvantages of studying/working at home?**
+
+You don't need to get up early for commute, will have more comfortable environment. That's the positive side of study of work at home. But there are clear limitation that it's not suitable for co-operational work. (Example) You may enjoy it but meeting online are not effective as meeting offline.
+
+**What are the advantages and disadvantages of following people on social media?**
+
+It allows you to stay focused on what you're really interested in and stay updated with them, which saves your time. You can say goodbye to garbage information then. But I think it's fair to say that there are also negative aspects. The more you rely on users you're subscribing to, the less you think about different perspective. Therefore, the best practice should be subscribing to objective press and always do fact check.
+
+**What are the disadvantages of shopping in a street market? (from “a person who likes to buy goods at low prices”)**
+
+Shopping on street are throughout a terrible experience. Once you approach the market, the stink will drive you mad. You can even imagine dirty water running on the ground, and chickens shitting on the ground. But admittedly, buying from small merchant could save a lot compared with supermarkets. And they are always friendly and kind: being true is always a pleasure.
+
+**What are the pros and cons of studying as part of a group?**
+
+Study with a group of friend brings you wider perspective, and you can help each other in the field you are good at. And for the group work, you may be able to avoid the tricky part for you and co-operate with them.
+But you cannot always take the good, you get what you pay for.
+It's quite time-consuming because there are always someone who are confused and confusing others: which means they have totally no idea on what is supposed to do, and barely asking to help.
+
+**What do you think are the advantages and disadvantages of digital gifts compared with traditional ones?**
+
+I've read a report indicates 30% of Americans giving digital gift like gift-cards or games in web-shop instead of a real one. The pros are that digital gifts are super convenient, like, you can send them instantly, and you don't have to worry about shipping or anything. They're also eco-friendly, which is a plus. But the downside is, it may make people feel impersonal. You know, we like to have really creative and personalized gifts, which is the strength is traditional ones.
+
+## 13. Solution giving
+
+
+**Air pollution: What effective methods can be employed to reduce air pollution?**
+
+Such issue could be addressed by a series of implantations, each solves the issue in its way. Governments should adapt regulation in gas emit for factories and vehicles and encourage public transportation. Some say subway has already reduced co2 emit for 15% by replacing private vehicles and cubs. 
+
+**Memory: Do you think there are effective techniques to improve memory and reduce the occurrence of forgetting important things?**
+
+In my view, there are several **tricks of the trade** that can help **sharpen** one’s memory. For example, using mind maps can make information structured. Another method is to get enough sleep and exercise, since a healthy body often leads to a healthy mind. All things considered, with the right techniques, remembering things can be a piece of cake.
+
+**Children’s behavior: How can schools and families work together to teach children appropriate public behavior?**
+
+Personally speaking, there are a couple of factors contributing to this. First, schools can set the stage by teaching social norms and rewarding good behaviour—after all, **practice makes perfect.** Second, parents should lead by example at home, so kids could learn from an early age. Children will pick up good habits in no time with such co-operation.
+
+**Making friends: How can we keep in touch with old friends?**
+
+The most obvious way is to make use of social media and messaging apps, which make reaching out as easy as pie. Besides this, arranging regular get-togethers or video calls can help keep the friendship alive and kicking. In my eyes, as long as both parties make an effort, distance won’t be a stumbling block.
+
+**Disagreements: What communication skills do you think are important when trying to resolve a disagreement?**
+
+**I’m convinced that active listening is half the battle—if you lend an ear to the other person, it’s easier to find common ground.** You need to really hear to others sound. Don't just waste your turn to chat. Another crucial skill is always distinguishing fact and opinion. Fact are things can be proved, while opinion are just people's point of view. People should focus on fact but not opinion to save their time.
+
+**Shopping: In your opinion, how might return policies continue to evolve in the future to better serve both consumers and retailers?**
+
+I believe that return policies will become more flexible and user-friendly, perhaps allowing for longer return windows or hassle-free online returns. At the same time, business might introduce stricter checks to prevent people from taking advantage of the system—after all, **you can’t have your cake and eat it too**. 
