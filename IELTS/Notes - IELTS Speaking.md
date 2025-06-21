@@ -353,4 +353,39 @@ Solution
 | Give examples              | Use personal experience or general examples                     |
 | Refer to common strategies | Mention what others do, compare approaches, use real-life cases |
 
-## 14. Trend Predication
+## 14. Part2
+
+**Content or topic** 
+
+1. People 
+2. Place ; quiet place; lake or river; city 
+3. Object; 
+4. Event = personal experience; tour; party 
+5. Abstracted
+
+**Outline**
+
+- Section one: 
+	1. **Paraphrase** of the topic ; **introduction** of the topic; 
+	2. General **description** of the people; place or product; appearance ; source;
+- Section two: **Explain** ; reason = why do you think -> related to the topic
+	1. Supportive point one + specific example; personal experience; data analysis ; authority / report; government ; face to face interview; online survey/ questionnaire; 
+	2. The same 
+	3. The same
+- Section three 
+	1. **Restate the two or three points** that you mentioned above, 
+	2. To summarize ; influence; personality shaping; academic performance; attitude change; interpersonal relationships;
+
+To make the **Audience** clearly get your point, use **Discourse markers or connective**:
+-  To embark on this topic, 
+- to kick off; 
+- at the top of my head; 
+- What’s more; moreover;
+- in addition; additionally; 
+- furthermore; 
+- In a word; 
+- in a nuthshell; 
+- all in all; 
+- lastly; 
+- finally;
+
