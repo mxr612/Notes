@@ -130,9 +130,8 @@ there be/we can see/lie/be located/ be situated (in/at)、can be found in the ea
 >认清今天讨论话题的方向，能从不同的角度对于个人观点进行展开。
 
 ![](https://photo.mxr612.io/api/v1/t/823be5bdafe9a8906d67d96acbd5caa26cfbbc17/ui8yksrc/fit_1280)
-### 2.1 Agree and Disagree
 
-- [00_试听课笔记](CouseNote/00_试听课笔记.docx)
+### 2.1 Agree and Disagree
 
 Questions like:
 
@@ -231,6 +230,15 @@ Brainwash
 
 ==In my opinion,==
 
+### 2.3 Advantages and disadvantages
 
-## References
+> Discuss the advantages and disadvantages
+> Do you think this is a positive or a negative development
 
+Which category of questions could be considered as type of 2.1 agree and disagree question by just turn it to "Do you agree that's a positive development/advantage?"
+
+### 2.4 Discuss reasons for some situations and provide suggestions
+
+> In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this?
+
+For these specific question, just follow them.

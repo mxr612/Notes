@@ -59,6 +59,51 @@ I usually try to go with the flow and stay positive. I like to put my best foot 
     - _"I didn’t give it much thought"_ (neutral).
     - _"It slipped my mind"_ (for forgetting).
 
+
+
+### Do & Doing
+
+>   Do you work or are you still studying?
+>   Do you often feel busy?
+>   Do you like doing puzzles?
+
+These questions are requiring candidates to describe who you are (name, identiﬁcation, hobby, and habit) and what are you doing now (accommodation , occupation). Usually in **Simple Present** (what not expecting to change) or **Present Continuous** (current status that my change in foreseeable future).
+
+Here are two examples of tenses used in current status.
+
+>   I live in London.
+>
+>   I am living in my friend’s flat.
+
+For the sake of elaboration, some related detail (What, Why, How) are needed:
+
+>   Professionally speaking, I'm currently working **in the field of** education **as a** curriculum designer, **where I** develop learning materials and collaborate with teachers to enhance student engagement.
+
+1.   Often
+
+2.   work/study: field, title, specific work
+3.   location: 
+
+>   I often (frequently; constantly; regularly; recurring) read books.
+
+### Done
+
+>   Have  you  ever  worn  a  hat  that  was completely out of your comfort zone?
+
+### Will Do
+
+>   What will you do when you feel bored?
+>
+>    How do you manage your time when you are busy? 
+
+### Favourite
+
+>   What's your favourite colour?
+
+### Opinion
+
+>   What should people do when they feel bored?
+
 ## 2. Personal information checking
 
 name; study; accommodation; hometown; identiﬁcation 
@@ -384,8 +429,41 @@ To make the **Audience** clearly get your point, use **Discourse markers or conn
 - in addition; additionally; 
 - furthermore; 
 - In a word; 
-- in a nuthshell; 
+- in a nutshell; 
 - all in all; 
 - lastly; 
 - finally;
+
+### People
+
+- Relationship
+- How you make acquaintance
+- Sayings and behaviours - Interactions
+- Comments
+
+### Place
+
+> quiet place
+> lake or river
+> city
+
+Prospective:
+
+- Where (related to time and besides)
+- Function
+- People & activity
+- 
+
+### Object
+
+- How did you get it (where, who)
+- Use it for what
+- 
+
+### Event
+
+personal experience; tour; party 
+
+### Abstracted
+
 
