@@ -87,7 +87,7 @@ He/she would make no attempt to change the behavior of the people being observed
   - Negative correlation: when one variable increases, the other decreases
 - NOT implying causation
 
- #### Experimental Method
+#### 4.1.4. Experimental Method
 
 One or more factors (IVs) are systematically changed to determine whether the changes will affect one or more factors (DVs)
 

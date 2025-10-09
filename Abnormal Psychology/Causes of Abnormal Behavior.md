@@ -1,3 +1,7 @@
+---
+Course:
+  - PSYG2500 Abnormal Psychology
+---
 
 ## 1. Risk Factors and Causes of Abnormal Behavior
 
