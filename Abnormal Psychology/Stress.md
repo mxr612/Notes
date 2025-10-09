@@ -1,21 +1,23 @@
-# 4. Stress
+---
+Course: PSYG2500 Abnormal Psychology
+---
 
-## What Is Stress?
+## 1. What Is Stress?
 
 - External demands placed on an organism
 - Organism’s internal biological and psychological responses to such demands
 
-### Behavioral Medicine
+### 1.1. Behavioral Medicine
 
 Concerned with psychological factors that may predispose an individual to medical problems: Health psychology  
 The effects of stress and other psychological factors in the development and maintenance of physical problems
 
-### Stress and *DSM*
+### 1.2. Stress and *DSM*
 
 - Significant component of multiple DSM diagnostic categories
 - DSM-5: Trauma- and stressor-related disorders
 
-### Factors Predisposing a Person to Stress
+### 1.3. Factors Predisposing a Person to Stress
 
 - Experience of crisis
 - Life changes
@@ -23,7 +25,7 @@ The effects of stress and other psychological factors in the development and mai
 - Individual stress tolerance
 - Lack of external resources and social supports
 
-### Characteristics of Stressors
+### 1.4. Characteristics of Stressors
 
 Life changes, Crises, and Perception of benefits.
 
@@ -43,7 +45,7 @@ Measuring Life Stress
 	- Interview-based
 	- Rates chronic and acute stress
 
-### Resilience
+### 1.5. Resilience
 
 Factors linked to resilience:
 
@@ -54,9 +56,9 @@ Factors linked to resilience:
 - Positive thinking
 - Self confidence
 
-## Stress and Physical Health
+## 2. Stress and Physical Health
 
-#### Allostatic load
+#### 2.1. Allostatic load
 
 Biological cost of adapting to stress.
 
@@ -64,7 +66,7 @@ Biological cost of adapting to stress.
 - Everyday forms of stress can also elevate risk for coronary heart disease and death
 - Mental stress raises blood pressure, migraine,  and elevates epinephrine levels
 
-#### The Stress Response
+#### 2.2. The Stress Response
 
 Two of body’s systems respond when stressor is perceived:
 

@@ -1,6 +1,6 @@
-# 3. Social Cognition
-
-> PSYG2504 Social Psychology
+---
+Course: PSYG2504  Social psychology
+---
 
 **Social cognition:**  
 
@@ -18,7 +18,7 @@
 Thinking that is nonconscious, unintentional, involuntary, and effortless (Heuristics & Schemas).  
 Low-effort thinking (vs. High-effort thinking: thinking that is conscious, intentional, voluntary and effortful)
 
-## 3.1 Heuristics (mental shortcuts)
+## 1. Heuristics (mental shortcuts)
 
 *People use to make judgements quickly and efficiently.*
 
@@ -33,7 +33,7 @@ We have too much information, Heuristics let us do more, with less effort.
 - Anchoring and adjustment
 - Status quo
 
-### 3.1.1 Representativeness heuristic
+### 1.1. Representativeness heuristic
 
 *A mental shortcut whereby people classify something according to how similar it is to a typical case.*
 
@@ -44,7 +44,7 @@ The judgments are often accurate because we follow the group norms in behavior a
 - *Base rates* – the frequency with a given event/patterns occur in the total population
 - *Discounting other important information*
 
-### 3.1.2 Availability heuristic
+### 1.2. Availability heuristic
 
 *A strategy to make judgments based on how *easily* specific kinds of information brought to our mind.*  
 The more easily recall something (something dramatic), the greater its impact on subsequent judgments or decisions.
@@ -56,18 +56,18 @@ Judgements about objects that we are personally familiar with (e.g. consumer bra
 overestimate the probability of events that are dramatic but rare.  
 E.g. car accidents vs flight accidents
 
-### 3.1.3 Anchoring and adjustment
+### 1.3. Anchoring and adjustment
 
 *The tendency to use something we know (anchor) as a starting point to which we then make adjustments to deal with uncertainty.*
 
 - We use particular standard as a starting point (anchor), then try to determine if we should guess higher or lower than the starting point (adjustment) (DeLamater & Myers, 2011)
 - We use ‘self’ as the anchor
 
-### 3.1.4 Problem: Negative Bias
+### 1.4. Problem: Negative Bias
 
 *The fact that we show greater sensitivity and likely to remember the negative information than to positive information.*
 
-## 3.2 Schemas
+## 2. Schemas
 
 *Mental structures people use to organize their knowledge about the social world around themes or subjects and that influence the information people notice, think about and remember.*
 
@@ -75,7 +75,7 @@ E.g. car accidents vs flight accidents
 - Help us organize and make sense of the world and to fill in the gaps of our knowledge.
 - Particularly useful in confusing or ambiguous situations.
 
-### 3.2.1 Advantages of Schematic Processing
+### 2.1. Advantages of Schematic Processing
 
 Schemas aid and speed up information processing:
 
@@ -85,7 +85,7 @@ Schemas aid and speed up information processing:
 - Perceive and label the new information which is consistent or inconsistent with the schemas
 - Reduce ambiguous elements in the situation
 
-### 3.2.2 Limitations of Schematic Processing
+### 2.2. Limitations of Schematic Processing
 
 People fill in gaps with information that does not belong but is schema-consistent.  
 People may ignore information which does belong but is schema-inconsistent 
@@ -93,7 +93,7 @@ Selective attention.
 
 **Halo effect (Thorndike, 1920):** A general bias in which a favorable or unfavorable general impression of a person affects our inferences and future expectations about that person.
 
-#### Confirmation bias (confirmatory hypothesis testing)
+#### 2.2.1. Confirmation bias (confirmatory hypothesis testing)
 
 *A tendency to search for information that confirms our original hypotheses and beliefs.*  
 People are overly accepting of information that fits a schema.
@@ -103,7 +103,7 @@ People tended to select questions from a provided list that confirmed the hypoth
 
 Holding an opposite hypothesis or having a need for valid information reduces the degree to which people selectively confirm hypotheses.
 
-#### Self-fulfilling prophecies
+#### 2.2.2. Self-fulfilling prophecies
 
 *People have an expectation about what another person is like, which influences how they act toward that person, which causes that person to behave consistently with people’s original expectations, making the expectations come true.*
 
@@ -126,13 +126,13 @@ Snyder, Tanke, and Berscheid (1977) gave male students a photograph of either an
 In fact, the photos were fake and were randomly assigned to women regardless of their true looks.
 Men who believed they were talking to a more attractive woman behaved more warmly. The woman in turn seemed more sociable, friendly, and likeable.
 
-#### Belief perseverance (perseverance effect)
+#### 2.2.3. Belief perseverance (perseverance effect)
 
 *Schemas remain unchanged even in face of contradictory information (e.g. Kunda & Oleson, 1995).*  
 e.g. 20 years ago, we found it hard to believe a priest or a teacher would molest children.  
 It is very difficult to demolish a belief once we have established a rationale of the belief.
 
-## 4. Affect and cognition
+## 3. Affect and cognition
 
 *When we are in good mood, we tend to perceive everything in positive manner (people, the world, ideas…). *  
 Mood congruence effects,Mood dependent memory.

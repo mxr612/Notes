@@ -1,23 +1,22 @@
-# 2. Causes of Abnormal Behavior
 
-## Risk Factors and Causes of Abnormal Behavior
+## 1. Risk Factors and Causes of Abnormal Behavior
 
 - A **necessary cause** (X) is a condition that must exist for a disorder (Y) to occur.
 - A **sufficient cause** of a disorder is a condition that guarantees the occurrence of a disorder.
 - A **contributory cause** is one that increases the probability of a disorder developing but is neither necessary nor sufficient for the disorder to occur.
 
-### Causes of Abnormal Behavior
+### 1.1. Causes of Abnormal Behavior
 
 - **Distal risk factors** are causal factors occurring relatively early in life that may not show their effects for many years.
 - **Proximal (immediate) risk factors** are factors that operate shortly before the occurrence of the symptoms of a disorder.
 
 ![Causes of Abnormal Behavior](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/09/663ca780b05ce.jpg)
 
-### Feedback and Bidirectionality in Abnormal Behavior
+### 1.2. Feedback and Bidirectionality in Abnormal Behavior
 
 In the study of abnormal psychology, it can be challenging to determine with certainty which conditions are causes and which are effects due to the complex and bidirectional nature of mental health disorders.
 
-### Diathesis-Stress Models
+### 1.3. Diathesis-Stress Models
 
 Combination of diathesis and stress to cause disorder.
 
@@ -26,7 +25,7 @@ Combination of diathesis and stress to cause disorder.
 
 ![Diathesis-Stress Models](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/09/663ca8f27500c.jpg)
 
-### Protective factors
+### 1.4. Protective factors
 
 Stronger Resilience with:
 
@@ -34,23 +33,23 @@ Stronger Resilience with:
 - Exposure to stressful experiences that are dealt with successfully
 - Emotional intelligence
 
-## Perspectives to Understand the Causes of Abnormal Behavior
+## 2. Perspectives to Understand the Causes of Abnormal Behavior
 
-### The Biological Perspective
+### 2.1. The Biological Perspective
 
 Four categories of biological factors relevant to maladaptive behavior.
 
-#### Genetic vulnerabilities
+#### 2.1.1. Genetic vulnerabilities
 
 Heredity is important predisposing contributory cause for number of disorders.
 
-##### The Relationship of Genotypes to Phenotypes
+##### 2.1.1.1. The Relationship of Genotypes to Phenotypes
 
 **Genotype:** Total genetic endowment.
 
 **Phenotype:** Observed structural and functional characteristics.
 
-##### Methods for Studying Genetic Influences
+##### 2.1.1.2. Methods for Studying Genetic Influences
 
 **Traditional methods:** 
 
@@ -63,7 +62,7 @@ Heredity is important predisposing contributory cause for number of disorders.
 - Linkage analysis 
 - Association studies
 
-#### Brain dysfunction and neural plasticity
+#### 2.1.2. Brain dysfunction and neural plasticity
 
 Subtle deficiencies of brain function are rarely implicated in mental disorders.
 
@@ -73,7 +72,7 @@ The Developmental Systems Approach
 
 ![Bidirectional Influences](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/09/663caab060675.jpg)
 
-#### Neuro-transmitter & hormonal abnormalities in brain and CNS
+#### 2.1.3. Neuro-transmitter & hormonal abnormalities in brain and CNS
 
 **Neurotransmitter imbalances:**
 
@@ -97,7 +96,7 @@ Hypothalamic-pituitary-adrenal (HPA) axis:
 - Pituitary releases ACTH, which stimulates cortical part of the adrenal gland, produces epinephrine (adrenaline) and cortisol
 - Cortisol provides negative feedback to hypothalamus and pituitary to decrease their release of CRH and ACTH, which in turn reduces the release of adrenaline and cortisol
 
-#### Temperament
+#### 2.1.4. Temperament
 
 **Temperament:**  
 
@@ -112,9 +111,9 @@ Early temperament is basis from which personality develops.
 - Activity level
 - Attentional persistence and effortful control
 
-### The Psychological Perspective
+### 2.2. The Psychological Perspective
 
-#### Psychodynamic
+#### 2.2.1. Psychodynamic
 
 **Freud** theorized that a person’s behavior results from interaction of:
 
@@ -129,14 +128,14 @@ Early temperament is basis from which personality develops.
 - Object-relations theory
 - Interpersonal perspective
 
-#### Behavioral
+#### 2.2.2. Behavioral
 
 - Classical Conditioning
 - Operant Conditioning
 - Generalization and Discrimination
 - Observational Learning 
 
-#### Cognitive-Behavioral
+#### 2.2.3. Cognitive-Behavioral
 
 - **Schema:** Underlying  representation  of knowledge  that guides  current  processing of  information
 - **Attributions:** Process of  assigning causes  to things that  happen
@@ -147,25 +146,25 @@ Early temperament is basis from which personality develops.
 - The way we interpret events and  experiences determines our emotional  reactions to them.
 - Clinicians use a variety of techniques  designed to alter a client’s  negative  cognitive biases.
 
-### The Social Perspective
+### 2.3. The Social Perspective
 
 Factors with detrimental effects on a child’s socioemotional development.
 
-#### Early deprivation or trauma
+#### 2.3.1. Early deprivation or trauma
 
 - Depriving essential resources
 - Institutionalization
 - Neglect and abuse at home
 - Separation from parents
 
-#### Problems in parenting style
+#### 2.3.2. Problems in parenting style
 
 A parent–child relationship is always bidirectional:  
 Parents who have various forms of psychopathology tend to have one or more children at heightened risk for a wide range of developmental difficulties.
 
 ![parenting style](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/09/663cae380ff2e.jpg)
 
-#### Marital discord & divorce
+#### 2.3.3. Marital discord & divorce
 
 **Long-standing marital discord:** 
 
@@ -178,34 +177,34 @@ Parents who have various forms of psychopathology tend to have one or more child
 - Delinquency
 - Lower educational attainment
 
-#### Low Socioeconomic Status and Unemployment
+#### 2.3.4. Low Socioeconomic Status and Unemployment
 
 In our society, the lower the socioeconomic class, the higher the incidence of mental and physical disorders.
 
 - Children and adolescents from lower socioeconomic status (SES) families tend to have more psychological problems.
 - Studies have repeatedly found unemployment to be associated with enhanced vulnerability to psychopathology.
 
-#### Maladaptive peer relation-ships
+#### 2.3.5. Maladaptive peer relation-ships
 
 - Peer exclusion or abuse 
 - Proactive and reactive aggression in bullying
 - Cyberbullying
 
-#### Prejudice and Discrimination in Race, Gender, and Ethnicity
+#### 2.3.6. Prejudice and Discrimination in Race, Gender, and Ethnicity
 
 Increased prevalence of certain mental disorders may be related to:
 
 - Prejudice against minority groups and women 
 - Perceived discrimination and self-esteem
 
-### The Cultural Perspective
+### 2.4. The Cultural Perspective
 
 **Cultural context of behavior:**  
 
 - Universal and Culture-Specific Symptoms of Disorders
 - Culture: Over-and Undercontrolled Behavior
 
-#### Universal and Culture-Specific Symptoms of Disorders
+#### 2.4.1. Universal and Culture-Specific Symptoms of Disorders
 
 **Universality of some disorders:**  
 
@@ -216,7 +215,7 @@ Increased prevalence of certain mental disorders may be related to:
 - Which disorders develop
 - Prevalence, course 
 
-#### Culture: Over- and Undercontrolled Problem
+#### 2.4.2. Culture: Over- and Undercontrolled Problem
 
 **Undercontrolled problem:**  
 

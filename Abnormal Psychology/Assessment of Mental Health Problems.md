@@ -1,10 +1,12 @@
-# 3. Assessment of Mental Health Problems
+---
+Course: PSYG2500 Abnormal Psychology
+---
 
-## Introduction to Basic Elements in Assessment
+## 1. Introduction to Basic Elements in Assessment
 
 Interaction of **Importance of trust and rapport** and **Impact on assessment** process.
 
-### Identification of presenting problem
+### 1.1. Identification of presenting problem
 
 - Situational or pervasive?
 - Duration?
@@ -13,13 +15,13 @@ Interaction of **Importance of trust and rapport** and **Impact on assessment** 
 - How does problem impact social roles?
 - Does problem match any DSM-5 disorder criteria?
 
-### Advantage of classification of presenting problem
+### 1.2. Advantage of classification of presenting problem
 
 - Treatment planning
 - Knowledge of range of diagnostic problems
 - Insurance payment
 
-### Good assessment includes
+### 1.3. Good assessment includes
 
 - social history noting:
 	- Personality factors
@@ -28,7 +30,7 @@ Interaction of **Importance of trust and rapport** and **Impact on assessment** 
 	- May determine assessment techniques
 	- Does not limit clinician to one type of assessment
 
-### Dynamic formulation
+### 1.4. Dynamic formulation
 
 Describes the current situation but also includes hypotheses about what is driving the person to behave in maladaptive ways.
 
@@ -36,29 +38,29 @@ Describes the current situation but also includes hypotheses about what is drivi
 - Decisions about treatment are made collaboratively  with the consent and approval of the individual.
 - Assessment may involve the coordinated use of physical, psychological, and environmental procedures.
 
-### Psychological Assessments are
+### 1.5. Psychological Assessments are
 
 - Reliable
 - Valid
 - Standardized
 
-## Assessment of the Physical Conditions
+## 2. Assessment of the Physical Conditions
 
-### General physical examination
+### 2.1. General physical examination
 
 Many psychological problems have physical components either as
 
 - Causal factors
 - Symptom patterns
 
-### Neurological examination
+### 2.2. Neurological examination
 
 - **EEG:** graphical record of brain’s electrical activity
 - **CAT scan & MRI:** images of brain structures that may be damaged or diseased
 - **PET scan:** metabolic activity of specific compounds
 - **fMRI:** mapping psychological activity to specific regions in the brain
 
-### Neuro-psychological examination
+### 2.3. Neuro-psychological examination
 
 - Involves use of expanding array of testing devices
 - Measures cognitive, perceptual, and motor performance
@@ -72,30 +74,30 @@ Many psychological problems have physical components either as
 - **Speech Sounds Perception Test:** Identify spoken words
 - **Finger Oscillation Task:** Speed
 
-## Psychosocial Assessment
+## 3. Psychosocial Assessment
 
-### Assessment Interviews
+### 3.1. Assessment Interviews
 
 - Face-to-face interaction
 - Structured interviews
 - Unstructured interviews
 
-### Clinical Observation of Behavior
+### 3.2. Clinical Observation of Behavior
 
 - Clinical observation in natural environments
 - Clinical observations in therapeutic or medical settings
 - Self-monitoring
 
-### Psychological Tests
+### 3.3. Psychological Tests
 
-#### Intelligence tests
+#### 3.3.1. Intelligence tests
 
 - WISC-IV(children); WAISIV (adults)
 - Stanford-Binet
 
-#### Personality tests
+#### 3.3.2. Personality tests
 
-##### Projective personality tests
+##### 3.3.2.1. Projective personality tests
 
 - Unstructured stimuli are presented
 - Meaning or structure projected onto stimuli
@@ -107,19 +109,19 @@ Many psychological problems have physical components either as
 - Thematic Apperception Test (TAT)
 - Sentence Completion Test
 
-##### Objective personality tests
+##### 3.3.2.2. Objective personality tests
 
 Examples: NEO-PI, MMPI-2
 
 Objective personality tests offer several advantages, such as standardization, efficiency, and ease of administration, but also have limitations, including limited depth, potential response distortion, and cultural bias.
 
-## The Integration of Assessment Data
+## 4. The Integration of Assessment Data
 
 - Developing integrated, coherent working model
 - Utilizing individual or team approach
 - Identifying definitive picture vs. discrepancie
 
-### Ethical Issues in Assessment
+### 4.1. Ethical Issues in Assessment
 
 - Potential cultural bias
 - Theoretical orientation of clinician
@@ -127,14 +129,14 @@ Objective personality tests offer several advantages, such as standardization, e
 - Insufficient validation
 - Inaccurate data or premature evaluation
 
-## Classifying Abnormal Behavior
+## 5. Classifying Abnormal Behavior
 
 - Classification involves attempts to delineate meaningful sub-varieties of maladaptive behavior.
 - Classification makes it possible to communicate about particular clusters of abnormal behavior in agreed-on and relatively precise ways.
 - Classification of some kind is a necessary first step toward introducing order into our discussion of the nature, causes, and treatment of such behavior.
 - Classification enables the clarification of insurance issues.
 
-### Differing Models of Classification
+### 5.1. Differing Models of Classification
 
 Three basic approaches include:
 
@@ -147,29 +149,29 @@ to absolutely impaired functioning
 a conceptual entity depicts an idealized combination of
 characteristics, some of which the patient may not have
 
-### Formal Diagnostic Classification of Mental Disorders
+### 5.2. Formal Diagnostic Classification of Mental Disorders
 
 - Diagnostic and Statistical Manual of Mental Disorders (DSM-5)
 - International Classification of Disease (ICD-10)
 
-#### Definition criteria based on:
+#### 5.2.1. Definition criteria based on:
 
 - Symptoms (subjective)
 - Signs (objective)
 
-#### The DSM-5
+#### 5.2.2. The DSM-5
 
 - More comprehensive and more subtypes of disorders
 - Allows for gender related differences in diagnosis
 - Provides structured interview regarding cultural influences
 
-#### Problem of diagnostic labeling
+#### 5.2.3. Problem of diagnostic labeling
 
 - Allows label capturing more than a behavioral pattern
 - Creates assumptions among clinicians
 - Creates social identity (stigma)
 
-#### Diagnostic Interviews
+#### 5.2.4. Diagnostic Interviews
 
 - Unstructured:
 	-  Freewheeling

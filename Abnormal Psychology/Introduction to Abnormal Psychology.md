@@ -1,6 +1,8 @@
-# 1.1 Introduction to Abnormal Psychology
+---
+Course: PSYG2500 Abnormal Psychology
+---
 
-### Course Objectives:
+### 1. Course Objectives:
 
 This course aims at providing students with a survey of
 behavioral disorders in terms of the biological,
@@ -11,7 +13,7 @@ disorders will be discussed, the primary emphasis will
 be put on the scientific study of these disorders from an
 empirical perspective
 
-### Course Intended Learning Outcomes:
+### 2. Course Intended Learning Outcomes:
 
 Describe and explain the symptomatology, etiology and
 therapy of various disorders introduced in the course

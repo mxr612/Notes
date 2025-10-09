@@ -1,27 +1,27 @@
-# 10. Altruism
+---
+Course: PSYG2504  Social psychology
+---
 
-> PSYG2504 Social Psychology
-
-## 10.1. Definitions
+## 1. Definitions
 
 ***Prosocial Behavior**: Any act performed with the goal of benefiting another person*.
 
 ***Altruism**: The desire to help another person even if it involves a cost to the helper*.
 
-## 10.3 Why do we help?
+## 2. Why do we help?
 
-### 10.3.1 A decision-making perspective (Latané & Darley, 1970)
+### 2.1. A decision-making perspective (Latané & Darley, 1970)
 
 *People decide whether or not to offer assistance based on a variety of perceptions and evaluations.*
 Help is offered only if a person answers “yes” at each step.
 
 ![Picture2.jpg](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/12/66409ac6db389.jpg)
 
-#### Notice the event
+#### 2.1.1. Notice the event
 
 When we are distracted or in a hurry, we don’t help.
 
-#### Correctly interpreting an event as an emergency
+#### 2.1.2. Correctly interpreting an event as an emergency
 
 *Cues that lead us to perceive an event as an emergency (Shotland & Huston, 1979).*
 
@@ -36,7 +36,7 @@ When we are distracted or in a hurry, we don’t help.
 > Alternative condition: without verbal cues that the victim was injured
 > Help was offered only about 30% of the time.
 
-#### Deciding that it is your responsibility to help
+#### 2.1.3. Deciding that it is your responsibility to help
 
 *Being given responsibility increases helping.*
 
@@ -45,7 +45,7 @@ When we are distracted or in a hurry, we don’t help.
 > Control: 20%
 > Experimental: 95%
 
-#### Deciding that you have the knowledge or skills to act
+#### 2.1.4. Deciding that you have the knowledge or skills to act
 
 In emergencies, decisions are made under high stress and sometimes even personal danger.
 Well-intentioned helpers may not be able to give assistance or may mistakenly do the wrong thing.
@@ -53,13 +53,13 @@ Well-intentioned helpers may not be able to give assistance or may mistakenly do
 > Crammer et al. (1988)
 > When there is an accident and possible: injury, a registered nurse is more likely to help than non-medical people.
 
-#### Weighing the Costs and Benefits
+#### 2.1.5. Weighing the Costs and Benefits
 
 At least in some situations, people weigh the costs and benefits of helping
 People sometimes consider the consequences of NOT helping.
 However, in other cases, helping may be impulsive and determined by basic emotions and values rather than by expected profits.
 
-### 10.3.2 A sociocultural perspective
+### 2.2. A sociocultural perspective
 
 *Human societies have gradually evolved beliefs or social norms that promote the welfare of the group.*
 
@@ -71,9 +71,9 @@ However, in other cases, helping may be impulsive and determined by basic emotio
 - **Norm of Social Justice**  
   Maintain equitable distribution of rewards.
 
-### 10.3.3 A learning perspective
+### 2.3. A learning perspective
 
-#### We learn to be helpful through reinforcement.
+#### 2.3.1. We learn to be helpful through reinforcement.
 
 Children help and share more when they are reinforced for their helpful behavior.
 
@@ -82,21 +82,21 @@ Children help and share more when they are reinforced for their helpful behavior
 > (Dispositional praise) ‘You are a very nice and helpful person’ vs. (Global praise)‘That was a nice and helpful thing to do’.
 > Dispositional praise appears to be more effective than global praise.
 
-#### We learn to be helpful through observation.
+#### 2.3.2. We learn to be helpful through observation.
 
 Children and adults exposed to helpful models are more helpful.
 For children, helping may depend largely on reinforcement and modeling to shape behavior, but as they get older, helping may be internalized as a value, independent of external incentives.
 
-### 10.3.4 Attribution
+### 2.4. Attribution
 
 *We are more likely to be empathetic and to perceive someone as deserving help if we believe that the cause of the problem is outside the person’s control.*
 
 > Myer & Mulherin (1980)
 > College students would be more willing to lend rent money to an acquaintance if the need arose due to illness rather than laziness.
 
-## 10.4 Who helps?
+## 3. Who helps?
 
-### 10.4.1 Mood and Helping
+### 3.1. Mood and Helping
 
 *People are more willing to help when they are in a good mood.*
 
@@ -105,7 +105,7 @@ For children, helping may depend largely on reinforcement and modeling to shape 
 - Music: have listened to soothing music (Fried & Berkowitz, 1979)
 - Odor: smelled cookies or coffee (Baron, 1997)
 
-#### Mood-maintenance hypothesis
+#### 3.1.1. Mood-maintenance hypothesis
 
 *“Doing good” enables us to continue to feel good.*
 
@@ -116,7 +116,7 @@ For children, helping may depend largely on reinforcement and modeling to shape 
 
 > Only 20 minutes in one study (Isen, Clark, & Schwartz, 1976)
 
-#### Negative moods sometimes lead to more helping
+#### 3.1.2. Negative moods sometimes lead to more helping
 
 ***Negative-state relief model** suggests that people may help as a way to make themselves feel better (Cialdini, Darby, & Vincent, 1973).*
 Helping made college students feel more cheerful and feel better about themselves (Williamson & Clark, 1989).
@@ -127,7 +127,7 @@ Helping others may reduce their guilty feelings.
 Less likely to occur if a person is focused on themselves and their own needs
 e.g. during profound grief (e.g. Aderman & Berkowitz, 1983).
 
-### 10.4.2 Empathy
+### 3.2. mpathy
 
 *Empathy refers to feelings of sympathy and caring for others.*
 
@@ -135,7 +135,7 @@ The emotional reactions that are focused on or oriented toward other people and 
 Occurs when we focus on the needs and the emotions of the victim.
 Fosters altruistic helping.
 
-### 10.4.3 Personality Characteristics
+### 3.3. Personality Characteristics
 
 There is no single type of “helpful person”.
 The effect of personality on altruism
@@ -144,9 +144,9 @@ The effect of personality on altruism
 - People high in positive emotionality, empathy, and self-efficacy are most likely to be helpful
 - Influences how people react to particular situations, i.e. people who are more sympathetic to the victim in emergency situations respond faster
 
-## 10.5 Whom do we help?
+## 4. Whom do we help?
 
-### 10.5.1 Gender
+### 4.1. Gender
 
 - Men are more likely to provide help to women in distress (e.g. Latané & Dabbs, 1975), especially when there is an audience.
 - Men offered more help to women while women are equally helpful to both sexes (Eagly & Crowley, 1986).
@@ -167,7 +167,7 @@ The effect of personality on altruism
 > No difference between experimental and control
 > No difference between male or female research assistant
 
-### 10.5.2 Physically attractive
+### 4.2. Physically attractive
 
 > Benson, Karabenick, and Lerner (1976).
 > Subjects found a completed and ready-to-mail application to graduate school in a telephone booth at the airport
@@ -178,7 +178,7 @@ The effect of personality on altruism
 > Attractive: 47%
 > Unattractive: 35%
 
-### 10.5.3 Similarity
+### 4.3. Similarity
 
 > Emswiller, Deaux, and Willits (1971)
 > Confederates dressed as a ‘hippie’ or ‘conservative’
@@ -187,9 +187,9 @@ The effect of personality on altruism
 > Fewer than half the students did the favor for those dressed differently from themselves
 > Two-thirds helped those dressed similarly
 
-## 10.6 When do we help?
+## 5. When do we help?
 
-### 10.6.1 Bystander effect
+### 5.1. Bystander effect
 
 *The presence of other people makes it less likely that anyone will help a stranger in distress.*
 
@@ -208,7 +208,7 @@ The effect of personality on altruism
 > DV1: % of students left and helped
 > DV2: time they waited before acting
 
-#### Why does the bystander effect occur?
+#### 5.1.1. Why does the bystander effect occur?
 
 1. **Diffusion of responsibility ** 
 *The presence of other people makes each individual feel less personally responsible.*
@@ -230,13 +230,13 @@ Assume the others ‘will do it’.
 >   Group: 1st minute: 10%; 6th minute: 38% 
 >   The behavior of other bystanders can influence how we define the situation and react to it 
 
-### 10.6.2 Environmental Conditions 
+### 5.2. Environmental Conditions
 People are more helpful to strangers when it’s pleasantly warm and sunny (Ahmed, 1979).
 
 People are more likely to help strangers in small towns & cities than in big cities (Levine et al., 1994).  
 What matters is current environmental setting, not the size of the hometown in which the person grew up.
 
-### 10.6.3 Time pressure
+### 5.3. Time pressure
 
 > Darley & Batson, 1973
 > Participants were students studying religion and were asked to give a short talk

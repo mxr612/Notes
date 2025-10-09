@@ -1,18 +1,18 @@
-# 8. Behaviors in Group
+---
+Course: PSYG2504  Social psychology
+---
 
-> PSYG2504 Social Psychology
-
-## 8.1 What is group?
+## 1. What is group?
 
 *Two or more people who interact and are interdependent in the sense that their needs and goals cause them to influence each other.*
 
-### 8.1.1 Why do people join groups?
+### 1.1. Why do people join groups?
 
 - Allow us to accomplish objectives that would be more difficult to meet individually.
 - A substantial survival advantage to establishing bond with other people.
 - Help us define who we are (i.e. identity).
 
-### 8.1.2 Behaviour in the Presence of others
+### 1.2. Behaviour in the Presence of others
 
 - Any differences of your behavior when you are doing it alone and performing in front of others? (Singing in the bathroom Vs singing in public?).
 - The presence of others sometimes enhances and sometimes impairs an individual’s performance
@@ -23,7 +23,7 @@ In summary: whether social facilitation or social loafing occurs depends on
 - Task complexity.
 - How much participants care about the outcome.
 
-## 8.2 Social Facilitation 
+## 2. Social Facilitation
 
 *When people are in the presence of others and their individual performances can be evaluated, the tendency to perform better on simple tasks and worse on complex tasks.*
 
@@ -41,7 +41,7 @@ In summary: whether social facilitation or social loafing occurs depends on
 > Poor players: accuracy dropped from 36 to 25%.
 > Good players: accuracy rose from 71 to 80%.
 
-### 8.2.1 Drive Theory of Social Facilitation/Inhibition (ZAJONC ET AL., 1969)
+### 2.1. Drive Theory of Social Facilitation/Inhibition (ZAJONC ET AL., 1969)
 
 - **Mere presence:** 
   The presence of others make us more alert. The alertness causes mild arousal.
@@ -56,21 +56,21 @@ In summary: whether social facilitation or social loafing occurs depends on
 Social facilitation and social inhibition occur when a person’s performance can be evaluated both by the individual and by observers.
 What would happen if the contributions of each member of a group could not be evaluated individually?
 
-## 8.3 Social Loafing 
+## 3. Social Loafing
 
 *When people are in the presence of others and their individual performances cannot be evaluated, the tendency to perform worse on simple or unimportant tasks but better on complex or important tasks.*
 
 When an individual’s contribution to a collective activity cannot be evaluated, individuals often work less hard than they would alone.
 
-### 8.3.1 Collective Effort Model (CEM) (Karau and Williams; 1993, 1995)
+### 3.1. Collective Effort Model (CEM) (Karau and Williams; 1993, 1995)
 
-#### Social loafing depends on
+#### 3.1.1. Social loafing depends on
 
 - How important the person believes his/her contribution is to group success.
 - How likely that better performance will be recognized and rewarded.
 - How much the person values group success.
 
-#### Social loafing will be weakest when
+#### 3.1.2. Social loafing will be weakest when
 
 - they expect their coworkers to perform poorly.
 - individuals work in small rather than big groups.
@@ -78,32 +78,32 @@ When an individual’s contribution to a collective activity cannot be evaluated
 - they work on tasks that are intrinsically interesting.
 - when they work with respected others, e.g. friends.
 
-### 8.3.2 Reducing Social Loafing 
+### 3.2. Reducing Social Loafing
 - Make each person’s contribution identifiable.
 - Provide rewards for high group productivity.
 - Make task meaningful, complex, or interesting.
 - A strong commitment to the ‘team’.
 - Keep work groups small.
 
-### 8.3.3 Social compensation
+### 3.3. Social compensation
 
 *Occurs when a person expends great effort to compensate for others in the group.*
 When others are performing inadequately, and the person cares about the quality of the group product.
 
-### 8.3.4 Other Factors
+### 3.4. Other Factors
 
-#### Gender
+#### 3.4.1. Gender
 
 - Stronger in men than in women (Karau & Williams, 1993)
 
 - Women tend to be higher in relational interdependence, i.e. focus on and care about personal relationships
 
-#### Cultures
+#### 3.4.2. Cultures
 - Stronger in Western cultures than Asian cultures (Karau & Williams, 1993).
 -  Social loafing has been found in India, Thailand, Japan, Malaysia and China.
 - People in collectivistic culture value group achievement more.
 
-## 8.4 Deindividuation
+## 4. Deindividuation
 
 *The loosening of normal constraints on behavior when people can’t be identified (such as when they are in crowd).*
 

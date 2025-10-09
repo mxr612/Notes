@@ -1,17 +1,19 @@
-# 1.2 Historical and Contemporary Views of Abnormal Behavior
+---
+Course: PSYG2500 Abnormal Psychology
+---
 
-## Historical Views of Abnormal Behavior
+## 1. Historical Views of Abnormal Behavior
 
-### Demonology, Gods, and Magic
+### 1.1. Demonology, Gods, and Magic
 
 1. Abnormal behavior attributed to demonic possession
-  1. Differentiated good vs. bad spirits based on the individual’s symptoms
-  2. Religious significance of possession
-2. Primary treatment for demonic possession was exorcism
+  2. Differentiated good vs. bad spirits based on the individual’s symptoms
+  3. Religious significance of possession
+4. Primary treatment for demonic possession was exorcism
     a. Various techniques including magic, prayer, incantation,
     noisemaking, and use of horrible-tasting concoctions
 
-### Hippocrates (460-377 B.C) Early Medical Concepts from Greek
+### 1.2. Hippocrates (460-377 B.C) Early Medical Concepts from Greek
 
 - Proposing that mental disorders had natural
 causes
@@ -19,9 +21,9 @@ causes
 or phrenitis
 - Associating dreams and personality
 
-### Early Philosophical Conceptions of Consciousness
+### 1.3. Early Philosophical Conceptions of Consciousness
 
-#### Plato (429-347 B.C.)
+#### 1.3.1. Plato (429-347 B.C.)
 
 - Viewed psychological phenomena as responses of the
   whole organism
@@ -31,20 +33,20 @@ or phrenitis
 - Believed that mental disorders were in part divinely
   caused
 
-#### Aristotle (384-322 B.C.)
+#### 1.3.2. Aristotle (384-322 B.C.)
 
 - Wrote lasting description of consciousness
 - “Thinking” as directed would eliminate pain,
   attain pleasure
 
-### Later Greek and Roman Thought
+### 1.4. Later Greek and Roman Thought
 
 - **Egyptian:** proposed wide range of therapeutic measures like dieting, massage, hydrotherapy, gymnastics and education.
 - **Greek:** proposed disease based on flow of atoms through the pores in the body.
   Galen from Greek (130-200) provided anatomy of nervous system.
 - **Roman:** medicine focused on comfort.
 
-### Early Views of Mental Disorders in China
+### 1.5. Early Views of Mental Disorders in China
 
 - One of earliest foci on mental disorders (2674 B.C.)
 - Emphasis on natural causes
@@ -52,15 +54,15 @@ or phrenitis
 - Experienced brief “Dark Ages” that blamed supernatural causes (late 200-900 A.D.)
 - Incorporation of ideas from Western psychiatry in last 50 years
 
-### Views of Abnormality During the Middle Ages
+### 1.6. Views of Abnormality During the Middle Ages
 
 - **Middle East:** had scientific approach.
 - **Europe:** was plagued with mass madness.
 - Relating the mental illness with witchcraft, and treatment included exorcism
 
-## Toward Humanitarian Approaches
+## 2. Toward Humanitarian Approaches
 
-### The Resurgence of Scientific Questioning in Europe
+### 2.1. The Resurgence of Scientific Questioning in Europe
 
 **Renaissance:**
 
@@ -68,14 +70,14 @@ or phrenitis
   Europe
 - Part of humanism movement
 
-### The Establishment of Early Asylums
+### 2.2. The Establishment of Early Asylums
 
 - First established in Sixteenth Century
 - “Madhouses”“Bedlam” storage places for the insane
 - Found throughout Europe; parts of U.S.
 - Aggressive treatment to restore “physical balance in body and brain”
 
-### Humanitarian Reform
+### 2.3. Humanitarian Reform
 
 - France:
   - Philippe Pinel (1745-1826)
@@ -89,7 +91,7 @@ or phrenitis
   - Dorothy Dix (1802-1887): suitable hospitals were built
   
 
-#### The military’s role in mental health treatment:
+#### 2.3.1. The military’s role in mental health treatment:
 
 - American Civil War (1861-1865)
   - First mental health facility opened
@@ -97,14 +99,14 @@ or phrenitis
   - Developed program of military psychiatry following FrancoPrussian War
   - Contributed to field of abnormal psychology
 
-### Nineteenth-Century Views of the Causes and Treatment of Mental Disorders
+### 2.4. Nineteenth-Century Views of the Causes and Treatment of Mental Disorders
 
 **Alienists (psychiatrists):**
 
 - Gained control of asylums
 - Emotional problems (“shattered nerves”) were caused by the   expenditure of energy or by the depletion of bodily energies as a   result of excesses in living
 
-### Changing Attitudes Toward Mental Health in the Early Twentieth Century
+### 2.5. Changing Attitudes Toward Mental Health in the Early Twentieth Century
 
 **Clifford Beers (1876-1943):**
 
@@ -112,7 +114,7 @@ or phrenitis
 - Straitjacket was still widely used
 - Began campaign for reform
 
-### Mental Hospital Care in the Twentieth Century
+### 2.6. Mental Hospital Care in the Twentieth Century
 
 - 1940
   - Most mental hospitals inhumane and ineffective
@@ -124,7 +126,7 @@ or phrenitis
     - Community Health Services Act (develop outpatient psychiatric clinics, community consultations, and rehab programs)
 
 
-#### Deinstitutionalization Movement
+#### 2.6.1. Deinstitutionalization Movement
 
 - Large numbers of mental hospital closures and shift to community-based residences
 - Global movement: Asia, Europe, U.S.
@@ -132,9 +134,9 @@ or phrenitis
 - Created problems for both patients and society as a whole
 
 
-## The Emergence of Contemporary Views of Abnormal Behavior
+## 3. The Emergence of Contemporary Views of Abnormal Behavior
 
-### The Emergence of Contemporary Views of Abnormal Behavior
+### 3.1. The Emergence of Contemporary Views of Abnormal Behavior
 
 **Recent changes:**
 
@@ -144,7 +146,7 @@ or phrenitis
 3. Emergence of psychological causation views
 4. Experimental psychological research developments
 
-### Biological Discoveries
+### 3.2. Biological Discoveries
 
 1. Biological and anatomical factors recognized as underlying both physical and mental disorders
 2. Cure for general paresis (syphilis of the brain)
@@ -152,21 +154,21 @@ or phrenitis
 3. Mental disorders an illness based on brain pathology
    - Downside: removal of body parts, lobotomies
 
-### The Development of a Classification System
+### 3.3. The Development of a Classification System
 
 **Kraepelin:**
 
 - Compendium der Psychiatrie (1883): forerunner to DSM
 - Specific types of mental disorders identified
 
-### Emergence of psychological causation views
+### 3.4. Emergence of psychological causation views
 
-#### Mesmerism:
+#### 3.4.1. Mesmerism:
 
 - Diseases treated by “animal magnetism”
 - Source of heated discussion in early nineteenth century
 
-#### Nancy School
+#### 3.4.2. Nancy School
 - Hypnotism and hysteria are related and due to suggestion
 - Hysteria, a form of self-hypnosis, could be caused and removed by hypnosis
 
@@ -174,7 +176,7 @@ or phrenitis
 
 - Are mental disorders caused by biological or psychological factors?
 
-#### Sigmund Freud (1856–1939)
+#### 3.4.3. Sigmund Freud (1856–1939)
 
 - First major steps toward understanding psychological factors in
   mental disorders
@@ -185,12 +187,12 @@ or phrenitis
   - Dream analysis
   - Emphasizes inner dynamics of unconscious motives
 
-### Experimental psychological research developments
+### 3.5. Experimental psychological research developments
 - **Wilhelm Wundt:** First experimental psychological laboratory
 - **J. McKeen Cattell:** Wundt’s methods to U.S.
 - **Lightner Witmer:** First American psychological clinic
 
-#### Behavioral perspective:
+#### 3.5.1. Behavioral perspective:
 
 Role of learning in humanbehavior.
 

@@ -1,8 +1,8 @@
-# 6. Persuasion
+---
+Course: PSYG2504  Social psychology
+---
 
-> PSYG2504 Social Psychology
-
-## 6.1 What is persuasion? 
+## 1. What is persuasion?
 
 Effect to change others’ attitudes through the use of various kinds of messages.
 
@@ -10,7 +10,7 @@ A symbolic process in which communicators try to convince other people to change
 
 The process by which a message induces a change in beliefs, attitudes, or behaviours (Myers, 2005).
 
-## 6.2 Cognitive Theory of Persuation
+## 2. Cognitive Theory of Persuation
 
 *Elaboration LIkeihood Model (“ELM”) by Petty, R. E. & Cacioppo, J. T. (1986).*
 
@@ -22,23 +22,23 @@ People can be simple as an information-processor or detailed, deep thinkers.
 
 ![Picture1.jpg](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/12/66407577c6337.jpg)
 
-### Systematic processing (central route to persuasion)
+### 2.1. Systematic processing (central route to persuasion)
 
 - The case in which people have the ability and the motivation to elaborate on a persuasive communication, listening carefully to and thinking about the arguments presented
 - Involves considerable cognitive elaboration
 - Requires effort and absorbs much of our information-processing capacity
 
-### Heuristic processing (peripheral route to persuasion)
+### 2.2. Heuristic processing (peripheral route to persuasion)
 
 - The case in which people do not elaborate on the arguments in a persuasive communication but are instead swayed by more superficial cues
 - Examine the message quickly and use of mental shortcuts
 - Requires less effort
 
-## 6.3 Elements of persuasion
+## 3. Elements of persuasion
 
-### 6.3.1 The communicator (Who says)
+### 3.1. The communicator (Who says)
 
-#### Credibility
+#### 3.1.1. Credibility
 
 *A credible communicator is perceived as both an expert and trustworthy.*
 
@@ -47,7 +47,7 @@ People can be simple as an information-processor or detailed, deep thinkers.
 - **Perceived trustworthiness**  
   Believing that the communicator is not trying to persuade (Hatfield & Festinger, 1962) – If you want to persuade someone, start with information, not arguments
 
-#### Attractiveness
+#### 3.1.2. Attractiveness
 
 - **Attractiveness**   
   Emotional arguments are often more influential when they come from people we consider beautiful.
@@ -55,9 +55,9 @@ People can be simple as an information-processor or detailed, deep thinkers.
 - **Similarity**   
   We tend to like people who are like us.
 
-### 6.3.2 The message content (What is said)
+### 3.2. The message content (What is said)
 
-#### Reason vs Emotion
+#### 3.2.1. Reason vs Emotion
 *Well-educated or analytical audience: rational appeals (Cacioppo et al., 1983, 1996).*
 
 - **The effect of good feelings**: more persuasive when there is an association between the messages and good feelings.  
@@ -68,16 +68,16 @@ People can be simple as an information-processor or detailed, deep thinkers.
 *The effect of arousing fear– messages that evoke negative emotions in the recipient.*  
 Fear appeals – a persuasive communication that tries to scare people into changing attitudes by conjuring up negative consequences that will occur if they do not comply with the message recommendations (the more frightened and vulnerable people feel, the more they respond).
 
-#### Discrepancy
+#### 3.2.2. Discrepancy
 *Cognitive dissonance – internal conflict between the attitudes and the behaviours that prompts people to change their attitudes/opinions.*
 
-#### One-sided vs two-sided appeals
+#### 3.2.3. One-sided vs two-sided appeals
 *The message looks fairer and more disarming if it recognizes the opposition’s arguments (Werner, 2002).*
 
 ‘No aluminium cans please!’ vs ‘It may be inconvenient, but it is important!!!!!!’
 Which do you think is more persuasive?
 
-#### Primacy vs Recency
+#### 3.2.4. Primacy vs Recency
 
 - Primacy effect – information presented first usually has the most influence
 - Recency effect – information presented last sometimes has the most influence but less common than the primacy effect
@@ -88,7 +88,7 @@ One placed after the other on a white clipboard.
 62% chose the first-presented choice.
 “First is best.”
 
-### 6.3.3 The channel of communication (How is it said)
+### 3.3. The channel of communication (How is it said)
 
 *Persuasive speaker must deliver a message that can get attention, understandable, convincing, memorable and compelling.*
 
@@ -96,31 +96,31 @@ The major influence on us is not the media but our CONTACT with people.
 Media influence: Two-step flow – the process by which media influence occurs through opinion leaders (experts), who in turn influence others.  
 e.g. a father wants to evaluate a new mobile phone, he may consult his son, who get many ideas from what they read online.
 
-### 6.3.4 The audience (To whom is it said)
+### 3.4. The audience (To whom is it said)
 
-#### Age
+#### 3.4.1. Age
 
 Generational explanation – the attitudes the elderly adopted when they were young persists and this makes a big difference from those being adopted by young people nowadays.
 
-#### The cognition of the audiences
+#### 3.4.2. The cognition of the audiences
 
 - Forewarned is forearmed – prepare the counterarguments if the audience is forewarned (e.g. mock interview/examination).
 - Distraction – distracting the attention can stop counterarguing.
 - Uninvolved audiences use peripheral cues.
 
-## 6.4 How to resist persuasion?
+## 4. How to resist persuasion?
 
-### 6.4.1 Strengthening personal commitment - Reactance 
+### 4.1. Strengthening personal commitment - Reactance
 *A negative reaction to an influence attempt that threatens personal freedom .
 
 We will feel annoyed and resentful when confronted with a persistent influence attempt.
 
-### 6.4.2 Forewarning
+### 4.2. Forewarning
 *Advance knowledge that one is about to become the target of an attempt at persuasion.
 
 As it activates several cognitive processes that are important for persuasion.
 
-###  6.4.3 Selective avoidance
+### 4.3. Selective avoidance
 *People’s tendency to filter out information that is inconsistent with their pre-existing attitudes.*
 
 Direct our attention away from information that challenges our existing attitudes.

@@ -1,10 +1,10 @@
-# 2. Social perception
-
-> PSYG 2504 Social Psychology
+---
+Course: PSYG2504  Social psychology
+---
 
 *The study of how we form impressions of and make inferences about other people.*
 
-## 2.1 Nonverbal communication
+## 1. Nonverbal communication
 
 - The way in which people communicate, intentionally or unintentionally, without words, including via facial expressions, tone of voice, gestures, body position, movement, touch and gaze.
 - It provides abundant information about others
@@ -14,9 +14,9 @@
   - **The visible channel** – facial expressions, eye contact, body movements, posture, and touching
   - **Paralanguage** – voice pitch, loudness, rhythm, inflection, and hesitations to convey information
 
-### 2.1.1 Channels of nonverbal communication
+### 1.1. Channels of nonverbal communication
 
-#### Facial expression
+#### 1.1.1. Facial expression
 
 **Changes in the face that can occur as an automatic response to an internal state or as a voluntary response to a social situations.**
 
@@ -27,7 +27,7 @@
 - Can we accurately recognize others’ facial expressions?  
   Depends on people’s intentional focus on showing their own emotions in their facial expressions
 
-#### Eye contact
+#### 1.1.2. Eye contact
 
 - Gaze: looking at another person’s eyes
 - High level of gazing from another person = interest or friendliness (Kleinke, 1986); 
@@ -37,7 +37,7 @@
   - Bushman (1998) advised drivers to avoid eye contact with aggressive motorists  
     Assault may result because they may perceive aggressiveness
 
-#### Body language/ Gestures
+#### 1.1.3. Body language/ Gestures
 
 - Our emotions are often reflected in the position, posture and movement of our bodies
   - Large no. of movements (esp. touching, rubbing, scratching) = emotional arousal  
@@ -46,7 +46,7 @@
   - Emblems: nonverbal gestures that have well-understood definitions within a given culture, usually having direct verbal translations, e.g. OK sign
 
 
-#### Touching
+#### 1.1.4. Touching
 
 - The appropriateness of touching depends on the situation.
   - Depends on who? Nature of the touching? The context?
@@ -54,7 +54,7 @@
 - Handshake is acceptable in many cultures.  
   Firmer and longer handshakes = higher extraversion and openness to experience
 
-#### Distance
+#### 1.1.5. Distance
 
 Standing close is a sign of friendship or interest.
 
@@ -62,29 +62,29 @@ Standing close is a sign of friendship or interest.
 - People who want to be friendly would choose smaller distances
 - People who are sexually attracted to each other stand close (Allgeier & Byrne, 1973)
 
-#### Paralanguage
+#### 1.1.6. Paralanguage
 
 - Contains many emotional meanings (Banse & Scherer, 1996)
 - Tone (an attitude/feeling conveyed through sound)
 - Pitch (highness or loudness of sound)
 - Sounds that occurred during speech (e.g. laughing, crying) and facial expressions were more accurate guides to the emotions underlying people’s statements than the spoken words (Hawk, van Kleef, Fischer, & van der Schalk, 2009)
 
-#### Look of love?
+#### 1.1.7. Look of love?
 
 - People in love tend to look at and touch each other differently than those not in love (e.g. holding hands in public, standing very close) (Gonzaga, Kelmer, Keltner, & Smith, 2001)
 - The stronger the love, the more frequently the nonverbal cues showed (e.g. smiles, head nods, leaning towards one another)
 - In short, inner feelings of love were reflected in the overt nonverbal actions under both positive and negative conditions
 
-### 2.1.2 Theories
+### 1.2. Theories
 
-#### Facial feedback hypothesis
+#### 1.2.1. Facial feedback hypothesis
 
 - Facial feedback hypothesis (Duclos, Laird, Schneider, Sexter, Stern, & Van Lighten, 1989).  
   Our emotions influence our nonverbal cues, the cues themselves influence our internal feelings as well!
 - The facial expression triggers the emotions or feelings.  
   E.g. You are laughing because you are happy BUT You also feel happier when you are laughing!
 
-#### Gender differences on nonverbal behavior?
+#### 1.2.2. Gender differences on nonverbal behavior?
 
 Girls and women tend to be more expressive, more involved in their interpersonal interactions, and more open in the expression of emotion (DePaulo, 1992)
 
@@ -92,7 +92,7 @@ Girls and women tend to be more expressive, more involved in their interpersonal
 - Better at communicating happiness; Men at communicating anger (Coats & Feldman, 1996)
 - More accurate interpreting the nonverbal cues than men (Hall, 1978)
 
-#### Deception
+#### 1.2.3. Deception
 
 **Facial expressions are not very helpful in helping people to detect deception (Ekman & Friesen, 1974).**  
 How to detect? NONVERBAL LEAKAGE
@@ -109,7 +109,7 @@ How to detect? NONVERBAL LEAKAGE
 
 Deception leads to negative social relations
 
-## 2.2 Attribution
+## 2. Attribution
 
 **A description of the way in which people explain the causes of their own and other people’s behavior.**  
 E.g. Why has a father just yelled at his daughter?
@@ -117,9 +117,9 @@ E.g. Why has a father just yelled at his daughter?
 - **Internal attribution:** the inference that a person is behaving in a certain way because of something about the person, such as attitude, character, or personality (e.g. father is impatient)
 - **External attribution:** the inference that a person is behaving a certain way because of something about the situation he or she is in, with the assumption that most people would respond the same way in that situation (e.g. his daughter has just stepped into the street without looking?)
 
-### 2.2.1 Theories of Attribution
+### 2.1. Theories of Attribution
 
-#### Correspondent Inference Theory  (Jones & Davis, 1965)
+#### 2.1.1. Correspondent Inference Theory  (Jones & Davis, 1965)
 
 **Use others’ behavior as a basis for inferring their traits.**
 
@@ -133,7 +133,7 @@ e.g. If Peter is late to school:
 Internal attribution: He is lazy; He is not responsible  
 External attribution: He is late because of traffic jam; He is late because of the physical discomfort
 
-#### Kelly’s covariation theory (1973)
+#### 2.1.2. Kelly’s covariation theory (1973)
 
 **The typical social situation has three components:** 
 
@@ -152,9 +152,9 @@ External attribution: He is late because of traffic jam; He is late because of t
    e.g. You do not scream when you see a cockroaches
    You scream only when you see a snake, so the distinctiveness is high
 
-### 2.2.2 Attribution : Sources of errors
+### 2.2. Attribution : Sources of errors
 
-#### Fundamental Attribution Error (Jones & Harris, 1967)
+#### 2.2.1. Fundamental Attribution Error (Jones & Harris, 1967)
 
 > also called The Correspondence Bias
 
@@ -166,14 +166,14 @@ E.g. James is late to school, and we think he is an irresponsible person even th
 - Culture - stronger in Western cultures (Miyamoto & Kitayama, 2018)
 - Age – young people in the West explain behaviour in terms of specific factors within the situation, and only later begin to show a tendency to favour personality attributions
 
-#### The Actor-Observer effect (Malle, 2006)
+#### 2.2.2. The Actor-Observer effect (Malle, 2006)
 
 **A tendency to attribute our own behavior to situational causes but others’ behavior to dispositional causes.**
 
 e.g. You believe you fail the quiz because the lecturer is too harsh whereas if Josephine fails the same quiz because she is stupid
 We are well aware of the external/situational factors affecting us but less aware of its effects on others
 
-#### The Self-Serving Bias (Miller & Ross, 1975)
+#### 2.2.3. The Self-Serving Bias (Miller & Ross, 1975)
 
 **A tendency to attribute one’s successes that credit internal, dispositional factors and explanations for one’s failures that blame external, situational factors.**
 
@@ -185,7 +185,7 @@ We are well aware of the external/situational factors affecting us but less awar
 E.g. We attain a good grade on the quiz because we are smart;  We fail the quiz because Josephine is harsh  
 
 
-### 2.2.3 Applications of attribution theory
+### 2.3. Applications of attribution theory
 
 **Attribution and Depression:**
 
@@ -196,21 +196,21 @@ E.g. We attain a good grade on the quiz because we are smart;  We fail the quiz 
 - There are some therapies that help to change this attribution pattern,  
   e.g. Cognitive-behavioral therapy (CBT)
 
-## 2.3 Impression formation
+## 3. Impression formation
 
 The process we form the impression of another person
 
 - affects how we react to that person later
 - carries a long-lasting and powerful effects on our perception
 
-### 2.3.1 First impression
+### 3.1. First impression
 
 - Before, Social psychologists concluded that the first impression is formed very quickly but usually inaccurate
 - But recent research showed that even with ‘thin slices’ of information, the first impression formed is relatively *accurate*  
   **Thin-slicing:** Drawing meaningful conclusions about another person’s personality or skills based on an extremely brief sample of behavior
 - The formation of the first impression takes a few seconds (!!)
 
-### 2.3.2 Implicit Personality Theories
+### 3.2. Implicit Personality Theories
 
 - The beliefs about which characteristics would go together
 - When a person possesses some traits, he also possesses others as well  
@@ -221,7 +221,7 @@ The process we form the impression of another person
   Last born – most creative, emotional, disobedient  
   Only – most disagreeable, self-centred
 
-### 2.3.3 Impression management
+### 3.3. Impression management
 
 How can we produce/create a favorable first impression on other people?  
 **Tactics:**

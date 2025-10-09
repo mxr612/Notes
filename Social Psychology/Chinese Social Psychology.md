@@ -1,13 +1,13 @@
-# 12. Chinese Social Psychology
+---
+Course: PSYG2504  Social psychology
+---
 
-> PSYG2504 Social Psychology
-
-## 12.1 Lian  Vs. Mianzi 
+## 1. Lian  Vs. Mianzi
 
 Hu (1944) proposed that there are 2 basic categories of face in Chinese culture: 
 Lian (臉) and mianzi (面子). 
 
-### 12.1.1 Lian
+### 1.1. Lian
 
 *An individual’s lian can be preserved by faithful compliance with ritual or social norms.*
 
@@ -17,7 +17,7 @@ Both a social sanction for enforcing moral standards and an internalized sanctio
 - Bu yao lian (‘doesn’t want face’; 不要臉) means that he or she is nasty, shameless, and immoral: A great insult to his or her moral character.
 - Diulian (shame; 丟臉) is a result of wrong-doing regardless of the presence of an audience.
 
-### 12.1.2 Mianzi
+### 1.2. Mianzi
 
 *Mianzi stands for the kind of prestige that is emphasized in a particular place*
 *Similar to the western face concept.*
@@ -28,17 +28,17 @@ Similar to the western face concept: Chinese – with hierarchical structure of 
 - A reputation achieved through success, e.g. career or interpersonal relationship.
 - Lian has no relationship with successFace behavior
 
-## 12.2 Enhancing one’s own face
+## 2. Enhancing one’s own face
 
 Knowing what kind of qualities are most appreciated by others in one’s social network, a person may deliberately do face-work to enhance one’s social or positional status by showing off these most appreciated qualities.
 
-## 12.3 Enhancing others’ face
+## 3. Enhancing others’ face
 
 A person may adopt some tactics of ingratiation to enhance the resource allocators’s face so that the latter might reciprocate by allocating the resources in a way to benefits the ingratiator.
 
 Tactics include presenting compliments of sufficient credibility, conforming with his/her opinions and behavior, giving gifts or doing other pleasant and rewarding things for others
 
-## 12.4 Losing one’s own face
+## 4. Losing one’s own face
 
 The losing of face may bring serious consequences for an individual, especially when he/she loses the so-called ‘moral face’.
 
@@ -46,7 +46,7 @@ The losing of face may bring serious consequences for an individual, especially 
 
 Losing face for someone or some group with whom he/she is closely connected
 
-## 12.5 Hurting others’ face
+## 5. Hurting others’ face
 
 When a man wants to ask for a favor from a resource allocator of some prestige, he first assesses his position relative to the allocator and the likelihood that he may be successful.
 
@@ -54,7 +54,7 @@ If the request is accepted, then the allocator ‘gave him mianzi’ and his fac
 
 If the request is rejected, the allocator does not give him ‘mianzi’, which then reflects badly on his own mianzi and blame the allocator, especially when the allocator occupies a lower social status.
 
-## 12.6 Saving one’s own face
+## 6. Saving one’s own face
 
 Losing face may cause embarrassment, shame or shyness
 
@@ -64,7 +64,7 @@ Possible reactions:
 - Retaliatory actions: express dissatisfaction in a subtle and indirect way
 - Self-defensive reactions: devalue the opponent, deemphasize the seriousness of the face-losing event and pretend nothing happened
 
-## 12.7 Saving others’ face
+## 7. Saving others’ face
 
 Bond and Lee (1978) studied the face-saving behavior of 100 CUHK students.
 

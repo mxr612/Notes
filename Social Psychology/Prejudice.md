@@ -1,10 +1,10 @@
-# 5. Prejudice
+---
+Course: PSYG2504  Social psychology
+---
 
-> PSYG2504 Social Psychology
+## 1. Stereotype, prejudice and discrimination
 
-## 5.1 Stereotype, prejudice and discrimination
-
-### 5.1.1 Examples of Prejudice
+### 1.1. Examples of Prejudice
 
 - **Sex: Also known as sexism**.  
   Women face discrimination in work settings, higher education and government (e.g. Fisher, 1992).
@@ -17,7 +17,7 @@
 - **Physical attractiveness: Also known as appearance prejudice.**
   Physically attractive people receive more lenient punishments (Mazzella & Feingold, 1994).
 
-## 5.2 Components of Group Antagonism
+## 2. Components of Group Antagonism
 
 - Stereotypes (cognitive)
   A belief about the personal attributes of a group of people
@@ -27,7 +27,7 @@
 - Discrimination (behavioral)
   Unjustifiable negative behavior toward a group or its members
 
-### 5.2.1 Stereotypes
+### 2.1. Stereotypes
 
 *A generalization about a group of people in which certain traits are assigned to virtually all members of the group, regardless of actual variation among the members.*
 
@@ -51,7 +51,7 @@
 Information relevant to an activated stereotype is often processed more quickly, and remembered better, than information unrelated to it (Macrae et al., 1997).  
 Inconsistent information may be refuted or changed in subtle ways to make it consistent (Kunda & Oleson, 1995)
 
-### 5.2.2 Prejudice
+### 2.2. Prejudice
 
 *The evaluation (usually negative) of a group or an individual based mainly on group membership.*
 
@@ -65,7 +65,7 @@ e.g. those who are prejudiced against gay people are likely to have a stereotype
 
 We see only the information that confirms how right we are about “those people” and dismiss information that might require us to change our minds
 
-### 5.2.3 Discrimination
+### 2.3. Discrimination
 
 *Unjustified negative or harmful action toward a member of a group solely because of his/her membership in that group.*  
 Negative actions toward the objects of racial, ethnic, or religious prejudice have decreased somewhat in recent years in the US and many other countries.
@@ -73,7 +73,7 @@ Negative actions toward the objects of racial, ethnic, or religious prejudice ha
 In fact, “old-fashioned” racism, for instance, is simply replaced by modern racism (more subtle) (Swim et al., 1995).  
 Involves concealing prejudice from others in public settings, but expressed bigoted attitudes when it is safe to do so.
 
-## 5.3 The causes of prejudice
+## 3. The causes of prejudice
 
 Perceived threat to a valued group
 
@@ -81,7 +81,7 @@ Perceived threat to a valued group
 - Realistic group conflict theory
 - Social identity theory – Feeling Superior to Others
 
-### 5.3.1 Intergroup competition
+### 3.1. Intergroup competition
 
 **Realistic group conflict theory:**
 *The idea that limited resources lead to conflict between groups and result in increased prejudice and discrimination (Jackson, 1993).*
@@ -90,17 +90,17 @@ Perceived threat to a valued group
 - Competition intensifies conflict (Sherif, Harvey, White, Hood & Sherif, 1961).
 - The competition may finally develop into full scale, emotion-laden prejudice.
 
-### 5.3.2 Social identity theory
+### 3.2. Social identity theory
 
 ![Screenshot_20240511_233807.jpg](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/11/663f90ed33358.jpg)
 
-#### Assumptions of Social Identity Theory (Tajfel, 1982)
+#### 3.2.1. Assumptions of Social Identity Theory (Tajfel, 1982)
 
 1. **We categorize:** We find it useful to put people,    ourselves included, into categories.
 2. **We identify:** We associate ourselves with certain groups (ingroups) and gain self-esteem by doing so.
 3. **We compare:** we contrast our groups with other groups (outgroups), with a favorable bias toward our own group.
 
-#### The act of categorization can group people as “us” (an ingroup) or “them” (an outgroup)
+#### 3.2.2. The act of categorization can group people as “us” (an ingroup) or “them” (an outgroup)
 
 The part of a person’s self-concept that is based on his/her identification with a nation, religious or political group, occupation, or other social affiliation.
 
@@ -120,24 +120,24 @@ The part of a person’s self-concept that is based on his/her identification wi
 
 ![Screenshot_20240511_233752.jpg](https://photo-1303301880.cos.ap-guangzhou.myqcloud.com/2024/05/11/663f90edb1561.jpg)
 
-### 5.3.3 Social learning
+### 3.3. Social learning
 
 *We acquire negative attitudes towards other social groups by hearing such views expressed by significant others.*   
 There are directly rewards for adopting the same views (e.g. love, approval).
 
-#### Socialization
+#### 3.3.1. Socialization
 *A process by which children learn the conventional social norms from family
 Our families and cultures pass on all kinds of information.* (e.g. finding mates, whom to trust and dislike).
 
 > Swedish teens display increasing anti-immigrant prejudice over time if their parents voice such prejudice (Miklikowska, 2017).   
 > Parental attitudes assessed shortly after their babies are born predict their children attitudes 17 years later (Fraley et al., 2012).
 
-#### The Media
+#### 3.3.2. The Media
 
 *Media coverage reflects and reinforces stereotypes.*  
 e.g. Gilens (1999) found that the media presents an inaccurate picture of people on welfare, showing them as much more likely to be black and unemployed than is the case in reality
 
-### 5.3.4 Cognitive Bases of Prejudice
+### 3.4. Cognitive Bases of Prejudice
 
 Cognitive biases occur because we need to simplify a complex world. These biases can produce stereotypes and prejudice even in the absence of socialization or competition between groups.
 
@@ -148,15 +148,15 @@ Cognitive biases occur because we need to simplify a complex world. These biases
 - Social norms provide a basis for categorization based on other attributes.  
   e.g. social class
 
-## 5.4 Reducing prejudice
-### 5.4.1 Socialization
+## 4. Reducing prejudice
+### 4.1. Socialization
 
 *Much change is happening spontaneously as target groups change and levels of education rise.*
 
 More education people have, the less prejudiced they are likely to be (esp. for people with college degrees) (Schuman et al., 1997).
 Simple media persuasion seems not effective (see Hovland, 1959)
 
-### 5.4.2 Intergroup contact
+### 4.2. Intergroup contact
 
 *Contact hypothesis: The view that social interactions between social groups would reduce prejudice.*
 
@@ -179,16 +179,16 @@ e.g. merely putting students of different groups together in a class does not wo
 However, many efforts at intergroup contact do not meet the conditions.
 Even in desegregated schools, children tend to associate more with their own race (Schofield, 1978)
 
-### 5.4.3 Recategorization
+### 4.3. Recategorization
 
 *A shift in the boundary between the in-group (us) and some out-group (them).*
 
 Gaertner et al. (1990) suggest helping people to experience working together cooperatively can induce people belonging to different groups to perceive each other as members of a single group.  
 e.g., your identity changes from Psychology major students in CIE to HKBU student.
 
-## 5.5 The case of HK
+## 5. The case of HK
 
-### 5.5.1 Minority Groups in HK
+### 5.1. Minority Groups in HK
 
 - Mentally retarded  
   Chronically ill patients
@@ -199,7 +199,7 @@ e.g., your identity changes from Psychology major students in CIE to HKBU studen
 - Indian/Pakistani/Filipino
 - Sex workers & HIV infected
 
-### 5.5.2 Work of EOC in Hong Kong
+### 5.2. Work of EOC in Hong Kong
 
 The Equal Opportunities Commission (EOC) is a statutory body set up in 1996 to implement the Sex Discrimination Ordinance (SDO) 《性別歧視條例》, the Disability Discrimination Ordinance (DDO) 《殘疾歧視條例》and the Family Status Discrimination Ordinance (FSDO) 《家庭崗位歧視條例》
 
