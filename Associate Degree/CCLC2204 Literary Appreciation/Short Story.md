@@ -1,24 +1,26 @@
-# Short Story
+---
+HKBU: CCLC2204 Literary Appreciation
+---
 
-## The Ones Who Walk Away From Omelas
+## 1. The Ones Who Walk Away From Omelas
 
 *by Ursula K. Le Guin*
 
-## A Jury of Her Peers
+## 2. A Jury of Her Peers
 
 *by Susan Glaspell*
 
-### Setting
+### 2.1. Setting
 
 Setting includes the time, place, and social conditions of the story.  
 
 Describe the setting of “A Jury of Her Peers”.  Include specific quotes / details, explaining how they contribute to the development of the story.
 
-### Irony 
+### 2.2. Irony
 
 G.R. Thompson defines irony as "a basic discrepancy between what is expected or apparent and what is actually the case." (the difference between expectation and the reality)
 
-#### Three types of irony
+#### 2.2.1. Three types of irony
 
 **Verbal irony:** When something is said that is the opposite of what it meant.
 
@@ -26,7 +28,7 @@ G.R. Thompson defines irony as "a basic discrepancy between what is expected or 
 
 **Dramatic irony:** When the readers know something that other characters don’t know.
 
-#### What’s the “irony” in Glaspell’s “A Jury of Her Peers”?
+#### 2.2.2. What’s the “irony” in Glaspell’s “A Jury of Her Peers”?
 
 -	“Well, can you beat the women! Held for murder and worrying about her preserves!” (condescending)
 -	“Oh, well,” said Mrs. Hale’s husband, with good-natured superiority, “women are used to worrying over trifles.”
@@ -40,11 +42,11 @@ G.R. Thompson defines irony as "a basic discrepancy between what is expected or 
 -	Men do not expect to get the clues in the kitchen. They are quick to dismiss the importance of kitchen things that they regard as trifles.
 -	Ironically, the clues that point to the motive of murder are found by women in the domestic realm of kitchen. 
 
-### Characterization
+### 2.3. Characterization
 
 Characterization is the process by which the writer reveals the **personality** of a character. Characterization is revealed through *direct* characterization and *indirect* characterization. 
 
-#### Direct Characterization
+#### 2.3.1. Direct Characterization
 
 Direct Characterization tells the audience what the personality of the character is. 
 
@@ -52,7 +54,7 @@ Direct Characterization tells the audience what the personality of the character
 
 The author is directly telling the audience the personality of these two children. The boy is “patient” and the girl is “quiet.” 
 
-#### 5 ways of Indirect Characterization
+#### 2.3.2. 5 ways of Indirect Characterization
 
 - Speech
  - Thought
@@ -60,13 +62,13 @@ The author is directly telling the audience the personality of these two childre
  - Action
  - Looks (Appearance)
 
-#### List the characters in “A Jury of Her Peers”
+#### 2.3.3. List the characters in “A Jury of Her Peers”
 
 | Female Characters                                            | Male Characters                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **1.** Mrs Wright (Minnie Foster)<br />**2.** Mrs Hale<br />**3.** Mrs Peters | **1.** John Wright (strangled to death by a rope)<br />**2.** Mr Hale (finds the dead body)<br />**3.** Mr Peters (the sheriff)<br />**4.** Mr Henderson (the county attorney) |
 
-##### Minnie Foster Wright
+##### 2.3.3.1. Minnie Foster Wright
 
 Did you realize that we never meet Minnie? We see her through the setting (think about her kitchen!) and through the eyes of Mrs. Peters and Martha Hale.  (What’s her transformation before and after marriage?)
 
@@ -108,7 +110,7 @@ Mrs Wright represents how women are oppressed in the patriarchal society. Being 
 
 The story subtly describes a transformation in the attitudes of Martha Hale and Mrs. Peters. What is this transformation? What gives rise to this change?
 
-##### Mrs.  Martha Hale
+##### 2.3.3.2. Mrs.  Martha Hale
 
 
 “She hated to see things half done,” -para. 2, p.1
@@ -123,7 +125,7 @@ Mrs Hale shows her solidarity with another woman who has been mistreated as she 
 
 
 
-##### Mrs. Peters
+##### 2.3.3.3. Mrs. Peters
 
  “She was small and thin and didn't have a strong voice.” -para. 5, p.1
 
@@ -138,7 +140,7 @@ Mrs Peters represents the social status of females at that time. Although Mrs Pe
 Analysis 2
 Mrs. Peters' character is a representation of a woman's internal conflict between fulfilling her place in society as the sheriff's wife and her own personal voice as a woman. She is seen by other characters as a frail person of small stature. “she was small and thin and didn't have a strong voice”. This shows that she is soft-spoken, with a voice aiming to stay out of the spotlight. She as a person is normally hidden behind the large figure of her husband the sheriff. Unlike the other characters, her first name is never mentioned, meaning even in the description, she seems to exist behind the area of focus. At the beginning of the story, she seems to be uncomfortable with her role as the sheriff’s wife, following society’s expectations, as she states her position as being "married to the law". It is almost as if she is 'owned' by her husband, he has the power to order her around and decide what she does with her life, a strong reflection of the patriarchal society of the time. However, she exhibits a transformation. Having some empathetic connections with the situation of Mrs. Wright, the feelings of pain and anger when remembering the death of her pet cat and the feelings of wanting to get back at the person who killed it, her character shifts, starting with her tone of voice becoming “slow and deep” as supposed to her “flurried” way of speaking. She is no longer fully obedient to her husband's will as sheriff. Despite her being “married to the law”, she decides to help the other women hide evidence against Mrs. Wright to defend her along with Mrs. Hale, bringing her character out from behind her husband’s shadow.
 
-##### The male characters
+##### 2.3.3.4. The male characters
 
 Mr. Peters, Mr. Hale, Harry Hale, Mr. Henderson  
 *John Wright: The victim of murder. Murdered by his wife because of years of cruelty. Do you feel sorry for him?
@@ -151,12 +153,12 @@ Mr. Peters, Mr. Hale, Harry Hale, Mr. Henderson
 
 ➢	They all represent the contrast between men’s and women’s spheres at the time.  All three of them display a cold lack of understanding of and compassion for the women, allowing them to overlook the plentiful details in the Wright’s house about what led up to the murder.  The men exhibit few independent and unique personality traits making them stock characters.
 
-### Conflict
+### 2.4. Conflict
 
-### Symbols
+### 2.5. Symbols
 
-### Theme
+### 2.6. Theme
 
 What is the author saying about life?
 
-### [Literary Theory] Feminism
+### 2.7. [Literary Theory] Feminism

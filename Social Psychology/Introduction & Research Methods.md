@@ -1,5 +1,5 @@
 ---
-Course: PSYG2504  Social psychology
+HKBU: PSYG2504  Social psychology
 ---
 
 What is social psychology:  

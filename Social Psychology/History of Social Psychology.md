@@ -1,5 +1,5 @@
 ---
-Course: PSYC10711 Introduction to Social Psychology
+HKBU: PSYC10711 Introduction to Social Psychology
 ---
 ## Social Psychology in Crisis
 

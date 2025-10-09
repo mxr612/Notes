@@ -1,5 +1,5 @@
 ---
-Course: PSYG2504  Social psychology
+HKBU: PSYG2504  Social psychology
 ---
 
 *Our <u>evaluations</u> of any aspects of the social world (including people, objects and ideas).*  

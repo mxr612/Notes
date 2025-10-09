@@ -1,5 +1,5 @@
 ---
-Course: PSYC10460 Applying Psychology to Wicked Problems
+UoM: PSYC10460 Applying Psychology to Wicked Problems
 ---
 
 ## Welcome to the unit

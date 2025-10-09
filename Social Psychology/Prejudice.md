@@ -1,5 +1,5 @@
 ---
-Course: PSYG2504  Social psychology
+HKBU: PSYG2504  Social psychology
 ---
 
 ## 1. Stereotype, prejudice and discrimination
