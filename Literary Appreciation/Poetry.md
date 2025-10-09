@@ -1,5 +1,5 @@
 ---
-HKBU: CCLC2204 Literary Appreciation
+Course: CCLC2204 Literary Appreciation
 ---
 
 ## 1. Poetic Devices

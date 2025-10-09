@@ -1,5 +1,5 @@
 ---
-HKBU: PSYG2504  Social psychology
+Course: PSYG2504  Social psychology
 ---
 
 ## 1. What is group?

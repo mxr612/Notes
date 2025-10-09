@@ -1,5 +1,5 @@
 ---
-HKBU: PSYG2504  Social psychology
+Course: PSYG2504  Social psychology
 ---
 ## 1. Conformity
 ### 1.1. What is conformity?

@@ -1,5 +1,5 @@
 ---
-HKBU: PSYG2504  Social psychology
+Course: PSYG2504  Social psychology
 ---
 
 *The study of how we form impressions of and make inferences about other people.*

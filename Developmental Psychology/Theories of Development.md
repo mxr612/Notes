@@ -1,5 +1,5 @@
 ---
-UoM: PSYC10211 Introduction to Developmental Psychology
+Course: PSYC10211 Introduction to Developmental Psychology
 ---
 ## 1. Piaget’s Theory
 

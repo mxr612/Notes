@@ -95,4 +95,4 @@ A **positioning statement** summarizes the company or brand’s position.
 
 是个例子
 
-![图片](./assets/%E5%9B%BE%E7%89%87.png)
+![图片](assets/图片.png)
