@@ -6,6 +6,7 @@ Course: PSYC10460 Applying Psychology to Wicked Problems
 
 A wicked problem is a complex, ill-defined challenge with no single correct solution.
 Rittle & Webber (1973)
+
 - No clear definition or end point
 - Solutions are better or worse, not right or wrong
 - Attempts to have lasting, unpredicable consequences

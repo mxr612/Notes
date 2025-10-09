@@ -1,5 +1,9 @@
-## data collection
+---
+Course:
+  - PSYC14441 Psychological Research Skills I
+---
 
+## data collection
 
 ## Introduction to Qualitative Analysis
 
