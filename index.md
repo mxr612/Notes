@@ -1,4 +1,4 @@
-# $\mu$'s Note
+# 	μ's Note
 
 - Submit an issue or pull request in [Git](https://git.mxr612.io/mxr612/Notes)
 - Here's my [Blog](https://www.mxr612.io/)
