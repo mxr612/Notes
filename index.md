@@ -1,5 +1,10 @@
-# 这里是mxr612的笔记
+# $\mu$'s Note
 
-- 这里是方便查找的结构化的笔记
-- 可以在[Git](https://git.mxr612.io/mxr612/Notes)里面提issue或者pr
-- 这里是[我的博客](https://www.mxr612.io/)
+- Submit an issue or pull request in [Git](https://git.mxr612.io/mxr612/Notes)
+- Here's my [Blog](https://www.mxr612.io/)
+
+Degree I attend:
+
+1. Associate Degree in Psychology at Hong Kong Baptist University
+2. BSc(Hons) Psychology at University of Manchester
+
