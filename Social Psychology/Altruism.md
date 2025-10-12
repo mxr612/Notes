@@ -1,5 +1,7 @@
 ---
 Course: PSYG2504  Social psychology
+tags:
+  - Psychology/Social
 ---
 
 ## 1. Definitions

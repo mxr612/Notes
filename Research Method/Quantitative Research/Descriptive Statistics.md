@@ -28,6 +28,7 @@ Mean is the average of a specific variable in a data set. To tell apart, a popul
 $$
 \mu = \frac{\sum_{i}^{N}{x}}{N}
 $$
+
 $$
 \bar{x} = \frac{\sum_{i}^{n}{x}}{n}
 $$
