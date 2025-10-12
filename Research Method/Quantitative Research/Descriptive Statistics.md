@@ -66,16 +66,19 @@ The **median** is the middle value in an ordered data set. It divides the data i
 - For even number of observations: Average of two middle values
 
 **Calculation**:
+
 - Order the data from smallest to largest
 - If $n$ is odd: $\text{median} = x_{(n+1)/2}$
 - If $n$ is even: $\text{median} = \frac{x_{n/2} + x_{n/2 + 1}}{2}$
 
 **Characteristics**:
+
 - Robust to outliers and skewed distributions
 - More appropriate than mean for ordinal data
 - Represents the 50th percentile (second quartile)
 
 **Example**: 
+
 - Data: {3, 1, 7, 4, 2} → Ordered: {1, 2, 3, 4, 7} → Median = 3
 - Data: {3, 1, 7, 4} → Ordered: {1, 3, 4, 7} → Median = (3+4)/2 = 3.5
 
@@ -109,11 +112,13 @@ s^2 = \frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n-1}
 $$
 
 where:
+
 - $n$ = sample size
 - $\bar{x}$ = sample mean
 - $x_i$ = individual values
 
 **Key Differences**:
+
 - **Denominator**: Population uses $N$, sample uses $n-1$ (Bessel's correction)
 - **Purpose**: Population variance describes the entire population, sample variance estimates population variance
 - **Bias**: Using $n$ instead of $n-1$ in sample variance creates a biased estimator
@@ -233,6 +238,7 @@ $$
 $$
 
 where:
+
 - $Q_1$ = First quartile (25th percentile)
 - $Q_3$ = Third quartile (75th percentile)
 
@@ -245,17 +251,20 @@ There are several methods to calculate quartiles. Common approaches include:
 
 **Outlier Detection**:
 IQR is commonly used to identify outliers using the "1.5×IQR rule":
+
 - **Lower fence**: $Q_1 - 1.5 \times \text{IQR}$
 - **Upper fence**: $Q_3 + 1.5 \times \text{IQR}$
 - Values outside these fences are considered potential outliers
 
 **Box Plot Relationship**:
 IQR forms the "box" in box plots:
+
 - Box extends from Q1 to Q3
 - Line inside box represents median
 - Whiskers extend to most extreme non-outlier values
 
 **Advantages**:
+
 - **Robust**: Not affected by extreme values
 - **Intuitive**: Easy to interpret and visualize
 - **Standardized**: Widely used in exploratory data analysis
@@ -378,6 +387,7 @@ g_2 = \frac{\frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^4}{\left(\frac{1}{n}\sum_{i
 $$
 
 **Interpretation**:
+
 - **Excess Kurtosis = 0**: Normal distribution
 - **Excess Kurtosis > 0**: Heavy tails (more outliers)
 - **Excess Kurtosis < 0**: Light tails (fewer outliers)
@@ -467,6 +477,7 @@ $$
 $$
 
 where:
+
 - $\bar{x}$ = sample mean
 - $s$ = sample standard deviation
 - $n$ = sample size
@@ -474,11 +485,13 @@ where:
 - $t_{\alpha/2, df}$ = critical t-value with $df = n-1$
 
 **Common Confidence Levels**:
+
 - **90% CI**: $\alpha = 0.10$, $z_{0.05} = 1.645$
 - **95% CI**: $\alpha = 0.05$, $z_{0.025} = 1.96$
 - **99% CI**: $\alpha = 0.01$, $z_{0.005} = 2.576$
 
 **Interpretation**:
+
 - "We are 95% confident that the true population mean lies between [lower, upper]"
 - Does NOT mean there's a 95% probability that the specific interval contains the parameter
 
