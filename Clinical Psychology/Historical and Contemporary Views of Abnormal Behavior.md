@@ -194,7 +194,7 @@ or phrenitis
 
 #### 3.5.1. Behavioral perspective:
 
-Role of learning in humanbehavior.
+Role of learning in human behavior.
 
 - Classical Conditioning
   - Neutral stimulus repeatedly paired with unconditioned stimulus; naturally elicits an unconditioned behavior
