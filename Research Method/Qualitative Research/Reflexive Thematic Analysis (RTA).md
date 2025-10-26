@@ -1,8 +1,17 @@
 ---
 Course:
   - PSYC14441 Psychological Research Skills I
+tags:
+  - "#qualitative-research"
+  - "#thematic-analysis"
+  - "#research-methods"
+  - "#data-analysis"
+  - "#reflexivity"
+  - "#coding"
+  - "#interpretive-analysis"
+  - "#braun-clarke"
 ---
-## 1. ILO1: Explain the principles of Reflexive Thematic Analysis
+## 1. Explain the principles of Reflexive Thematic Analysis
 
 ### 1.1. Overview of Thematic Analysis (TA)
 
@@ -32,7 +41,7 @@ Course:
 - Acknowledges interpretation while maintaining structure
 - Useful for projects needing both rigor and comparability
 
-#### 1.2.3. Reflexive Thematic Analysis (RTA) - **Our Approach**
+#### 1.2.3. Reflexive Thematic Analysis (RTA)
 
 - **Emphasizes**: Researcher's active and interpretive role
 - **No single "correct" set** of codes or themes
@@ -94,7 +103,7 @@ Course:
 - **Theme development**: Focus on meaningful patterns rather than frequency counts
 - **Interpretive storytelling**: Themes capture core ideas and relationships in data
 
-## 2. ILO2: Describe the Six Phases of Thematic Analysis
+## 2. Describe the Six Phases of Thematic Analysis
 
 ### 2.1. Overview of the Six-Phase Process (Braun & Clarke, 2006, 2021)
 
@@ -159,7 +168,7 @@ Course:
 - Writing can refine interpretation
 - Continuous movement between phases as understanding deepens
 
-## 3. ILO3: Describe and apply the process of data familiarisation
+## 3. Describe and apply the process of data familiarisation
 
 ### 3.1. Overview of Data Familiarisation
 
@@ -198,7 +207,7 @@ Course:
 - **Familiarisation is about**: Immersion, curiosity, and reflection
 - **Stronger understanding now** → deeper analysis later
 
-## 4. ILO4: Describe and apply the process of coding qualitative data
+## 4. Describe and apply the process of coding qualitative data
 
 ### 4.1. Overview of Coding
 
@@ -234,7 +243,7 @@ Course:
 - **Coding is the bridge** between data and analysis
 - **Transforms what participants said** into meaningful insights
 
-## 5. ILO5: Identify the qualities of a strong thematic analysis
+## 5. Identify the qualities of a strong thematic analysis
 
 ### 5.1. Understanding Quality in RTA
 
@@ -278,7 +287,7 @@ Course:
 - **Constructing meaning** rather than mechanical analysis
 - **Combined principles** form foundation for rigorous qualitative work
 
-## 6. ILO6: Reflect on and articulate your role in the analysis through a reflexive statement
+## 6. Reflect on and articulate your role in the analysis through a reflexive statement
 
 ### 6.1. Importance of Reflexivity
 
