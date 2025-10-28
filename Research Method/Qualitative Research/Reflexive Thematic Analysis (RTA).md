@@ -64,6 +64,8 @@ tags:
 - **Researcher-data connection**: Background, assumptions, and interests influence interpretation
 - **Themes are interpretive**: Explore what accounts mean in research context, not just summarize
 
+> Trying to understand how people construct meaning, and how you, as the researcher, also play a role in shaping that interpretation
+
 ### 1.4. From Description to Interpretation
 
 #### 1.4.1. Descriptive vs. Interpretive Analysis
@@ -72,7 +74,7 @@ tags:
 
 **Descriptive Reading** (Surface level):
 
-- "People enjoy eating with others because it feels more sociable and fun"
+- “People enjoy eating with others because it feels more sociable and fun”
 - Stays close to surface content of data
 
 **Interpretive Reading** (Deeper meaning):
