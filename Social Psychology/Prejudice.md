@@ -16,6 +16,8 @@ Course: PSYG2504  Social psychology
   Overweight people are perceived as less attractive, less intelligent, less happy, less self-disciplined, and less successful (Hebl & Heatherton, 1998).
 - **Physical attractiveness: Also known as appearance prejudice.**
   Physically attractive people receive more lenient punishments (Mazzella & Feingold, 1994).
+- **Healthcare disparities: Also known as medical bias.**
+  Medical training predominantly featuring white skin cases leads to unintentional discrimination in diagnosis, such as delayed skin cancer detection in people with darker skin tones due to lack of awareness and training diversity.
 
 ## 2. Components of Group Antagonism
 
@@ -72,6 +74,16 @@ Negative actions toward the objects of racial, ethnic, or religious prejudice ha
 
 In fact, “old-fashioned” racism, for instance, is simply replaced by modern racism (more subtle) (Swim et al., 1995).  
 Involves concealing prejudice from others in public settings, but expressed bigoted attitudes when it is safe to do so.
+
+### 2.4. Aversive (Modern) Discrimination
+
+**Microaggressions**: Brief daily verbal, behavioural, or environmental indignities, whether intentional or unintentional, that communicate hostile, derogatory, or negative slights and insults towards minorities (Sue et al., 2007).
+
+**Types of Microaggressions**:
+
+- **Microassaults**: Deliberate actions or slurs characterised primarily by a verbal or nonverbal statement or behaviour meant to hurt the intended victim.
+- **Microinsults**: Verbal and nonverbal communications that subtly convey rudeness and insensitivity and demean a person's racial heritage or identity.
+- **Microinvalidations**: Communications that subtly exclude, negate, or nullify the thoughts, feelings, or experiential reality of minority group person.
 
 ## 3. The causes of prejudice
 
@@ -147,6 +159,80 @@ Cognitive biases occur because we need to simplify a complex world. These biases
   Taylor et al. (1978) asked subjects to view different people making different statements.  They often forgot who said what, yet they remembered the race of the person who made each statement 
 - Social norms provide a basis for categorization based on other attributes.  
   e.g. social class
+
+### 3.5. Dual-Process Theory and Automatic Stereotyping
+
+**Kahneman's (2011) Dual-Process Theory** provides a framework for understanding how stereotypes operate automatically through two cognitive systems:
+
+- **System 1**: Automatic, fast, operates with little or no effort and no sense of voluntary control
+  - Generates **implicit attitudes**: involuntary, uncontrollable, sometimes unconscious attitudes that still guide behavior
+  - Stereotypes and prejudice often operate through System 1 thinking via implicit attitudes
+  - Quick categorization of people into social groups happens automatically
+  - Measured through implicit association tests (IAT) and reaction time measures
+  - Example: Don't solve 2×2 (simple, automatic processing)
+
+- **System 2**: Slow, effortful, infrequent, calculating, conscious, limited capacity
+  - Generates **explicit attitudes**: consciously endorsed attitudes that can be easily reported
+  - Conscious effort to override stereotypes requires System 2 thinking through explicit attitudes
+  - Deliberate, controlled processing can reduce prejudice
+  - Measured through self-report questionnaires and surveys
+  - Example: Don't solve 17×24 (requires conscious calculation)
+
+**Key implications for prejudice**:
+
+- Implicit attitudes (System 1) can conflict with explicit attitudes (System 2), explaining why people may consciously believe in equality while showing automatic bias
+- System 1 thinking makes stereotypes and prejudice operate automatically through implicit attitudes
+- System 2 thinking is required to consciously recognize and override these automatic biases through explicit attitudes
+- Interventions that engage System 2 thinking can help reduce automatic prejudice
+- The gap between implicit and explicit attitudes explains modern forms of subtle discrimination
+
+**Implicit Attitudes**
+
+These biases are activated involuntarily and without our awareness or intentional control.
+
+They do not necessarily align with our declared beliefs or reflect the stances we would explicitly endorse (but they can still guide our behaviour)
+
+#### The Implicit Association Test (IAT):
+
+**Limitations of Explicit Attitude Measurement**:
+Measuring only explicit attitudes toward behavior is insufficient because:
+
+- People may lie about their attitudes due to social desirability concerns
+- People may engage in self-denial of their true attitudes
+- People may simply not know their own attitudes
+
+The Implicit Association Test (IAT):
+
+- Developed about 25 years ago by Anthony Greenwald, soon after collaborating with Mahzarin Banaji
+- Designed to access System 1 (implicit system) and measure attitudes that are:
+  - Not subject to social desirability concerns
+  - Automatic and unconscious
+  - Reveal implicit biases that people may not consciously acknowledge
+- Measures how quickly and how accurately a person associates two categories with the concept of 'good' or 'bad'
+- First developed to measure racial preferences for White vs Black Americans
+- Been adapted to a host of socially sensitive domains
+- According to Kim (2003), lay people cannot fake the IAT unless given specific and detailed instructions on how to do so
+
+**How the IAT Works**:
+
+The idea behind the IAT is that this task is easier (and therefore someone will be faster) when sorting in a manner consistent with one's associations. For example, someone should be faster when asked to sort all flowers + pleasant stimuli with one hand and insects + unpleasant with the other, as this is (most likely) consistent with people's implicit mental associations.
+
+**Ecological Validity of the IAT**:
+
+- US Police officers play a video game called the Shooter Task (Correll, Park, Judd & Wittenbrink, 2002)
+- Glaser and Knowles (2008): Participants completed the Weapons IAT (measures unconscious belief that Black men are more readily associated with violent weapons than White men)
+- Then asked participants to play the Shooter Task
+- Found that the greater the unconscious belief that Black people are associated with weapons, quicker participants are to shoot at Black suspects
+- James (2018) replicated with 80 US police officers, found that sleep impacted strength of IAT score
+
+**Take the IAT**: [https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)
+
+#### Video meeting
+
+1. 1 researcher interviewed by another researcher with fixed script
+2. green screen behand
+3. change the background behand the video and present a scale on performance
+4. 
 
 ## 4. Reducing prejudice
 ### 4.1. Socialization
