@@ -2,7 +2,7 @@
 
 ## Questions
 
-1. West and Eaton's (2019) finding that most people rate themselves as less prejudiced than others illustrates which bias?
+1\. West and Eaton's (2019) finding that most people rate themselves as less prejudiced than others illustrates which bias?
 
 A. Belief in a just world
 
@@ -12,7 +12,7 @@ C. Fundamental attribution error
 
 D. Self-enhancement in judging one's own bias
 
-2. Prejudice is defined in the slides as a(n)...
+2\. Prejudice is defined in the slides as a(n)...
 
 A. Negative feeling toward a member of a group because of group membership
 
@@ -22,7 +22,7 @@ C. Overgeneralised belief about a group
 
 D. Policy that enforces equality across groups
 
-3. Stereotypes were described as...
+3\. Stereotypes were described as...
 
 A. A behaviour that harms group members
 
@@ -32,7 +32,7 @@ C. A fixed, overgeneralised belief about a group
 
 D. Any law that segregates groups
 
-4. Discrimination was defined as...
+4\. Discrimination was defined as...
 
 A. A cognitive schema that guides perception
 
@@ -42,7 +42,7 @@ C. A neutral categorisation process without affect
 
 D. Actual behaviour with negative impact on a group
 
-5. The "Draw a Scientist" task is used in lecture to reveal...
+5\. The "Draw a Scientist" task is used in lecture to reveal...
 
 A. People's ability to render accurate portraits
 
@@ -52,7 +52,7 @@ C. Implicit stereotypes about who counts as a scientist
 
 D. Memory for famous scientists' faces
 
-6. A key limitation of explicit attitude measures noted in the slides was...
+6\. A key limitation of explicit attitude measures noted in the slides was...
 
 A. They perfectly predict behaviour
 
@@ -62,7 +62,7 @@ C. They cannot be administered online
 
 D. Respondents may give socially desirable answers
 
-7. Reactivity in explicit measures refers to...
+7\. Reactivity in explicit measures refers to...
 
 A. Participants changing answers after debrief
 
@@ -72,7 +72,7 @@ C. The effect of time limits on memory tests
 
 D. Instability when people generate attitudes on the spot
 
-8. Implicit attitudes are described as biases that...
+8\. Implicit attitudes are described as biases that...
 
 A. Are fully under conscious control
 
@@ -82,7 +82,7 @@ C. Are activated involuntarily without awareness
 
 D. Cannot influence behaviour
 
-9. The Clark and Clark (1947) doll study showed that many Black children...
+9\. The Clark and Clark (1947) doll study showed that many Black children...
 
 A. Preferred to play with dolls matching their own skin tone
 
@@ -92,7 +92,7 @@ C. Showed preferences indicating internalised negative stereotypes
 
 D. Refused to choose between dolls
 
-10. The findings from Clark and Clark (1947) highlight the importance of...
+10\. The findings from Clark and Clark (1947) highlight the importance of...
 
 A. Positive representation to counter internalised bias
 
@@ -102,7 +102,7 @@ C. Limiting choices to one option only
 
 D. Removing toys from the testing room
 
-11. Illusory correlation, as presented in the slides, involves...
+11\. Illusory correlation, as presented in the slides, involves...
 
 A. Underestimating the co-occurrence of two common events
 
@@ -112,7 +112,7 @@ C. Seeing patterns only when data are presented numerically
 
 D. Forgetting rare negative events entirely
 
-12. In Hamilton and Gifford's account, which pair is especially memorable and overestimated?
+12\. In Hamilton and Gifford's account, which pair is especially memorable and overestimated?
 
 A. Majority members performing positive behaviours
 
@@ -122,7 +122,7 @@ C. Minority members performing negative behaviours
 
 D. Minority members performing neutral behaviours
 
-13. The illusory correlation effect can lead people to...
+13\. The illusory correlation effect can lead people to...
 
 A. Assume minority groups commit disproportionate negative acts
 
@@ -132,7 +132,7 @@ C. Treat all group members as interchangeable in positive ways
 
 D. Believe common events are rare
 
-14. A stereotype threat manipulation typically affects performance because...
+14\. A stereotype threat manipulation typically affects performance because...
 
 A. Individuals receive more resources to succeed
 
@@ -142,7 +142,7 @@ C. Memory capacity increases under pressure
 
 D. Anxiety about confirming a stereotype impairs functioning
 
-15. The workshop's media examples (e.g., tabloid covers) illustrate how...
+15\. The workshop's media examples (e.g., tabloid covers) illustrate how...
 
 A. Repeated negative imagery can reinforce stereotypes
 
@@ -152,7 +152,7 @@ C. National news avoids portraying minorities
 
 D. Media exposure cannot affect attitudes
 
-16. The shift in LGBTQ+ media representation over time shows that...
+16\. The shift in LGBTQ+ media representation over time shows that...
 
 A. Early depictions were consistently positive and central
 
@@ -162,7 +162,7 @@ C. Queer characters have always been protagonists
 
 D. Tropes and negative framing can contribute to implicit bias
 
-17. Explicit attitudes are inferred through...
+17\. Explicit attitudes are inferred through...
 
 A. Unstructured observation of daily life
 
@@ -172,7 +172,7 @@ C. Responses to direct questions or rating scales
 
 D. Reaction-time tasks exclusively
 
-18. One limitation of wording effects in explicit measures is that...
+18\. One limitation of wording effects in explicit measures is that...
 
 A. Item phrasing can shift responses without changing true attitudes
 
@@ -182,7 +182,7 @@ C. Negative wording always reduces prejudice scores
 
 D. Wording never matters if instructions are clear
 
-19. Implicit stereotypes can persist even when...
+19\. Implicit stereotypes can persist even when...
 
 A. Groups are numerically equal in all contexts
 
@@ -192,7 +192,7 @@ C. Individuals have never been exposed to media
 
 D. People consciously endorse egalitarian beliefs
 
-20. Positive representation (e.g., diverse scientists or princesses) matters because...
+20\. Positive representation (e.g., diverse scientists or princesses) matters because...
 
 A. It removes the need for any further interventions
 
@@ -202,7 +202,7 @@ C. It can broaden prototypes and counteract internalised bias
 
 D. It ensures all media become stereotype-free
 
-21. The draw-a-scientist task over decades shows that science-gender stereotypes are...
+21\. The draw-a-scientist task over decades shows that science-gender stereotypes are...
 
 A. Static and unchanging
 
@@ -212,7 +212,7 @@ C. Irrelevant to career interest
 
 D. Only found in adults, not children
 
-22. Social desirability in attitude reporting leads to...
+22\. Social desirability in attitude reporting leads to...
 
 A. Overreporting prejudice
 
@@ -222,7 +222,7 @@ C. Random responding to all items
 
 D. Underreporting socially sensitive biases
 
-23. When people believe they are less biased than others, a likely consequence is...
+23\. When people believe they are less biased than others, a likely consequence is...
 
 A. Reduced motivation to address their own prejudices
 
@@ -232,7 +232,7 @@ C. More accurate self-assessment over time
 
 D. Immediate elimination of implicit attitudes
 
-24. Media narratives that associate minority status with crime exemplify...
+24\. Media narratives that associate minority status with crime exemplify...
 
 A. Bilateral argument framing
 
@@ -242,7 +242,7 @@ C. Value-expressive attitude functions
 
 D. Stereotype threat removal
 
-25. According to the slides, discrimination corresponds most closely to which component of the ABC model?
+25\. According to the slides, discrimination corresponds most closely to which component of the ABC model?
 
 A. Affective
 
@@ -252,7 +252,7 @@ C. Cognitive
 
 D. Motivational
 
-26. Affective prejudice can exist even when...
+26\. Affective prejudice can exist even when...
 
 A. Behavioural discrimination is absent
 
@@ -262,7 +262,7 @@ C. Group categories are unknown
 
 D. Laws ban explicit bias
 
-27. Which statement about implicit attitudes is accurate per the lecture?
+27\. Which statement about implicit attitudes is accurate per the lecture?
 
 A. They never align with explicit attitudes
 
@@ -272,7 +272,7 @@ C. They can guide behaviour even without conscious endorsement
 
 D. They are measured only through self-report
 
-28. The workshop emphasised that implicit attitudes...
+28\. The workshop emphasised that implicit attitudes...
 
 A. Are impossible to change
 
@@ -282,7 +282,7 @@ C. Are best addressed by ignoring them
 
 D. Shift quickly after a single message
 
-29. A person thinking "most people from that minority group commit crimes" after hearing about a single case is demonstrating...
+29\. A person thinking "most people from that minority group commit crimes" after hearing about a single case is demonstrating...
 
 A. Fundamental attribution error only
 
@@ -292,7 +292,7 @@ C. Accurate statistical reasoning
 
 D. Self-perception effects
 
-30. Overall, the workshop message on prejudice and stereotyping is that...
+30\. Overall, the workshop message on prejudice and stereotyping is that...
 
 A. Biases are fixed traits and cannot be mitigated
 
@@ -306,33 +306,33 @@ D. Only explicit attitudes matter for behaviour
 
 Line citations point to the correct option lines above.
 
-1. D - line 13
-2. A - line 17
-3. C - line 31
-4. D - line 43
-5. C - line 51
-6. D - line 63
-7. D - line 73
-8. C - line 81
-9. C - line 91
-10. A - line 97
-11. B - line 109
-12. C - line 121
-13. A - line 127
-14. D - line 143
-15. A - line 147
-16. D - line 163
-17. C - line 171
-18. A - line 177
-19. D - line 193
-20. C - line 201
-21. B - line 209
-22. D - line 223
-23. A - line 227
-24. B - line 239
-25. B - line 249
-26. A - line 257
-27. C - line 271
-28. B - line 279
-29. B - line 289
-30. B - line 299
+1\. D - line 13
+2\. A - line 17
+3\. C - line 31
+4\. D - line 43
+5\. C - line 51
+6\. D - line 63
+7\. D - line 73
+8\. C - line 81
+9\. C - line 91
+10\. A - line 97
+11\. B - line 109
+12\. C - line 121
+13\. A - line 127
+14\. D - line 143
+15\. A - line 147
+16\. D - line 163
+17\. C - line 171
+18\. A - line 177
+19\. D - line 193
+20\. C - line 201
+21\. B - line 209
+22\. D - line 223
+23\. A - line 227
+24\. B - line 239
+25\. B - line 249
+26\. A - line 257
+27\. C - line 271
+28\. B - line 279
+29\. B - line 289
+30\. B - line 299
