@@ -1,339 +1,481 @@
 # Week 09 Interpersonal Attraction 2 - Practice MCQs
 
-## Questions
-
-1\. Parental Investment Theory (Trivers, 1972) explains sex differences in attraction based on...
-
-A. Equal time and risk invested by both sexes
-
-B. Cultural norms only
-
-C. Random variation without evolutionary basis
-
-D. Different parenting costs leading to different mating preferences
-
-
-2\. Status tends to be a stronger predictor of attraction for...
-
-A. Children
-
-B. Men
-
-C. Women
-
-D. No one; status is unrelated
-
-3\. Physical attractiveness tends to be a stronger predictor of attraction for...
-
-A. Men
-
-B. Women
-
-C. Both equally according to Sprecher (1989)
-
-D. Neither; looks are irrelevant
-
-4\. Symmetrical faces are judged more attractive than asymmetrical ones according to...
-
-A. Dutton & Aron (1974)
-
-B. Hitsch et al. (2010)
-
-C. Perrett et al. (1999)
-
-D. Byrne (1971)
-
-5\. Female facial cues linked to high oestrogen include...
-
-A. High cheekbones and smooth skin
-
-B. Large jaw and brow ridges
-
-C. Narrow eyes and broad nose
-
-D. Prominent adam's apple
-
-6\. Male facial cues signalling high testosterone include...
-
-A. High cheekbones and smooth skin
-
-B. High-pitched voice
-
-C. Narrow shoulders
-
-D. Large jaw and prominent brow ridges
-
-7\. A waist-to-hip ratio around 0.70 in women is associated with...
-
-A. Higher fertility and attractiveness
-
-B. Lower fertility
-
-C. Decreased health
-
-D. Greater illness risk
-
-8\. The matching hypothesis suggests people seek partners who...
-
-A. Are more socially desirable than themselves
-
-B. Are much less attractive
-
-C. Are random choices
-
-D. Match their own level of desirability
-
-9\. Murstein (1972) found real couples' faces were rated as...
-
-A. More alike than random pairs
-
-B. Less alike than random pairs
-
-C. Identical to siblings
-
-D. Less attractive than random pairs
-
-10\. In online dating, 'relationshopping' (Heino, 2010) refers to...
-
-A. Buying gifts to impress a date
-
-B. Purchasing dating apps in bulk
-
-C. Treating profiles like products and reducing people to attributes
-
-D. Comparing store prices before dating
-
-11\. Choice overload in dating apps can lead to...
-
-A. Faster decisions and more matches
-
-B. Avoidance of making any choice
-
-C. Better accuracy in partner selection
-
-D. Complete satisfaction regardless of options
-
-12\. In speed-dating events with larger choice sets (Fishman et al., 2006), participants tended to...
-
-A. Say yes to more partners
-
-B. Agree to all follow-ups
-
-C. Show no difference by event size
-
-D. Say yes to fewer partners
-
-13\. Online profile research (Hitsch et al., 2010) showed men and women typically reported...
-
-A. Heights shorter than national averages
-
-B. Weights higher than national averages
-
-C. Heights taller and women lighter than national averages
-
-D. Exact matches to national averages
-
-14\. Toma, Hancock & Ellison (2008) found about what percent of online daters lied about at least one characteristic?
-
-A. 20%
-
-B. 40%
-
-C. 60%
-
-D. 81%
-
-15\. Same-sex couples are more likely than heterosexual couples to be interethnic/interracial according to...
-
-A. Gates (2012)
-
-B. Kurdek & Schmitt (1987)
-
-C. Conway (2015)
-
-D. Rosenfeld & Thomas (2012)
-
-16\. A smaller field of eligibles may explain why...
-
-A. Heterosexual couples meet online more than same-sex couples
-
-B. Same-sex couples more often meet online and have wider age ranges
-
-C. Same-sex couples avoid online dating
-
-D. Lesbian couples never show matching
-
-17\. Self-disclosure research (Collins & Miller, 1994) found that people...
-
-A. Disclose less to those they like
-
-B. Dislike those who disclose
-
-C. Like others more after disclosing to them
-
-D. Prefer no reciprocity in disclosure
-
-18\. The norm of reciprocity in self-disclosure implies...
-
-A. Only one partner should share
-
-B. Early mutual sharing maintains relationships
-
-C. Disclosure is typically one-way
-
-D. Reciprocity never occurs in early stages
-
-19\. Hatfield & Walster's three-factor theory of love requires arousal, label, and...
-
-A. A rival partner
-
-B. Monetary investment
-
-C. An appropriate love object
-
-D. Absence of stress
-
-20\. The Dutton & Aron (1974) bridge study showed men on a shaky bridge...
-
-A. Attributed arousal to attraction and called more
-
-B. Were less likely to call the experimenter
-
-C. Reported no arousal
-
-D. Described pictures less sexually
-
-21\. Investment Model (Rusbult, 1983) posits commitment is higher when...
-
-A. Satisfaction is low, alternatives high, investments low
-
-B. Satisfaction is high, alternatives low, investments high
-
-C. Alternatives are abundant regardless of satisfaction
-
-D. Investments are zero
-
-22\. In Rusbult's model, abusive relationships may persist when...
-
-A. Investments are low and alternatives high
-
-B. Satisfaction is extremely high
-
-C. Alternatives are limited and investments high
-
-D. There is no commitment component
-
-23\. Comparison Level (CL) refers to...
-
-A. Comparing current relationship to possible alternatives
-
-B. Comparing to friends' relationships only
-
-C. Comparing current satisfaction to prior relationships
-
-D. Ignoring past experiences
-
-24\. Comparison Level for Alternatives (CLAlt) involves...
-
-A. Comparing to other possible relationships
-
-B. Evaluating only costs in current relationship
-
-C. Comparing to parental marriages
-
-D. Ignoring other options by choice
-
-25\. Baxter (1982) listed withdrawal/avoidance as a breakup strategy also known as...
-
-A. Positive-tone strategy
-
-B. Manipulation
-
-C. Open confrontation
-
-D. Ghosting
-
-26\. Positive-tone strategies in breakup aim to...
-
-A. Harm the partner emotionally
-
-B. Soften the blow and maintain dignity
-
-C. Ensure immediate reconciliation
-
-D. Avoid any communication
-
-27\. Manipulation as a breakup approach involves...
-
-A. Direct discussion of issues
-
-B. Indirect tactics to end the relationship
-
-C. Mutual agreement and planning
-
-D. Sudden relocation only
-
-28\. Open confrontation in dissolution is characterised by...
-
-A. Direct discussion of ending the relationship
-
-B. Indirect hints and avoidance
-
-C. No communication about the breakup
-
-D. Using third parties only
-
-29\. The matching hypothesis real-world evidence (Murstein, 1972) supports that partners...
-
-A. Are randomly assorted in attractiveness
-
-B. Tend to be matched on attractiveness
-
-C. Prefer unequal attractiveness gaps
-
-D. Avoid similarity in looks
-
-30\. Overall, the lecture suggests attraction and relationship processes are shaped by...
-
-A. Only physical attractiveness
-
-B. Purely financial exchanges
-
-C. Random chance without patterns
-
-D. Evolutionary factors, social context, disclosure, arousal, and investment dynamics
-
-## Answers (with line citations)
-
-Line citations point to the correct option lines above.
-
-1\. D - line 13
-2\. C - line 22
-3\. A - line 28
-4\. C - line 42
-5\. A - line 48
-6\. D - line 64
-7\. A - line 68
-8\. D - line 84
-9\. A - line 88
-10\. C - line 102
-11\. B - line 110
-12\. D - line 124
-13\. C - line 132
-14\. D - line 144
-15\. A - line 148
-16\. B - line 160
-17\. C - line 172
-18\. B - line 180
-19\. C - line 192
-20\. A - line 198
-21\. B - line 210
-22\. C - line 222
-23\. C - line 232
-24\. A - line 238
-25\. D - line 254
-26\. B - line 260
-27\. B - line 270
-28\. A - line 278
-29\. B - line 290
-30\. D - line 304
+```mcq
+---
+type: single
+question: 1\. Parental Investment Theory (Trivers, 1972) explains sex differences in attraction based on...
+---
+
+- [ ] Equal time and risk invested by both sexes
+    > The theory rests on unequal parental investment, not equal costs.
+- [ ] Cultural norms only
+    > It highlights evolved investment differences beyond culture alone.
+- [ ] Random variation without evolutionary basis
+    > The differences are tied to evolutionary investment, not randomness.
+- [x] Different parenting costs leading to different mating preferences
+    > Unequal investment leads men and women to prioritise different mate traits.
+```
+
+```mcq
+---
+type: single
+question: 2\. Status tends to be a stronger predictor of attraction for...
+---
+
+- [ ] Children
+    > Adult mate preferences were under discussion, not children's.
+- [ ] Men
+    > Men place more weight on attractiveness than status in the cited findings.
+- [x] Women
+    > Women tend to value status more strongly in partner selection.
+- [ ] No one; status is unrelated
+    > Status does matter, especially for women.
+```
+
+```mcq
+---
+type: single
+question: 3\. Physical attractiveness tends to be a stronger predictor of attraction for...
+---
+
+- [x] Men
+    > Men, more than women, weigh physical attractiveness heavily.
+- [ ] Women
+    > Women in the cited data placed relatively less weight on looks than men.
+- [ ] Both equally according to Sprecher (1989)
+    > Sprecher found gender differences rather than equality.
+- [ ] Neither; looks are irrelevant
+    > Looks were found to be relevant, particularly for men.
+```
+
+```mcq
+---
+type: single
+question: 4\. Symmetrical faces are judged more attractive than asymmetrical ones according to...
+---
+
+- [ ] Dutton & Aron (1974)
+    > Dutton & Aron studied misattributed arousal, not facial symmetry.
+- [ ] Hitsch et al. (2010)
+    > Hitsch studied online profiles rather than symmetry judgements.
+- [x] Perrett et al. (1999)
+    > Perrett and colleagues showed preferences for facial symmetry.
+- [ ] Byrne (1971)
+    > Byrne worked on attitude similarity, not symmetry.
+```
+
+```mcq
+---
+type: single
+question: 5\. Female facial cues linked to high oestrogen include...
+---
+
+- [x] High cheekbones and smooth skin
+    > These cues signal fertility-associated oestrogen levels.
+- [ ] Large jaw and brow ridges
+    > Those are more masculine testosterone-linked traits.
+- [ ] Narrow eyes and broad nose
+    > These are not the cited oestrogen cues.
+- [ ] Prominent adam's apple
+    > An adam's apple is a masculine trait, not tied to oestrogen.
+```
+
+```mcq
+---
+type: single
+question: 6\. Male facial cues signalling high testosterone include...
+---
+
+- [ ] High cheekbones and smooth skin
+    > These cues were linked to female oestrogenic features.
+- [ ] High-pitched voice
+    > High pitch is not a testosterone cue.
+- [ ] Narrow shoulders
+    > Broad, not narrow, shoulders signal masculinity.
+- [x] Large jaw and prominent brow ridges
+    > Strong jaws and brows are testosterone-linked masculine features.
+```
+
+```mcq
+---
+type: single
+question: 7\. A waist-to-hip ratio around 0.70 in women is associated with...
+---
+
+- [x] Higher fertility and attractiveness
+    > The 0.7 ratio is tied to perceived fertility and attractiveness.
+- [ ] Lower fertility
+    > Evidence links 0.7 to higher, not lower, fertility indicators.
+- [ ] Decreased health
+    > This ratio is associated with healthier profiles, not decreased health.
+- [ ] Greater illness risk
+    > It is seen as indicating lower, not higher, illness risk.
+```
+
+```mcq
+---
+type: single
+question: 8\. The matching hypothesis suggests people seek partners who...
+---
+
+- [ ] Are more socially desirable than themselves
+    > It posits matching, not aiming higher.
+- [ ] Are much less attractive
+    > People do not typically seek much less desirable partners.
+- [ ] Are random choices
+    > Choices are not random; they reflect matching tendencies.
+- [x] Match their own level of desirability
+    > Individuals pair with others of similar overall desirability.
+```
+
+```mcq
+---
+type: single
+question: 9\. Murstein (1972) found real couples' faces were rated as...
+---
+
+- [x] More alike than random pairs
+    > Actual couples were judged more similar-looking than random pairings.
+- [ ] Less alike than random pairs
+    > Similarity was higher, not lower, among real couples.
+- [ ] Identical to siblings
+    > They were more alike than random, but not sibling-identical.
+- [ ] Less attractive than random pairs
+    > The finding concerned similarity, not reduced attractiveness.
+```
+
+```mcq
+---
+type: single
+question: 10\. In online dating, 'relationshopping' (Heino, 2010) refers to...
+---
+
+- [ ] Buying gifts to impress a date
+    > The term is about treating people like products, not gift buying.
+- [ ] Purchasing dating apps in bulk
+    > It concerns profile browsing, not app purchases.
+- [x] Treating profiles like products and reducing people to attributes
+    > Users shop through profiles as if selecting products.
+- [ ] Comparing store prices before dating
+    > Price comparison is unrelated to the metaphor described.
+```
+
+```mcq
+---
+type: single
+question: 11\. Choice overload in dating apps can lead to...
+---
+
+- [ ] Faster decisions and more matches
+    > Overload often slows decisions and reduces choosing.
+- [x] Avoidance of making any choice
+    > Too many options can paralyse users into not choosing.
+- [ ] Better accuracy in partner selection
+    > Overload can impair, not improve, accuracy.
+- [ ] Complete satisfaction regardless of options
+    > Overabundance can reduce satisfaction.
+```
+
+```mcq
+---
+type: single
+question: 12\. In speed-dating events with larger choice sets (Fishman et al., 2006), participants tended to...
+---
+
+- [ ] Say yes to more partners
+    > With more options, they actually agreed less often.
+- [ ] Agree to all follow-ups
+    > They did not uniformly agree to follow-ups.
+- [ ] Show no difference by event size
+    > Event size affected choices.
+- [x] Say yes to fewer partners
+    > Larger choice sets reduced the number of yes decisions.
+```
+
+```mcq
+---
+type: single
+question: 13\. Online profile research (Hitsch et al., 2010) showed men and women typically reported...
+---
+
+- [ ] Heights shorter than national averages
+    > Men reported taller-than-average heights.
+- [ ] Weights higher than national averages
+    > Women tended to report lower weights.
+- [x] Heights taller and women lighter than national averages
+    > Profiles showed men inflating height and women deflating weight.
+- [ ] Exact matches to national averages
+    > Self-reports deviated from averages rather than matching exactly.
+```
+
+```mcq
+---
+type: single
+question: 14\. Toma, Hancock & Ellison (2008) found about what percent of online daters lied about at least one characteristic?
+---
+
+- [ ] 20%
+    > Lying rates were higher than 20%.
+- [ ] 40%
+    > The proportion exceeded 40%.
+- [ ] 60%
+    > It was greater than 60%.
+- [x] 81%
+    > Roughly 81% misrepresented at least one attribute.
+```
+
+```mcq
+---
+type: single
+question: 15\. Same-sex couples are more likely than heterosexual couples to be interethnic/interracial according to...
+---
+
+- [x] Gates (2012)
+    > Gates reported higher interethnic/interracial rates among same-sex couples.
+- [ ] Kurdek & Schmitt (1987)
+    > This study addressed other aspects, not this comparison.
+- [ ] Conway (2015)
+    > Conway was not the cited evidence for this statistic.
+- [ ] Rosenfeld & Thomas (2012)
+    > Their focus differed from the specific interethnic finding.
+```
+
+```mcq
+---
+type: single
+question: 16\. A smaller field of eligibles may explain why...
+---
+
+- [ ] Heterosexual couples meet online more than same-sex couples
+    > Same-sex couples more often meet online given fewer offline options.
+- [x] Same-sex couples more often meet online and have wider age ranges
+    > Limited eligibles drive online meeting and broader age pairing among same-sex couples.
+- [ ] Same-sex couples avoid online dating
+    > They use online platforms frequently.
+- [ ] Lesbian couples never show matching
+    > Matching occurs; the point was about meeting context and age range.
+```
+
+```mcq
+---
+type: single
+question: 17\. Self-disclosure research (Collins & Miller, 1994) found that people...
+---
+
+- [ ] Disclose less to those they like
+    > People share more with those they like.
+- [ ] Dislike those who disclose
+    > Disclosure typically increases liking.
+- [x] Like others more after disclosing to them
+    > Sharing information boosts liking toward the recipient.
+- [ ] Prefer no reciprocity in disclosure
+    > Reciprocity supports relationship development.
+```
+
+```mcq
+---
+type: single
+question: 18\. The norm of reciprocity in self-disclosure implies...
+---
+
+- [ ] Only one partner should share
+    > Reciprocity expects both to share.
+- [x] Early mutual sharing maintains relationships
+    > Balanced, mutual disclosure helps relationships progress.
+- [ ] Disclosure is typically one-way
+    > One-way disclosure can be off-putting; reciprocity is expected.
+- [ ] Reciprocity never occurs in early stages
+    > Early stages often feature reciprocal sharing.
+```
+
+```mcq
+---
+type: single
+question: 19\. Hatfield & Walster's three-factor theory of love requires arousal, label, and...
+---
+
+- [ ] A rival partner
+    > A rival is not required in the theory.
+- [ ] Monetary investment
+    > Money is not a necessary factor.
+- [x] An appropriate love object
+    > Arousal must be attributed to a suitable target along with a love label.
+- [ ] Absence of stress
+    > Stress absence is not one of the required components.
+```
+
+```mcq
+---
+type: single
+question: 20\. The Dutton & Aron (1974) bridge study showed men on a shaky bridge...
+---
+
+- [x] Attributed arousal to attraction and called more
+    > Heightened arousal on the shaky bridge was misattributed to attraction, increasing calls.
+- [ ] Were less likely to call the experimenter
+    > Call rates were higher on the arousing bridge.
+- [ ] Reported no arousal
+    > The bridge induced arousal that influenced responses.
+- [ ] Described pictures less sexually
+    > They offered more sexual stories when aroused.
+```
+
+```mcq
+---
+type: single
+question: 21\. Investment Model (Rusbult, 1983) posits commitment is higher when...
+---
+
+- [ ] Satisfaction is low, alternatives high, investments low
+    > Low satisfaction and high alternatives reduce commitment.
+- [x] Satisfaction is high, alternatives low, investments high
+    > High satisfaction, poor alternatives, and big investments boost commitment.
+- [ ] Alternatives are abundant regardless of satisfaction
+    > Abundant alternatives lower, not raise, commitment.
+- [ ] Investments are zero
+    > High investments increase commitment.
+```
+
+```mcq
+---
+type: single
+question: 22\. In Rusbult's model, abusive relationships may persist when...
+---
+
+- [ ] Investments are low and alternatives high
+    > Low investments and high alternatives would ease leaving.
+- [ ] Satisfaction is extremely high
+    > Satisfaction is not typically high in abusive relationships.
+- [x] Alternatives are limited and investments high
+    > Few alternatives and heavy investments can trap partners despite low satisfaction.
+- [ ] There is no commitment component
+    > Commitment exists even when satisfaction is low.
+```
+
+```mcq
+---
+type: single
+question: 23\. Comparison Level (CL) refers to...
+---
+
+- [ ] Comparing current relationship to possible alternatives
+    > That is the comparison level for alternatives.
+- [ ] Comparing to friends' relationships only
+    > CL draws on one's own expectations, not just friends' examples.
+- [x] Comparing current satisfaction to prior relationships
+    > CL is the standard shaped by past experiences for judging current outcomes.
+- [ ] Ignoring past experiences
+    > Past experiences inform the comparison level.
+```
+
+```mcq
+---
+type: single
+question: 24\. Comparison Level for Alternatives (CLAlt) involves...
+---
+
+- [x] Comparing to other possible relationships
+    > CLAlt gauges how current outcomes stack against available alternatives.
+- [ ] Evaluating only costs in current relationship
+    > It includes potential rewards elsewhere, not just current costs.
+- [ ] Comparing to parental marriages
+    > Parental models may inform CL, but CLAlt is about available alternatives.
+- [ ] Ignoring other options by choice
+    > It explicitly considers other options.
+```
+
+```mcq
+---
+type: single
+question: 25\. Baxter (1982) listed withdrawal/avoidance as a breakup strategy also known as...
+---
+
+- [ ] Positive-tone strategy
+    > Positive-tone aims to be gentle, not avoidant.
+- [ ] Manipulation
+    > Manipulation uses indirect tactics, not simple withdrawal.
+- [ ] Open confrontation
+    > Confrontation is direct, not avoidant.
+- [x] Ghosting
+    > Withdrawal/avoidance aligns with disappearing or ghosting.
+```
+
+```mcq
+---
+type: single
+question: 26\. Positive-tone strategies in breakup aim to...
+---
+
+- [ ] Harm the partner emotionally
+    > They seek to minimise hurt, not cause it.
+- [x] Soften the blow and maintain dignity
+    > Positive tone tries to end kindly and respectfully.
+- [ ] Ensure immediate reconciliation
+    > The goal is gentle dissolution, not reconciliation.
+- [ ] Avoid any communication
+    > They involve communication framed positively.
+```
+
+```mcq
+---
+type: single
+question: 27\. Manipulation as a breakup approach involves...
+---
+
+- [ ] Direct discussion of issues
+    > Manipulation avoids directness.
+- [x] Indirect tactics to end the relationship
+    > Using indirect strategies like third parties or staged conflicts is manipulation.
+- [ ] Mutual agreement and planning
+    > Mutual planning is more direct and collaborative.
+- [ ] Sudden relocation only
+    > Relocation could be one tactic, but manipulation broadly covers indirect methods.
+```
+
+```mcq
+---
+type: single
+question: 28\. Open confrontation in dissolution is characterised by...
+---
+
+- [x] Direct discussion of ending the relationship
+    > Open confrontation involves explicitly talking about breaking up.
+- [ ] Indirect hints and avoidance
+    > Hints and avoidance define withdrawal, not confrontation.
+- [ ] No communication about the breakup
+    > Confrontation uses communication, not silence.
+- [ ] Using third parties only
+    > It is direct rather than through intermediaries.
+```
+
+```mcq
+---
+type: single
+question: 29\. The matching hypothesis real-world evidence (Murstein, 1972) supports that partners...
+---
+
+- [ ] Are randomly assorted in attractiveness
+    > Couples were not random; similarity emerged.
+- [x] Tend to be matched on attractiveness
+    > Real couples showed similarity in attractiveness ratings.
+- [ ] Prefer unequal attractiveness gaps
+    > The evidence showed matching, not gaps.
+- [ ] Avoid similarity in looks
+    > Similarity was observed rather than avoided.
+```
+
+```mcq
+---
+type: single
+question: 30\. Overall, the lecture suggests attraction and relationship processes are shaped by...
+---
+
+- [ ] Only physical attractiveness
+    > Many other factors beyond looks influence relationships.
+- [ ] Purely financial exchanges
+    > Social and evolutionary dynamics go beyond finances.
+- [ ] Random chance without patterns
+    > Patterns like investment, disclosure, and arousal were highlighted.
+- [x] Evolutionary factors, social context, disclosure, arousal, and investment dynamics
+    > Attraction involves evolved preferences, context, self-disclosure, arousal effects, and commitment factors.
+```

@@ -1,338 +1,481 @@
 # Week 03 Attitudes and Advertising - Practice MCQs
 
-## Questions
-
-1\. According to Bohner and Dickel's definition, an attitude is best described as...
-
-A. A direct behavioural observation of an object
-
-B. A reflexive motor response
-
-C. A temporary mood state unrelated to objects
-
-D. An evaluation of an object of thought
-
-2\. The tripartite model (Beckler, 1984) separates attitudes into which components?
-
-A. Behavioural, cognitive, affective
-
-B. Behavioural, genetic, cultural
-
-C. Biological, hormonal, neural
-
-D. Cognitive, perceptual, motor
-
-3\. Saying "I think going to the dentist is important" reflects which attitude component in the tripartite model?
-
-A. Behavioural
-
-B. Instrumental
-
-C. Affective
-
-D. Cognitive
-
-4\. Katz's adaptive (instrumental) function of attitudes serves primarily to...
-
-A. Provide abstract explanations of the environment
-
-B. Help attain rewards or avoid punishments
-
-C. Express core identity and values
-
-D. Protect self-esteem from threats
-
-5\. The knowledge function of attitudes helps individuals to...
-
-A. Express belonging to a social group
-
-B. Protect against anxiety-inducing thoughts
-
-C. Maximise immediate reinforcement schedules
-
-D. Predict and organise understanding of the environment
-
-6\. Which attitude function is emphasised when someone adopts a belief to fit their self-concept?
-
-A. Adaptive
-
-B. Knowledge
-
-C. Value-expressive
-
-D. Ego-defensive
-
-7\. Cognitive dissonance refers to the discomfort arising from...
-
-A. Excessive agreement between attitudes and behaviour
-
-B. A mismatch between thoughts and behaviour
-
-C. A surplus of positive reinforcement
-
-D. Exposure to unfamiliar stimuli
-
-8\. Self-perception theory suggests that people infer their attitudes by...
-
-A. Reading authoritative texts
-
-B. Ignoring past actions
-
-C. Observing their own behaviour
-
-D. Waiting for explicit instruction
-
-9\. Classical conditioning in attitude formation involves...
-
-A. Pairing an object with positive or negative stimuli so it acquires that valence
-
-B. Continuous punishment until behaviour changes
-
-C. Observing peers to learn vicariously
-
-D. Providing rewards after correct responses only
-
-10\. Operant conditioning shapes attitudes by...
-
-A. Repeatedly exposing individuals to neutral stimuli
-
-B. Presenting ambiguous information without feedback
-
-C. Removing all consequences from choices
-
-D. Using reinforcement or punishment following behaviours toward an object
-
-11\. Mere exposure effects (Zajonc, 1968) show that repeated contact with a stimulus tends to...
-
-A. Have no impact on attitude formation
-
-B. Increase dislike for that stimulus
-
-C. Eliminate the need for conditioning
-
-D. Increase liking relative to less encountered stimuli
-
-12\. In the ice cream A/B slide, preference for the flavour seen more often illustrates...
-
-A. Variable reinforcement
-
-B. Ego-defensive processing
-
-C. Mere exposure
-
-D. Operant conditioning
-
-13\. Imitating a regional accent leading to more positive attitudes toward that accent (Adank et al., 2013) is an example of...
-
-A. Conditioning through punishment
-
-B. Attitude change via cognitive dissonance
-
-C. Central route persuasion
-
-D. Attitude shift through behavioural imitation
-
-14\. The central route in the Elaboration Likelihood Model (ELM) involves...
-
-A. Superficial cues like attractiveness of the source
-
-B. Random decision making without processing
-
-C. Careful scrutiny of message content and arguments
-
-D. Distracted processing dominated by heuristics
-
-15\. Which factor increases likelihood of central route processing?
-
-A. Low personal relevance of the message
-
-B. High distraction during message exposure
-
-C. Extremely weak arguments
-
-D. Strong motivation and ability to elaborate
-
-16\. Peripheral route persuasion is most associated with...
-
-A. Temporary shifts driven by superficial cues
-
-B. Durable attitude change based on strong arguments
-
-C. Systematic evaluation of evidence
-
-D. Rejection of all heuristic cues
-
-17\. Need for cognition (Cacioppo et al., 1996) is a target factor that...
-
-A. Measures sensitivity to social rejection
-
-B. Indicates susceptibility to punishment
-
-C. Reflects preference for effortful thinking
-
-D. Predicts aversion to any elaboration
-
-18\. Need for closure (Pierro et al., 2004) relates to...
-
-A. Seeking open-ended debate
-
-B. Preference for quick, definitive answers
-
-C. Avoidance of any decision-making
-
-D. Love of ambiguous puzzles only
-
-19\. A long advertisement filled with weak arguments but flashy visuals is likely relying on...
-
-A. High elaboration and careful scrutiny
-
-B. Peripheral cues rather than strong content
-
-C. Bilateral argument strength
-
-D. Central route processing
-
-20\. In the ELM, strong arguments are most effective when...
-
-A. The audience is unmotivated and distracted
-
-B. The audience processes via the central route
-
-C. The audience relies solely on heuristics
-
-D. The message is unrelated to personal relevance
-
-21\. Variable reinforcement in marketing (e.g., surprise rewards) aims to...
-
-A. Guarantee immediate attitude change without repetition
-
-B. Remove all positive reinforcement from offers
-
-C. Keep consumers engaged by intermittent rewards
-
-D. Reduce engagement through predictability
-
-22\. The "that's-not-all" technique in marketing works by...
-
-A. Presenting an extreme request then retreating
-
-B. Hiding extra costs after agreement
-
-C. Adding bonuses or reducing price to sweeten the deal before a decision
-
-D. Starting with a small request and escalating it
-
-23\. Low-ball techniques in advertising involve...
-
-A. Offering a great deal, then revealing hidden costs after initial agreement
-
-B. Using peer testimony as the main tactic
-
-C. Avoiding any mention of price
-
-D. Providing extra bonuses at the start
-
-24\. The foot-in-the-door technique relies on...
-
-A. A small agreed request followed by a related larger request
-
-B. A large initial request followed by a smaller one
-
-C. A single, all-or-nothing demand
-
-D. No prior interaction before the main request
-
-25\. Cognitive dissonance can motivate attitude change by prompting individuals to...
-
-A. Ignore conflicting information entirely
-
-B. Seek more punishment to justify behaviour
-
-C. Increase inconsistency between belief and behaviour
-
-D. Adjust either thoughts or behaviours to reduce mismatch
-
-26\. In operant conditioning for attitudes (Kim & Sundar, 2014), positive reinforcement after user actions...
-
-A. Builds positive attitudes by rewarding engagement
-
-B. Eliminates the role of personal relevance
-
-C. Works only when paired with punishment
-
-D. Weakens favourable attitudes toward the object
-
-27\. In the ELM, distraction typically...
-
-A. Makes strong arguments more persuasive
-
-B. Pushes processing toward the peripheral route
-
-C. Eliminates heuristic use entirely
-
-D. Increases scrutiny of message arguments
-
-28\. A value-expressive function of attitudes is evident when someone...
-
-A. Avoids threats to self-esteem
-
-B. Uses rewards to shape behaviour
-
-C. Chooses a brand to signal identity alignment
-
-D. Seeks information to predict outcomes
-
-29\. Ego-defensive functions of attitudes primarily help to...
-
-A. Protect self-esteem from threat or anxiety
-
-B. Achieve instrumental rewards
-
-C. Provide cognitive structure for prediction
-
-D. Express cultural values outwardly
-
-30\. The overarching lesson from the attitudes lecture is that...
-
-A. Attitudes are fixed traits unaffected by experience
-
-B. Attitudes form and change through multiple routes, functions, and learning mechanisms
-
-C. Only conditioning, not cognition, shapes attitudes
-
-D. Persuasion works only via source attractiveness
-
-## Answers (with line citations)
-
-Line citations point to the correct option lines above.
-
-1\. D - line 13
-2\. A - line 17
-3\. D - line 33
-4\. B - line 39
-5\. D - line 53
-6\. C - line 61
-7\. B - line 69
-8\. C - line 81
-9\. A - line 87
-10\. D - line 103
-11\. D - line 113
-12\. C - line 121
-13\. D - line 133
-14\. C - line 141
-15\. D - line 153
-16\. A - line 157
-17\. C - line 171
-18\. B - line 179
-19\. B - line 189
-20\. B - line 199
-21\. C - line 211
-22\. C - line 221
-23\. A - line 227
-24\. A - line 237
-25\. D - line 253
-26\. A - line 257
-27\. B - line 269
-28\. C - line 281
-29\. A - line 287
-30\. B - line 299
+```mcq
+---
+type: single
+question: 1\. According to Bohner and Dickel's definition, an attitude is best described as...
+---
+
+- [ ] A direct behavioural observation of an object
+    > Observing behaviour is not itself an attitude.
+- [ ] A reflexive motor response
+    > Reflexes are automatic actions, not evaluative stances.
+- [ ] A temporary mood state unrelated to objects
+    > Attitudes are tied to objects of thought, not fleeting moods.
+- [x] An evaluation of an object of thought
+    > Bohner and Dickel define attitudes as evaluative responses toward objects.
+```
+
+```mcq
+---
+type: single
+question: 2\. The tripartite model (Beckler, 1984) separates attitudes into which components?
+---
+
+- [x] Behavioural, cognitive, affective
+    > The model distinguishes behaviour tendencies, beliefs, and feelings.
+- [ ] Behavioural, genetic, cultural
+    > Genetics and culture are not the tripartite components.
+- [ ] Biological, hormonal, neural
+    > Physiological systems are outside this attitudinal model.
+- [ ] Cognitive, perceptual, motor
+    > Perceptual and motor pieces are not the classic trio.
+```
+
+```mcq
+---
+type: single
+question: 3\. Saying "I think going to the dentist is important" reflects which attitude component in the tripartite model?
+---
+
+- [ ] Behavioural
+    > Behavioural components concern actions or intentions, not thoughts.
+- [ ] Instrumental
+    > Instrumental is a function, not a tripartite component.
+- [ ] Affective
+    > Affective deals with feelings, not this stated belief.
+- [x] Cognitive
+    > The statement is a belief about the dentist, reflecting cognition.
+```
+
+```mcq
+---
+type: single
+question: 4\. Katz's adaptive (instrumental) function of attitudes serves primarily to...
+---
+
+- [ ] Provide abstract explanations of the environment
+    > Explaining the environment is the knowledge function, not adaptive.
+- [x] Help attain rewards or avoid punishments
+    > The adaptive function guides behaviour toward rewards and away from costs.
+- [ ] Express core identity and values
+    > Expressing identity aligns with the value-expressive function.
+- [ ] Protect self-esteem from threats
+    > Shielding self-esteem is ego-defensive, not adaptive.
+```
+
+```mcq
+---
+type: single
+question: 5\. The knowledge function of attitudes helps individuals to...
+---
+
+- [ ] Express belonging to a social group
+    > Belonging expression is value-expressive, not knowledge-based.
+- [ ] Protect against anxiety-inducing thoughts
+    > Anxiety buffering is ego-defensive, not knowledge oriented.
+- [ ] Maximise immediate reinforcement schedules
+    > Reinforcement relates to adaptive uses, not knowledge structuring.
+- [x] Predict and organise understanding of the environment
+    > Knowledge functions provide structure for interpreting and predicting events.
+```
+
+```mcq
+---
+type: single
+question: 6\. Which attitude function is emphasised when someone adopts a belief to fit their self-concept?
+---
+
+- [ ] Adaptive
+    > Adaptive is about rewards and punishments, not self-concept expression.
+- [ ] Knowledge
+    > Knowledge serves organisation, not identity alignment.
+- [x] Value-expressive
+    > Value-expressive attitudes communicate and align with one's identity and values.
+- [ ] Ego-defensive
+    > Ego-defensive protects self-esteem but is not primarily about identity expression.
+```
+
+```mcq
+---
+type: single
+question: 7\. Cognitive dissonance refers to the discomfort arising from...
+---
+
+- [ ] Excessive agreement between attitudes and behaviour
+    > Concordance does not create dissonance.
+- [x] A mismatch between thoughts and behaviour
+    > Dissonance is the tension produced by inconsistency between cognitions and actions.
+- [ ] A surplus of positive reinforcement
+    > Reinforcement levels are unrelated to dissonance discomfort.
+- [ ] Exposure to unfamiliar stimuli
+    > Novelty alone does not define cognitive dissonance.
+```
+
+```mcq
+---
+type: single
+question: 8\. Self-perception theory suggests that people infer their attitudes by...
+---
+
+- [ ] Reading authoritative texts
+    > The theory focuses on observing one's own behaviour, not consulting texts.
+- [ ] Ignoring past actions
+    > It relies on past actions as evidence.
+- [x] Observing their own behaviour
+    > People look at their behaviour to infer what they must feel or believe.
+- [ ] Waiting for explicit instruction
+    > Self-perception does not depend on others telling you what you think.
+```
+
+```mcq
+---
+type: single
+question: 9\. Classical conditioning in attitude formation involves...
+---
+
+- [x] Pairing an object with positive or negative stimuli so it acquires that valence
+    > Repeated pairing transfers the valence of the unconditioned stimulus to the object.
+- [ ] Continuous punishment until behaviour changes
+    > Punishment schedules are operant, not classical conditioning.
+- [ ] Observing peers to learn vicariously
+    > Vicarious learning is social learning, not classical conditioning.
+- [ ] Providing rewards after correct responses only
+    > Rewarding responses is operant, not classical conditioning.
+```
+
+```mcq
+---
+type: single
+question: 10\. Operant conditioning shapes attitudes by...
+---
+
+- [ ] Repeatedly exposing individuals to neutral stimuli
+    > Mere exposure is separate from operant reinforcement.
+- [ ] Presenting ambiguous information without feedback
+    > Operant conditioning hinges on feedback, not ambiguity without consequences.
+- [ ] Removing all consequences from choices
+    > Without consequences, operant conditioning cannot occur.
+- [x] Using reinforcement or punishment following behaviours toward an object
+    > Consequences after behaviour alter attitudes via operant conditioning.
+```
+
+```mcq
+---
+type: single
+question: 11\. Mere exposure effects (Zajonc, 1968) show that repeated contact with a stimulus tends to...
+---
+
+- [ ] Have no impact on attitude formation
+    > The effect shows repetition does change attitudes.
+- [ ] Increase dislike for that stimulus
+    > Typically, repetition increases liking rather than dislike.
+- [ ] Eliminate the need for conditioning
+    > It is a separate phenomenon, not a replacement for conditioning.
+- [x] Increase liking relative to less encountered stimuli
+    > Familiarity from repetition boosts liking in the mere exposure effect.
+```
+
+```mcq
+---
+type: single
+question: 12\. In the ice cream A/B slide, preference for the flavour seen more often illustrates...
+---
+
+- [ ] Variable reinforcement
+    > No rewards vary; only exposure changes.
+- [ ] Ego-defensive processing
+    > The effect is not about defending self-esteem.
+- [x] Mere exposure
+    > Greater exposure led to greater liking for that flavour.
+- [ ] Operant conditioning
+    > No reinforcements were administered for choices.
+```
+
+```mcq
+---
+type: single
+question: 13\. Imitating a regional accent leading to more positive attitudes toward that accent (Adank et al., 2013) is an example of...
+---
+
+- [ ] Conditioning through punishment
+    > No punishment was involved in the imitation.
+- [ ] Attitude change via cognitive dissonance
+    > The change stems from behaviour imitation, not resolving dissonance.
+- [ ] Central route persuasion
+    > Careful argument processing was not the mechanism.
+- [x] Attitude shift through behavioural imitation
+    > Mimicking the accent changed attitudes through enacted behaviour.
+```
+
+```mcq
+---
+type: single
+question: 14\. The central route in the Elaboration Likelihood Model (ELM) involves...
+---
+
+- [ ] Superficial cues like attractiveness of the source
+    > Those cues drive the peripheral route.
+- [ ] Random decision making without processing
+    > Central processing is deliberative, not random.
+- [ ] Distracted processing dominated by heuristics
+    > Heuristic-driven processing is peripheral, not central.
+- [x] Careful scrutiny of message content and arguments
+    > Central route persuasion rests on thoughtful evaluation of argument quality.
+```
+
+```mcq
+---
+type: single
+question: 15\. Which factor increases likelihood of central route processing?
+---
+
+- [ ] Low personal relevance of the message
+    > Low relevance reduces motivation to elaborate.
+- [ ] High distraction during message exposure
+    > Distraction hampers elaboration.
+- [ ] Extremely weak arguments
+    > Weak content does not invite deep processing.
+- [x] Strong motivation and ability to elaborate
+    > High motivation and ability encourage central-route scrutiny.
+```
+
+```mcq
+---
+type: single
+question: 16\. Peripheral route persuasion is most associated with...
+---
+
+- [x] Temporary shifts driven by superficial cues
+    > Peripheral processing yields short-lived changes based on surface cues.
+- [ ] Durable attitude change based on strong arguments
+    > Durable change follows central processing of strong arguments.
+- [ ] Systematic evaluation of evidence
+    > Systematic evaluation defines the central route.
+- [ ] Rejection of all heuristic cues
+    > Heuristics are central to the peripheral route, not rejected.
+```
+
+```mcq
+---
+type: single
+question: 17\. Need for cognition (Cacioppo et al., 1996) is a target factor that...
+---
+
+- [ ] Measures sensitivity to social rejection
+    > It assesses enjoyment of thinking, not rejection sensitivity.
+- [ ] Indicates susceptibility to punishment
+    > Punishment sensitivity is unrelated to need for cognition.
+- [x] Reflects preference for effortful thinking
+    > High need for cognition means liking effortful cognitive activities.
+- [ ] Predicts aversion to any elaboration
+    > High scorers prefer elaboration rather than avoid it.
+```
+
+```mcq
+---
+type: single
+question: 18\. Need for closure (Pierro et al., 2004) relates to...
+---
+
+- [ ] Seeking open-ended debate
+    > Need for closure favours decisiveness over endless debate.
+- [x] Preference for quick, definitive answers
+    > People high in need for closure want firm, speedy conclusions.
+- [ ] Avoidance of any decision-making
+    > They prefer decisions, not avoidance.
+- [ ] Love of ambiguous puzzles only
+    > They are uncomfortable with ambiguity rather than attracted to it.
+```
+
+```mcq
+---
+type: single
+question: 19\. A long advertisement filled with weak arguments but flashy visuals is likely relying on...
+---
+
+- [ ] High elaboration and careful scrutiny
+    > Weak arguments and flash suggest minimal elaboration.
+- [x] Peripheral cues rather than strong content
+    > The ad leans on visuals as peripheral cues instead of solid arguments.
+- [ ] Bilateral argument strength
+    > The arguments are weak, not balanced and strong.
+- [ ] Central route processing
+    > Central processing would require strong content, which is absent here.
+```
+
+```mcq
+---
+type: single
+question: 20\. In the ELM, strong arguments are most effective when...
+---
+
+- [ ] The audience is unmotivated and distracted
+    > Distraction undermines the impact of strong arguments.
+- [x] The audience processes via the central route
+    > Strong arguments persuade when listeners are motivated and able to elaborate.
+- [ ] The audience relies solely on heuristics
+    > Heuristic reliance downplays argument quality.
+- [ ] The message is unrelated to personal relevance
+    > Personal relevance boosts central processing needed for strong arguments to work.
+```
+
+```mcq
+---
+type: single
+question: 21\. Variable reinforcement in marketing (e.g., surprise rewards) aims to...
+---
+
+- [ ] Guarantee immediate attitude change without repetition
+    > Variable rewards build engagement over time, not instant change.
+- [ ] Remove all positive reinforcement from offers
+    > The strategy adds intermittent rewards, not removes them.
+- [x] Keep consumers engaged by intermittent rewards
+    > Unpredictable bonuses sustain interest and favourable attitudes.
+- [ ] Reduce engagement through predictability
+    > Predictability lowers arousal; variable schedules heighten engagement.
+```
+
+```mcq
+---
+type: single
+question: 22\. The "that's-not-all" technique in marketing works by...
+---
+
+- [ ] Presenting an extreme request then retreating
+    > That describes door-in-the-face, not this tactic.
+- [ ] Hiding extra costs after agreement
+    > Concealing costs is low-balling, not that's-not-all.
+- [x] Adding bonuses or reducing price to sweeten the deal before a decision
+    > The seller improves the offer mid-pitch to encourage compliance.
+- [ ] Starting with a small request and escalating it
+    > That sequence is foot-in-the-door, not that's-not-all.
+```
+
+```mcq
+---
+type: single
+question: 23\. Low-ball techniques in advertising involve...
+---
+
+- [x] Offering a great deal, then revealing hidden costs after initial agreement
+    > Low-balling secures commitment before disclosing added costs or constraints.
+- [ ] Using peer testimony as the main tactic
+    > Testimonials are a different persuasion cue.
+- [ ] Avoiding any mention of price
+    > The tactic hinges on price changes, not avoiding price.
+- [ ] Providing extra bonuses at the start
+    > Bonuses upfront are closer to that's-not-all, not low-ball.
+```
+
+```mcq
+---
+type: single
+question: 24\. The foot-in-the-door technique relies on...
+---
+
+- [x] A small agreed request followed by a related larger request
+    > Securing a small commitment paves the way for a bigger one.
+- [ ] A large initial request followed by a smaller one
+    > That is door-in-the-face, not foot-in-the-door.
+- [ ] A single, all-or-nothing demand
+    > The technique uses two steps, not one.
+- [ ] No prior interaction before the main request
+    > The initial small request is essential.
+```
+
+```mcq
+---
+type: single
+question: 25\. Cognitive dissonance can motivate attitude change by prompting individuals to...
+---
+
+- [ ] Ignore conflicting information entirely
+    > Ignoring conflict leaves dissonance unresolved.
+- [ ] Seek more punishment to justify behaviour
+    > Dissonance reduction does not require punishment seeking.
+- [ ] Increase inconsistency between belief and behaviour
+    > People aim to reduce, not increase, inconsistency.
+- [x] Adjust either thoughts or behaviours to reduce mismatch
+    > Changing beliefs or actions relieves the discomfort of dissonance.
+```
+
+```mcq
+---
+type: single
+question: 26\. In operant conditioning for attitudes (Kim & Sundar, 2014), positive reinforcement after user actions...
+---
+
+- [x] Builds positive attitudes by rewarding engagement
+    > Rewards following actions increase favourable attitudes toward the activity or brand.
+- [ ] Eliminates the role of personal relevance
+    > Reinforcement does not remove relevance effects.
+- [ ] Works only when paired with punishment
+    > Positive reinforcement can work without adding punishment.
+- [ ] Weakens favourable attitudes toward the object
+    > Rewards typically strengthen, not weaken, attitudes.
+```
+
+```mcq
+---
+type: single
+question: 27\. In the ELM, distraction typically...
+---
+
+- [ ] Makes strong arguments more persuasive
+    > Distraction undermines careful consideration of strong arguments.
+- [x] Pushes processing toward the peripheral route
+    > When distracted, people rely more on superficial cues.
+- [ ] Eliminates heuristic use entirely
+    > Heuristics become more likely, not less, under distraction.
+- [ ] Increases scrutiny of message arguments
+    > Scrutiny drops when attention is diverted.
+```
+
+```mcq
+---
+type: single
+question: 28\. A value-expressive function of attitudes is evident when someone...
+---
+
+- [ ] Avoids threats to self-esteem
+    > Avoidance of threat is ego-defensive.
+- [ ] Uses rewards to shape behaviour
+    > Rewards relate to the adaptive function.
+- [x] Chooses a brand to signal identity alignment
+    > Selecting a brand to express identity exemplifies value expression.
+- [ ] Seeks information to predict outcomes
+    > Prediction aligns with the knowledge function.
+```
+
+```mcq
+---
+type: single
+question: 29\. Ego-defensive functions of attitudes primarily help to...
+---
+
+- [x] Protect self-esteem from threat or anxiety
+    > Ego-defensive attitudes buffer against threats to self-worth.
+- [ ] Achieve instrumental rewards
+    > Instrumental goals are adaptive, not ego-defensive.
+- [ ] Provide cognitive structure for prediction
+    > Structure for prediction is the knowledge function.
+- [ ] Express cultural values outwardly
+    > Expressing values is value-expressive rather than ego-defensive.
+```
+
+```mcq
+---
+type: single
+question: 30\. The overarching lesson from the attitudes lecture is that...
+---
+
+- [ ] Attitudes are fixed traits unaffected by experience
+    > The lecture emphasised that attitudes can form and change.
+- [x] Attitudes form and change through multiple routes, functions, and learning mechanisms
+    > Multiple processes—from conditioning to elaboration—shape attitudes over time.
+- [ ] Only conditioning, not cognition, shapes attitudes
+    > Cognitive processes like elaboration and dissonance also drive change.
+- [ ] Persuasion works only via source attractiveness
+    > Source cues are just one peripheral factor among many mechanisms.
+```
