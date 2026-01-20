@@ -3,7 +3,7 @@ Here are 30 multiple-choice questions based on the provided lecture notes on "Pe
 ```mcq
 ---
 type: single
-question: 1. By showing them two paddles simultaneously (one with black and white stripes of differing width, and the other a gray paddle) and checking which one the infant stares at for longer, which visual skill of infants can be measured?
+question: 1\. By showing them two paddles simultaneously (one with black and white stripes of differing width, and the other a gray paddle) and checking which one the infant stares at for longer, which visual skill of infants can be measured?
 ---
 
 - [x] Visual acuity
@@ -19,7 +19,7 @@ question: 1. By showing them two paddles simultaneously (one with black and whit
 ```mcq
 ---
 type: single
-question: 2. Which of the below is an example of object segregation?
+question: 2\. Which of the below is an example of object segregation?
 ---
 
 - [ ] Perceiving objects as being of constant size, shape and colour in spite of physical differences in the retinal image of the object
@@ -35,7 +35,7 @@ question: 2. Which of the below is an example of object segregation?
 ```mcq
 ---
 type: single
-question: 3. Which of the below is NOT correct about infants' sense of taste and smell?
+question: 3\. Which of the below is NOT correct about infants' sense of taste and smell?
 ---
 
 - [ ] Infants are sensitive to taste and smell before birth
@@ -51,7 +51,7 @@ question: 3. Which of the below is NOT correct about infants' sense of taste and
 ```mcq
 ---
 type: single
-question: 4. Which term describes the process of organizing and interpreting sensory information about objects, events, and spatial layout?
+question: 4\. Which term describes the process of organizing and interpreting sensory information about objects, events, and spatial layout?
 ---
 
 - [ ] Sensation
@@ -67,7 +67,7 @@ question: 4. Which term describes the process of organizing and interpreting sen
 ```mcq
 ---
 type: single
-question: 5. A researcher repeatedly shows an infant a picture of a cat until the infant looks away and loses interest. The researcher then shows a picture of a dog, and the infant's looking time increases. What is this research technique called?
+question: 5\. A researcher repeatedly shows an infant a picture of a cat until the infant looks away and loses interest. The researcher then shows a picture of a dog, and the infant's looking time increases. What is this research technique called?
 ---
 
 - [ ] Preferential-looking
@@ -83,7 +83,7 @@ question: 5. A researcher repeatedly shows an infant a picture of a cat until th
 ```mcq
 ---
 type: single
-question: 6. Why do very young infants (up to 2 months) prefer to look at patterns of high visual contrast, such as a black and white checkerboard?
+question: 6\. Why do very young infants (up to 2 months) prefer to look at patterns of high visual contrast, such as a black and white checkerboard?
 ---
 
 - [ ] They have a developed preference for artistic complexity
@@ -99,7 +99,7 @@ question: 6. Why do very young infants (up to 2 months) prefer to look at patter
 ```mcq
 ---
 type: single
-question: 7. According to Maurer & Salapatek (1976), how does visual scanning behavior differ between a 1-month-old and a 2-month-old when viewing a shape?
+question: 7\. According to Maurer & Salapatek (1976), how does visual scanning behavior differ between a 1-month-old and a 2-month-old when viewing a shape?
 ---
 
 - [ ] 1-month-olds scan the interior; 2-month-olds scan the perimeter
@@ -115,7 +115,7 @@ question: 7. According to Maurer & Salapatek (1976), how does visual scanning be
 ```mcq
 ---
 type: single
-question: 8. Which of the following best explains why newborns show a preference for face-like stimuli?
+question: 8\. Which of the following best explains why newborns show a preference for face-like stimuli?
 ---
 
 - [ ] They have an innate knowledge of what a human face looks like
@@ -131,7 +131,7 @@ question: 8. Which of the following best explains why newborns show a preference
 ```mcq
 ---
 type: single
-question: 9. Research on "perceptual narrowing" suggests that while 6-month-olds can distinguish between different monkey faces, 9-month-olds cannot. What does this indicate?
+question: 9\. Research on "perceptual narrowing" suggests that while 6-month-olds can distinguish between different monkey faces, 9-month-olds cannot. What does this indicate?
 ---
 
 - [ ] Visual acuity degrades between 6 and 9 months
@@ -147,7 +147,7 @@ question: 9. Research on "perceptual narrowing" suggests that while 6-month-olds
 ```mcq
 ---
 type: single
-question: 10. In the study by Pons et al. (2015) regarding "talking faces," where did 8-month-old bilingual infants primarily fixate when listening to both native and non-native languages?
+question: 10\. In the study by Pons et al. (2015) regarding "talking faces," where did 8-month-old bilingual infants primarily fixate when listening to both native and non-native languages?
 ---
 
 - [ ] Primarily on the eyes
@@ -163,7 +163,7 @@ question: 10. In the study by Pons et al. (2015) regarding "talking faces," wher
 ```mcq
 ---
 type: single
-question: 11. When presented with a visual display suggesting a "subjective contour" (an illusory square that does not actually exist), at what age do infants perceive the overall pattern and detect the square?
+question: 11\. When presented with a visual display suggesting a "subjective contour" (an illusory square that does not actually exist), at what age do infants perceive the overall pattern and detect the square?
 ---
 
 - [ ] 1 month
@@ -179,7 +179,7 @@ question: 11. When presented with a visual display suggesting a "subjective cont
 ```mcq
 ---
 type: single
-question: 12. How was size constancy demonstrated in newborns in the study by Slater et al. (1990)?
+question: 12\. How was size constancy demonstrated in newborns in the study by Slater et al. (1990)?
 ---
 
 - [x] Newborns looked longer at a larger cube placed further away, indicating they perceived it as a different size despite having the same retinal image size as a closer, smaller cube.
@@ -195,7 +195,7 @@ question: 12. How was size constancy demonstrated in newborns in the study by Sl
 ```mcq
 ---
 type: single
-question: 13. In Kellman and Spelke's (1983) experiment with a rod moving behind a block, what factor was crucial for 4-month-old infants to perceive the two rod segments as a single continuous object?
+question: 13\. In Kellman and Spelke's (1983) experiment with a rod moving behind a block, what factor was crucial for 4-month-old infants to perceive the two rod segments as a single continuous object?
 ---
 
 - [ ] Color
@@ -211,7 +211,7 @@ question: 13. In Kellman and Spelke's (1983) experiment with a rod moving behind
 ```mcq
 ---
 type: single
-question: 14. What behavior indicates that infants as young as 1 month perceive depth via optical expansion?
+question: 14\. What behavior indicates that infants as young as 1 month perceive depth via optical expansion?
 ---
 
 - [ ] They reach for the object.
@@ -227,7 +227,7 @@ question: 14. What behavior indicates that infants as young as 1 month perceive 
 ```mcq
 ---
 type: single
-question: 15. Stereopsis, the process by which the visual cortex combines differing neural signals from the two eyes, emerges suddenly around which age?
+question: 15\. Stereopsis, the process by which the visual cortex combines differing neural signals from the two eyes, emerges suddenly around which age?
 ---
 
 - [ ] 1 month
@@ -243,7 +243,7 @@ question: 15. Stereopsis, the process by which the visual cortex combines differ
 ```mcq
 ---
 type: single
-question: 16. In a study using a trapezoidal window, a 7-month-old infant wearing an eye patch reached for the longer side of the window. What does this indicate?
+question: 16\. In a study using a trapezoidal window, a 7-month-old infant wearing an eye patch reached for the longer side of the window. What does this indicate?
 ---
 
 - [ ] The infant has poor depth perception.
@@ -259,7 +259,8 @@ question: 16. In a study using a trapezoidal window, a 7-month-old infant wearin
 ```mcq
 ---
 type: single
-question: 17. Research by DeLoache et al. (1998) on pictorial representations found that until about 19 months of age, infants:
+question: >-
+  17\. Research by DeLoache et al. (1998) on pictorial representations found that until about 19 months of age, infants:
 ---
 
 - [ ] Cannot recognize pictures at all.
@@ -275,7 +276,8 @@ question: 17. Research by DeLoache et al. (1998) on pictorial representations fo
 ```mcq
 ---
 type: single
-question: 18. The study by Eimas (1985) using the sucking rate procedure demonstrated that 2-month-old infants could:
+question: >-
+  18\. The study by Eimas (1985) using the sucking rate procedure demonstrated that 2-month-old infants could:
 ---
 
 - [ ] Sing a melody.
@@ -291,7 +293,7 @@ question: 18. The study by Eimas (1985) using the sucking rate procedure demonst
 ```mcq
 ---
 type: single
-question: 19. Which of the following is true regarding infants' perception of music?
+question: 19\. Which of the following is true regarding infants' perception of music?
 ---
 
 - [ ] Infants prefer dissonant music over consonant music.
@@ -307,7 +309,7 @@ question: 19. Which of the following is true regarding infants' perception of mu
 ```mcq
 ---
 type: single
-question: 20. A study by Zhao & Kuhl (2016) assigned 9-month-olds to a musical intervention group. What was the outcome?
+question: 20\. A study by Zhao & Kuhl (2016) assigned 9-month-olds to a musical intervention group. What was the outcome?
 ---
 
 - [ ] The infants became professional musicians.
@@ -323,7 +325,7 @@ question: 20. A study by Zhao & Kuhl (2016) assigned 9-month-olds to a musical i
 ```mcq
 ---
 type: single
-question: 21. Which statement best reflects the plasticity of the auditory brain in relation to music?
+question: 21\. Which statement best reflects the plasticity of the auditory brain in relation to music?
 ---
 
 - [ ] Musical ability is entirely genetic and cannot be changed.
@@ -339,7 +341,7 @@ question: 21. Which statement best reflects the plasticity of the auditory brain
 ```mcq
 ---
 type: single
-question: 22. What characterizes the development of visual acuity in infants?
+question: 22\. What characterizes the development of visual acuity in infants?
 ---
 
 - [ ] It is fully developed at birth (20/20 vision).
@@ -355,7 +357,7 @@ question: 22. What characterizes the development of visual acuity in infants?
 ```mcq
 ---
 type: single
-question: 23. In the domain of intermodal perception, what did Streri and Spelke (1988) find when infants held rings (rigid vs. flexible) under a cloth?
+question: 23\. In the domain of intermodal perception, what did Streri and Spelke (1988) find when infants held rings (rigid vs. flexible) under a cloth?
 ---
 
 - [ ] Infants could not distinguish the rings by touch.
@@ -371,7 +373,7 @@ question: 23. In the domain of intermodal perception, what did Streri and Spelke
 ```mcq
 ---
 type: single
-question: 24. Which of the following statements about smooth tracking of moving objects is correct?
+question: 24\. Which of the following statements about smooth tracking of moving objects is correct?
 ---
 
 - [ ] Newborns can track fast-moving objects smoothly immediately after birth.
@@ -387,7 +389,7 @@ question: 24. Which of the following statements about smooth tracking of moving 
 ```mcq
 ---
 type: single
-question: 25. What did William James (1890) famously but incorrectly predict about the infant's sensory experience?
+question: 25\. What did William James (1890) famously but incorrectly predict about the infant's sensory experience?
 ---
 
 - [ ] It is a "blank slate."
@@ -403,7 +405,7 @@ question: 25. What did William James (1890) famously but incorrectly predict abo
 ```mcq
 ---
 type: single
-question: 26. Regarding colour vision, how does an infant's ability compare to an adult's?
+question: 26\. Regarding colour vision, how does an infant's ability compare to an adult's?
 ---
 
 - [ ] Infants are completely colorblind until 1 year of age.
@@ -419,7 +421,7 @@ question: 26. Regarding colour vision, how does an infant's ability compare to a
 ```mcq
 ---
 type: single
-question: 27. Which sense is considered the most advanced in the newborn?
+question: 27\. Which sense is considered the most advanced in the newborn?
 ---
 
 - [ ] Vision
@@ -435,7 +437,7 @@ question: 27. Which sense is considered the most advanced in the newborn?
 ```mcq
 ---
 type: single
-question: 28. What is "operant conditioning" used for in the context of studying infant perception?
+question: 28\. What is "operant conditioning" used for in the context of studying infant perception?
 ---
 
 - [ ] To measure visual acuity using paddles.
@@ -451,7 +453,8 @@ question: 28. What is "operant conditioning" used for in the context of studying
 ```mcq
 ---
 type: single
-question: 29. Walker-Andrews (1997) found that by 5 months of age, infants demonstrate intermodal perception by:
+question: >-
+  29\. Walker-Andrews (1997) found that by 5 months of age, infants demonstrate intermodal perception by:
 ---
 
 - [ ] Reaching for objects they see.
@@ -467,7 +470,7 @@ question: 29. Walker-Andrews (1997) found that by 5 months of age, infants demon
 ```mcq
 ---
 type: single
-question: 30. How do infants learn about their environment through touch during the first few months of life?
+question: 30\. How do infants learn about their environment through touch during the first few months of life?
 ---
 
 - [x] Oral exploration is the dominant method.

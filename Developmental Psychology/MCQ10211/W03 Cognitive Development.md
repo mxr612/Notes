@@ -3,7 +3,7 @@ Here are 30 multiple-choice questions based on Lecture 03: Cognitive Development
 ```mcq
 ---
 type: single
-question: 1. According to Piaget's classic theory, at what age does the understanding of object permanence typically develop?
+question: 1\. According to Piaget's classic theory, at what age does the understanding of object permanence typically develop?
 ---
 
 - [ ] At birth
@@ -19,7 +19,7 @@ question: 1. According to Piaget's classic theory, at what age does the understa
 ```mcq
 ---
 type: single
-question: 2. In the classic A-not-B task, what specific error defines the "A-not-B error"?
+question: 2\. In the classic A-not-B task, what specific error defines the "A-not-B error"?
 ---
 
 - [ ] The infant fails to find the object in location A after watching it being hidden there.
@@ -35,7 +35,7 @@ question: 2. In the classic A-not-B task, what specific error defines the "A-not
 ```mcq
 ---
 type: single
-question: 3. Which of the following is a factor that makes the A-not-B error *less* likely to occur?
+question: 3\. Which of the following is a factor that makes the A-not-B error *less* likely to occur?
 ---
 
 - [ ] A longer delay between hiding and searching.
@@ -51,7 +51,7 @@ question: 3. Which of the following is a factor that makes the A-not-B error *le
 ```mcq
 ---
 type: single
-question: 4. In Bower et al.'s (1971) "Anticipatory Looking" study, what behavior suggested 5-month-olds understood the object continued to exist behind the screen?
+question: 4\. In Bower et al.'s (1971) "Anticipatory Looking" study, what behavior suggested 5-month-olds understood the object continued to exist behind the screen?
 ---
 
 - [ ] They reached for the screen to pull it away.
@@ -67,7 +67,7 @@ question: 4. In Bower et al.'s (1971) "Anticipatory Looking" study, what behavio
 ```mcq
 ---
 type: single
-question: 5. What was the significance of the "Reaching in the Dark" study by Clifton et al. (1991)?
+question: 5\. What was the significance of the "Reaching in the Dark" study by Clifton et al. (1991)?
 ---
 
 - [ ] It proved that infants are afraid of the dark.
@@ -83,7 +83,7 @@ question: 5. What was the significance of the "Reaching in the Dark" study by Cl
 ```mcq
 ---
 type: single
-question: 6. The "Violation of Expectancy" (VoE) procedure relies on which logical assumption about infant behavior?
+question: 6\. The "Violation of Expectancy" (VoE) procedure relies on which logical assumption about infant behavior?
 ---
 
 - [ ] Infants will smile more at events they find probable.
@@ -99,7 +99,7 @@ question: 6. The "Violation of Expectancy" (VoE) procedure relies on which logic
 ```mcq
 ---
 type: single
-question: 7. In Baillargeon's "Rabbit/Carrot" study, what result suggested that 5-month-old infants possessed object permanence?
+question: 7\. In Baillargeon's "Rabbit/Carrot" study, what result suggested that 5-month-old infants possessed object permanence?
 ---
 
 - [ ] They looked longer when the short rabbit disappeared behind the short screen.
@@ -115,7 +115,7 @@ question: 7. In Baillargeon's "Rabbit/Carrot" study, what result suggested that 
 ```mcq
 ---
 type: single
-question: 8. Why might infants succeed in Violation of Expectancy tasks but fail the A-not-B task regarding object permanence?
+question: 8\. Why might infants succeed in Violation of Expectancy tasks but fail the A-not-B task regarding object permanence?
 ---
 
 - [ ] VoE tasks are simply more entertaining than A-not-B tasks.
@@ -131,7 +131,7 @@ question: 8. Why might infants succeed in Violation of Expectancy tasks but fail
 ```mcq
 ---
 type: single
-question: 9. Regarding physical knowledge of gravity, Kim & Spelke (1992) found that 7-month-olds look longer at which event?
+question: 9\. Regarding physical knowledge of gravity, Kim & Spelke (1992) found that 7-month-olds look longer at which event?
 ---
 
 - [ ] A ball rolling down a slope.
@@ -147,7 +147,7 @@ question: 9. Regarding physical knowledge of gravity, Kim & Spelke (1992) found 
 ```mcq
 ---
 type: single
-question: 10. How does the understanding of "support relations" develop between 3 and 12.5 months of age?
+question: 10\. How does the understanding of "support relations" develop between 3 and 12.5 months of age?
 ---
 
 - [ ] It is innate and fully formed at birth.
@@ -163,7 +163,8 @@ question: 10. How does the understanding of "support relations" develop between 
 ```mcq
 ---
 type: single
-question: 11. In Woodward's (1998) study on social knowledge, 6-month-olds looked longer when a human arm reached for:
+question: >-
+  11\. In Woodward's (1998) study on social knowledge, 6-month-olds looked longer when a human arm reached for:
 ---
 
 - [ ] The same object in a new location.
@@ -179,7 +180,7 @@ question: 11. In Woodward's (1998) study on social knowledge, 6-month-olds looke
 ```mcq
 ---
 type: single
-question: 12. In the study by Johnson (2003) regarding a "blob" object, under what condition did infants follow the blob's gaze?
+question: 12\. In the study by Johnson (2003) regarding a "blob" object, under what condition did infants follow the blob's gaze?
 ---
 
 - [ ] When the blob was completely silent and motionless.
@@ -195,7 +196,7 @@ question: 12. In the study by Johnson (2003) regarding a "blob" object, under wh
 ```mcq
 ---
 type: single
-question: 13. Kuhlmeier et al. (2003) demonstrated that 12-month-olds attribute dispositional states by showing them a film of a ball, a triangle, and a square. What did the infants expect?
+question: 13\. Kuhlmeier et al. (2003) demonstrated that 12-month-olds attribute dispositional states by showing them a film of a ball, a triangle, and a square. What did the infants expect?
 ---
 
 - [ ] The ball to approach the square that blocked it.
@@ -211,7 +212,7 @@ question: 13. Kuhlmeier et al. (2003) demonstrated that 12-month-olds attribute 
 ```mcq
 ---
 type: single
-question: 14. Which level of category hierarchy is usually learned first by children?
+question: 14\. Which level of category hierarchy is usually learned first by children?
 ---
 
 - [ ] Superordinate level (e.g., Living things)
@@ -227,7 +228,7 @@ question: 14. Which level of category hierarchy is usually learned first by chil
 ```mcq
 ---
 type: single
-question: 15. What are "child-basic categories"?
+question: 15\. What are "child-basic categories"?
 ---
 
 - [ ] Categories that are exactly the same as adult basic categories.
@@ -243,7 +244,7 @@ question: 15. What are "child-basic categories"?
 ```mcq
 ---
 type: single
-question: 16. Which of these represents the most typical organization of superordinate, subordinate, and basic category levels that young children tend to form?
+question: 16\. Which of these represents the most typical organization of superordinate, subordinate, and basic category levels that young children tend to form?
 ---
 
 - [x] animals/beagles/dogs
@@ -259,7 +260,7 @@ question: 16. Which of these represents the most typical organization of superor
 ```mcq
 ---
 type: single
-question: 17. What is "perceptual categorization" in the context of infant development?
+question: 17\. What is "perceptual categorization" in the context of infant development?
 ---
 
 - [ ] Grouping objects based on their genetic history.
@@ -275,7 +276,7 @@ question: 17. What is "perceptual categorization" in the context of infant devel
 ```mcq
 ---
 type: single
-question: 18. Which statement BEST demonstrates that infants form perceptual categories?
+question: 18\. Which statement BEST demonstrates that infants form perceptual categories?
 ---
 
 - [ ] Infants habituate to photos of very different-looking mammals and stay habituated (bored) when shown a picture of a fish or bird.
@@ -291,7 +292,7 @@ question: 18. Which statement BEST demonstrates that infants form perceptual cat
 ```mcq
 ---
 type: single
-question: 19. In the study by Mandler & McDonough (1993), how did 9-11 month olds treat toy birds and airplanes?
+question: 19\. In the study by Mandler & McDonough (1993), how did 9-11 month olds treat toy birds and airplanes?
 ---
 
 - [ ] As members of the same category because they both have wings.
@@ -307,7 +308,7 @@ question: 19. In the study by Mandler & McDonough (1993), how did 9-11 month old
 ```mcq
 ---
 type: single
-question: 20. By the age of 14 months, how do children demonstrate categorization based on *function*?
+question: 20\. By the age of 14 months, how do children demonstrate categorization based on *function*?
 ---
 
 - [ ] They sort objects by color perfectly.
@@ -323,7 +324,7 @@ question: 20. By the age of 14 months, how do children demonstrate categorizatio
 ```mcq
 ---
 type: single
-question: 21. How does understanding causal relations help children learn categories (e.g., the "Wugs" and "Gillies" study)?
+question: 21\. How does understanding causal relations help children learn categories (e.g., the "Wugs" and "Gillies" study)?
 ---
 
 - [ ] It makes no difference; children learn by rote memorization.
@@ -339,7 +340,7 @@ question: 21. How does understanding causal relations help children learn catego
 ```mcq
 ---
 type: single
-question: 22. What is "Psychological Essentialism" in the context of children's biological knowledge?
+question: 22\. What is "Psychological Essentialism" in the context of children's biological knowledge?
 ---
 
 - [ ] The belief that psychology is the most essential science.
@@ -355,7 +356,7 @@ question: 22. What is "Psychological Essentialism" in the context of children's 
 ```mcq
 ---
 type: single
-question: 23. Poulin-Dubois (1999) found that infants are surprised when inanimate objects (like a robot) move on their own. What does this suggest?
+question: 23\. Poulin-Dubois (1999) found that infants are surprised when inanimate objects (like a robot) move on their own. What does this suggest?
 ---
 
 - [ ] Infants are afraid of robots.
@@ -371,7 +372,7 @@ question: 23. Poulin-Dubois (1999) found that infants are surprised when inanima
 ```mcq
 ---
 type: single
-question: 24. Regarding the knowledge of heredity, what do preschoolers generally believe (e.g., the Mr. and Mrs. Bull study)?
+question: 24\. Regarding the knowledge of heredity, what do preschoolers generally believe (e.g., the Mr. and Mrs. Bull study)?
 ---
 
 - [ ] Offspring will look exactly like their environment, regardless of parents.
@@ -387,7 +388,7 @@ question: 24. Regarding the knowledge of heredity, what do preschoolers generall
 ```mcq
 ---
 type: single
-question: 25. Which statement is TRUE regarding preschoolers' understanding of healing?
+question: 25\. Which statement is TRUE regarding preschoolers' understanding of healing?
 ---
 
 - [ ] Preschoolers think that inanimate objects have internal processes that help them heal if they are injured.
@@ -403,7 +404,7 @@ question: 25. Which statement is TRUE regarding preschoolers' understanding of h
 ```mcq
 ---
 type: single
-question: 26. Which view argues that children are born with a "core concept" of number and a special mechanism for learning it?
+question: 26\. Which view argues that children are born with a "core concept" of number and a special mechanism for learning it?
 ---
 
 - [ ] Empiricists
@@ -419,7 +420,7 @@ question: 26. Which view argues that children are born with a "core concept" of 
 ```mcq
 ---
 type: single
-question: 27. What did Izard et al. (2009) find regarding newborns and "number equality"?
+question: 27\. What did Izard et al. (2009) find regarding newborns and "number equality"?
 ---
 
 - [ ] Newborns can count to 10 verbally.
@@ -435,7 +436,7 @@ question: 27. What did Izard et al. (2009) find regarding newborns and "number e
 ```mcq
 ---
 type: single
-question: 28. In Wynn's "Infant Arithmetic" study (1+1), infants looked longer at which outcome?
+question: 28\. In Wynn's "Infant Arithmetic" study (1+1), infants looked longer at which outcome?
 ---
 
 - [ ] When the screen dropped to reveal 2 objects (the possible outcome).
@@ -451,7 +452,7 @@ question: 28. In Wynn's "Infant Arithmetic" study (1+1), infants looked longer a
 ```mcq
 ---
 type: single
-question: 29. What is a key argument of Empiricists regarding the development of number concepts?
+question: 29\. What is a key argument of Empiricists regarding the development of number concepts?
 ---
 
 - [ ] The Intraparietal sulcus is solely responsible for number processing from birth.
@@ -467,7 +468,7 @@ question: 29. What is a key argument of Empiricists regarding the development of
 ```mcq
 ---
 type: single
-question: 30. Regarding the development of Conceptual Knowledge, what role do "hierarchies" play?
+question: 30\. Regarding the development of Conceptual Knowledge, what role do "hierarchies" play?
 ---
 
 - [ ] They allow infants to physically stack objects.

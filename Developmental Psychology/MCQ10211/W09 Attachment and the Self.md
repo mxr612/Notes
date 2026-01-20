@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. Baby Kim is taking part in a Strange Situation task with her mother. Throughout the experiment, Kim is clingy, is extremely distressed when separated from her mother, and refuses to be comforted by the experimenter. Her mother's attempt to comfort her does not seem to help either. To which attachment category is Kim likely to belong?
+question: 1\. Baby Kim is taking part in a Strange Situation task with her mother. Throughout the experiment, Kim is clingy, is extremely distressed when separated from her mother, and refuses to be comforted by the experimenter. Her mother's attempt to comfort her does not seem to help either. To which attachment category is Kim likely to belong?
 ---
 
 - [ ] Insecure avoidant attachment
@@ -18,7 +18,7 @@ question: 1. Baby Kim is taking part in a Strange Situation task with her mother
 ```mcq
 ---
 type: single
-question: 2. Infants exhibit their developing sense of self in which of the following orders?
+question: 2\. Infants exhibit their developing sense of self in which of the following orders?
 ---
 
 - [ ] Displaying embarrassment in social situations, recognising self in a photograph, recognising self in a mirror
@@ -34,7 +34,7 @@ question: 2. Infants exhibit their developing sense of self in which of the foll
 ```mcq
 ---
 type: single
-question: 3. Which of the following statements is true regarding the long-term consequences of secure attachment style?
+question: 3\. Which of the following statements is true regarding the long-term consequences of secure attachment style?
 ---
 
 - [ ] Securely attached children achieve greater academic attainment
@@ -50,7 +50,7 @@ question: 3. Which of the following statements is true regarding the long-term c
 ```mcq
 ---
 type: single
-question: 4. According to the lecture, which of the following best describes the core definition of attachment?
+question: 4\. According to the lecture, which of the following best describes the core definition of attachment?
 ---
 
 - [x] A deep and enduring emotional bond that connects one person to another across time and space
@@ -66,7 +66,7 @@ question: 4. According to the lecture, which of the following best describes the
 ```mcq
 ---
 type: single
-question: 5. In Konrad Lorenz's research on imprinting with graylag geese, what was the significance of the "critical period"?
+question: 5\. In Konrad Lorenz's research on imprinting with graylag geese, what was the significance of the "critical period"?
 ---
 
 - [ ] It was the period during which the geese learned to fly.
@@ -82,7 +82,7 @@ question: 5. In Konrad Lorenz's research on imprinting with graylag geese, what 
 ```mcq
 ---
 type: single
-question: 6. Harry Harlow’s research with rhesus monkeys demonstrated the importance of "contact comfort". What was the key finding?
+question: 6\. Harry Harlow’s research with rhesus monkeys demonstrated the importance of "contact comfort". What was the key finding?
 ---
 
 - [ ] Monkeys preferred the wire mother because she provided food.
@@ -98,7 +98,7 @@ question: 6. Harry Harlow’s research with rhesus monkeys demonstrated the impo
 ```mcq
 ---
 type: single
-question: 7. According to Bowlby's 4 phases of attachment, in which phase does the infant begin to show "clear-cut attachment" and separation distress?
+question: 7\. According to Bowlby's 4 phases of attachment, in which phase does the infant begin to show "clear-cut attachment" and separation distress?
 ---
 
 - [ ] Phase 1: Preattachment phase (birth to 6 weeks)
@@ -114,7 +114,7 @@ question: 7. According to Bowlby's 4 phases of attachment, in which phase does t
 ```mcq
 ---
 type: single
-question: 8. What is the "Internal Working Model" (IWM) in the context of attachment theory?
+question: 8\. What is the "Internal Working Model" (IWM) in the context of attachment theory?
 ---
 
 - [ ] A laboratory procedure used to assess infant attachment styles.
@@ -130,7 +130,7 @@ question: 8. What is the "Internal Working Model" (IWM) in the context of attach
 ```mcq
 ---
 type: single
-question: 9. In the Strange Situation Procedure (SSP), what aspect of attachment behavior is assessed during Episode 2, when the caregiver and child are alone in the room?
+question: 9\. In the Strange Situation Procedure (SSP), what aspect of attachment behavior is assessed during Episode 2, when the caregiver and child are alone in the room?
 ---
 
 - [ ] Reaction to the stranger.
@@ -146,7 +146,7 @@ question: 9. In the Strange Situation Procedure (SSP), what aspect of attachment
 ```mcq
 ---
 type: single
-question: 10. Approximately what percentage of children from middle-class U.S. families are classified as having a Secure Attachment?
+question: 10\. Approximately what percentage of children from middle-class U.S. families are classified as having a Secure Attachment?
 ---
 
 - [ ] 20%
@@ -162,7 +162,7 @@ question: 10. Approximately what percentage of children from middle-class U.S. f
 ```mcq
 ---
 type: single
-question: 11. Which behavior is characteristic of an infant with Insecure-Avoidant attachment during the Strange Situation?
+question: 11\. Which behavior is characteristic of an infant with Insecure-Avoidant attachment during the Strange Situation?
 ---
 
 - [ ] High distress upon separation and resistance to comfort upon reunion.
@@ -178,7 +178,7 @@ question: 11. Which behavior is characteristic of an infant with Insecure-Avoida
 ```mcq
 ---
 type: single
-question: 12. How does an Insecure-Resistant (Ambivalent) infant typically behave during the reunion episodes of the Strange Situation?
+question: 12\. How does an Insecure-Resistant (Ambivalent) infant typically behave during the reunion episodes of the Strange Situation?
 ---
 
 - [ ] They ignore the caregiver and continue playing.
@@ -194,7 +194,7 @@ question: 12. How does an Insecure-Resistant (Ambivalent) infant typically behav
 ```mcq
 ---
 type: single
-question: 13. The "Disorganised/Disoriented" attachment category was added later by Main & Solomon (1990). Which of the following is true about infants in this category?
+question: 13\. The "Disorganised/Disoriented" attachment category was added later by Main & Solomon (1990). Which of the following is true about infants in this category?
 ---
 
 - [ ] They consistently avoid the caregiver to reduce stress.
@@ -210,7 +210,7 @@ question: 13. The "Disorganised/Disoriented" attachment category was added later
 ```mcq
 ---
 type: single
-question: 14. Which of the following is a criticism regarding the "Ecological Validity" of the Strange Situation Procedure?
+question: 14\. Which of the following is a criticism regarding the "Ecological Validity" of the Strange Situation Procedure?
 ---
 
 - [x] The infant's attachment style is determined by just a few minutes of separation and reunion.
@@ -226,7 +226,7 @@ question: 14. Which of the following is a criticism regarding the "Ecological Va
 ```mcq
 ---
 type: single
-question: 15. Heidi Keller criticizes Attachment Theory for being "WEIRD". What does the acronym WEIRD stand for?
+question: 15\. Heidi Keller criticizes Attachment Theory for being "WEIRD". What does the acronym WEIRD stand for?
 ---
 
 - [ ] Western, Educated, Industrialised, Rich, Democratic
@@ -244,7 +244,7 @@ question: 15. Heidi Keller criticizes Attachment Theory for being "WEIRD". What 
 ```mcq
 ---
 type: single
-question: 16. Regarding the ethics of the Strange Situation, which defense is used to justify the procedure?
+question: 16\. Regarding the ethics of the Strange Situation, which defense is used to justify the procedure?
 ---
 
 - [ ] The procedure provides monetary compensation to the infants.
@@ -260,7 +260,7 @@ question: 16. Regarding the ethics of the Strange Situation, which defense is us
 ```mcq
 ---
 type: single
-question: 17. At what age do infants typically demonstrate a "sense of self" by showing separation distress from primary caregivers?
+question: 17\. At what age do infants typically demonstrate a "sense of self" by showing separation distress from primary caregivers?
 ---
 
 - [ ] Birth to 2 months
@@ -276,7 +276,7 @@ question: 17. At what age do infants typically demonstrate a "sense of self" by 
 ```mcq
 ---
 type: single
-question: 18. Which test is commonly used to demonstrate self-recognition in children aged 18-20 months?
+question: 18\. Which test is commonly used to demonstrate self-recognition in children aged 18-20 months?
 ---
 
 - [ ] The Strange Situation
@@ -292,7 +292,7 @@ question: 18. Which test is commonly used to demonstrate self-recognition in chi
 ```mcq
 ---
 type: single
-question: 19. How do children aged 3 to 4 typically describe themselves?
+question: 19\. How do children aged 3 to 4 typically describe themselves?
 ---
 
 - [ ] In terms of abstract psychological traits (e.g., "I am introverted").
@@ -308,7 +308,7 @@ question: 19. How do children aged 3 to 4 typically describe themselves?
 ```mcq
 ---
 type: single
-question: 20. What is "social comparison" in the context of the developing self?
+question: 20\. What is "social comparison" in the context of the developing self?
 ---
 
 - [ ] Learning gender roles by observing parents.
@@ -324,7 +324,8 @@ question: 20. What is "social comparison" in the context of the developing self?
 ```mcq
 ---
 type: single
-question: 21. Research on self-esteem suggests that generally:
+question: >-
+  21\. Research on self-esteem suggests that generally:
 ---
 
 - [ ] Girls have higher overall self-esteem than boys across the lifespan.
@@ -340,7 +341,7 @@ question: 21. Research on self-esteem suggests that generally:
 ```mcq
 ---
 type: single
-question: 22. In which domain do girls typically show higher self-esteem compared to boys?
+question: 22\. In which domain do girls typically show higher self-esteem compared to boys?
 ---
 
 - [ ] Athletics
@@ -356,7 +357,7 @@ question: 22. In which domain do girls typically show higher self-esteem compare
 ```mcq
 ---
 type: single
-question: 23. How does culture typically influence self-esteem functioning in Asian societies compared to WEIRD (e.g., USA) cultures?
+question: 23\. How does culture typically influence self-esteem functioning in Asian societies compared to WEIRD (e.g., USA) cultures?
 ---
 
 - [ ] Asian cultures emphasize "Me > We", leading to higher self-promotion.
@@ -372,7 +373,7 @@ question: 23. How does culture typically influence self-esteem functioning in As
 ```mcq
 ---
 type: single
-question: 24. Which of the following best defines "gender identity"?
+question: 24\. Which of the following best defines "gender identity"?
 ---
 
 - [ ] The chromosomal sex of an individual (XX or XY).
@@ -388,7 +389,7 @@ question: 24. Which of the following best defines "gender identity"?
 ```mcq
 ---
 type: single
-question: 25. By what age do children typically use gender terms (e.g., "boy") in their speech and feel they "belong" to a gender group?
+question: 25\. By what age do children typically use gender terms (e.g., "boy") in their speech and feel they "belong" to a gender group?
 ---
 
 - [ ] 6 months
@@ -404,7 +405,7 @@ question: 25. By what age do children typically use gender terms (e.g., "boy") i
 ```mcq
 ---
 type: single
-question: 26. What does the evolutionary perspective suggest about gender development?
+question: 26\. What does the evolutionary perspective suggest about gender development?
 ---
 
 - [ ] Gender differences are solely the result of parental socialisation.
@@ -420,7 +421,7 @@ question: 26. What does the evolutionary perspective suggest about gender develo
 ```mcq
 ---
 type: single
-question: 27. Which statement accurately reflects current knowledge about gender differences in the brain?
+question: 27\. Which statement accurately reflects current knowledge about gender differences in the brain?
 ---
 
 - [ ] Male brains are significantly larger and this explains higher intelligence.
@@ -436,7 +437,7 @@ question: 27. Which statement accurately reflects current knowledge about gender
 ```mcq
 ---
 type: single
-question: 28. According to Social Learning Theory (SLT), how do children develop gender roles?
+question: 28\. According to Social Learning Theory (SLT), how do children develop gender roles?
 ---
 
 - [ ] Through innate biological drives that surface at puberty.
@@ -452,7 +453,7 @@ question: 28. According to Social Learning Theory (SLT), how do children develop
 ```mcq
 ---
 type: single
-question: 29. How can "gender-essentialist statements" by parents influence children?
+question: 29\. How can "gender-essentialist statements" by parents influence children?
 ---
 
 - [ ] They have no effect as children ignore verbal instruction.
@@ -468,7 +469,7 @@ question: 29. How can "gender-essentialist statements" by parents influence chil
 ```mcq
 ---
 type: single
-question: 30. Which of the following is an example of an "evolutionary" explanation for gender differences in spatial reasoning?
+question: 30\. Which of the following is an example of an "evolutionary" explanation for gender differences in spatial reasoning?
 ---
 
 - [ ] Boys are given blocks and construction toys more often than girls.

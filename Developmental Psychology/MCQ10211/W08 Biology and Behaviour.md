@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. Which mechanism does NOT contribute to genetic diversity among people?
+question: 1\. Which mechanism does NOT contribute to genetic diversity among people?
 ---
 
 - [ ] Crossing over
@@ -18,7 +18,7 @@ question: 1. Which mechanism does NOT contribute to genetic diversity among peop
 ```mcq
 ---
 type: single
-question: 2. In studies of rats, pups that receive more licking and grooming from their mothers show lower stress reactivity as adults. This is because maternal care affects the expression of the glucocorticoid receptor gene in the pups’ brains. What does this finding demonstrate?
+question: 2\. In studies of rats, pups that receive more licking and grooming from their mothers show lower stress reactivity as adults. This is because maternal care affects the expression of the glucocorticoid receptor gene in the pups’ brains. What does this finding demonstrate?
 ---
 
 - [x] Environmental experiences can alter gene expression through epigenetic mechanisms such as DNA methylation, leading to long-term changes in behaviour.
@@ -34,7 +34,7 @@ question: 2. In studies of rats, pups that receive more licking and grooming fro
 ```mcq
 ---
 type: single
-question: 3. A person carries a Bb genotype for eye colour, where B = brown and b = blue. Which option correctly describes their genotype and phenotype?
+question: 3\. A person carries a Bb genotype for eye colour, where B = brown and b = blue. Which option correctly describes their genotype and phenotype?
 ---
 
 - [ ] Genotype heterozygous and phenotype blue eyes
@@ -50,7 +50,7 @@ question: 3. A person carries a Bb genotype for eye colour, where B = brown and 
 ```mcq
 ---
 type: single
-question: 4. Two biological parents both have brown hair, but each carries one recessive allele for blonde hair. This means both parents have the genotype Bb, where B = brown (dominant) and b = blonde (recessive). According to Mendelian inheritance patterns, if these two parents had 4 biological children together (all singleton births), on average how many would you expect to have blonde hair?
+question: 4\. Two biological parents both have brown hair, but each carries one recessive allele for blonde hair. This means both parents have the genotype Bb, where B = brown (dominant) and b = blonde (recessive). According to Mendelian inheritance patterns, if these two parents had 4 biological children together (all singleton births), on average how many would you expect to have blonde hair?
 ---
 
 - [ ] 4 out of 4
@@ -66,7 +66,7 @@ question: 4. Two biological parents both have brown hair, but each carries one r
 ```mcq
 ---
 type: single
-question: 5. Which is considered the ideal behaviour genetics design?
+question: 5\. Which is considered the ideal behaviour genetics design?
 ---
 
 - [x] An adoptive twin study
@@ -82,7 +82,7 @@ question: 5. Which is considered the ideal behaviour genetics design?
 ```mcq
 ---
 type: single
-question: 6. What is the basic unit of heredity responsible for instructing the production of proteins?
+question: 6\. What is the basic unit of heredity responsible for instructing the production of proteins?
 ---
 
 - [ ] Genome
@@ -98,7 +98,7 @@ question: 6. What is the basic unit of heredity responsible for instructing the 
 ```mcq
 ---
 type: single
-question: 7. Approximately what percentage of human DNA is made up of genes?
+question: 7\. Approximately what percentage of human DNA is made up of genes?
 ---
 
 - [x] 1%
@@ -114,7 +114,7 @@ question: 7. Approximately what percentage of human DNA is made up of genes?
 ```mcq
 ---
 type: single
-question: 8. Which term describes the complete set of genetic material in an organism?
+question: 8\. Which term describes the complete set of genetic material in an organism?
 ---
 
 - [ ] Genotype
@@ -130,7 +130,7 @@ question: 8. Which term describes the complete set of genetic material in an org
 ```mcq
 ---
 type: single
-question: 9. How many pairs of chromosomes does a typically developing human have?
+question: 9\. How many pairs of chromosomes does a typically developing human have?
 ---
 
 - [ ] 46 pairs
@@ -146,7 +146,7 @@ question: 9. How many pairs of chromosomes does a typically developing human hav
 ```mcq
 ---
 type: single
-question: 10. What determines the biological sex of a child at conception?
+question: 10\. What determines the biological sex of a child at conception?
 ---
 
 - [ ] The egg cell from the mother
@@ -162,7 +162,7 @@ question: 10. What determines the biological sex of a child at conception?
 ```mcq
 ---
 type: single
-question: 11. Which cells have the ability to express all genes in the genome?
+question: 11\. Which cells have the ability to express all genes in the genome?
 ---
 
 - [ ] Specialized liver cells
@@ -178,7 +178,7 @@ question: 11. Which cells have the ability to express all genes in the genome?
 ```mcq
 ---
 type: single
-question: 12. What is the approximate number of protein-coding genes in humans?
+question: 12\. What is the approximate number of protein-coding genes in humans?
 ---
 
 - [ ] 100,000 - 150,000
@@ -194,7 +194,7 @@ question: 12. What is the approximate number of protein-coding genes in humans?
 ```mcq
 ---
 type: single
-question: 13. Which process involves members of a chromosome pair swapping sections of DNA?
+question: 13\. Which process involves members of a chromosome pair swapping sections of DNA?
 ---
 
 - [ ] Mutation
@@ -210,7 +210,7 @@ question: 13. Which process involves members of a chromosome pair swapping secti
 ```mcq
 ---
 type: single
-question: 14. Why are X-linked recessive disorders more common in males (XY) than in females (XX)?
+question: 14\. Why are X-linked recessive disorders more common in males (XY) than in females (XX)?
 ---
 
 - [ ] The Y chromosome carries dominant alleles that cause these disorders.
@@ -226,7 +226,8 @@ question: 14. Why are X-linked recessive disorders more common in males (XY) tha
 ```mcq
 ---
 type: single
-question: 15. Polygenic inheritance refers to:
+question: >-
+  15\. Polygenic inheritance refers to:
 ---
 
 - [ ] Traits determined by a single gene with two alleles.

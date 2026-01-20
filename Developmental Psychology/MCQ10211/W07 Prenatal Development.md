@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. What are the main events during the zygotic (germinal) period of prenatal development?
+question: 1\. What are the main events during the zygotic (germinal) period of prenatal development?
 ---
 
 - [ ] Formation of major organ systems
@@ -18,7 +18,8 @@ question: 1. What are the main events during the zygotic (germinal) period of pr
 ```mcq
 ---
 type: single
-question: 2. The impact of teratogens during prenatal development can vary in their effects depending on all of the following EXCEPT:
+question: >-
+  2\. The impact of teratogens during prenatal development can vary in their effects depending on all of the following EXCEPT:
 ---
 
 - [x] Paternal age at conception
@@ -34,7 +35,7 @@ question: 2. The impact of teratogens during prenatal development can vary in th
 ```mcq
 ---
 type: single
-question: 3. A child was diagnosed with a congenital condition at birth known as syndactyly, where her toes were conjoined on both feet. How would you best explain this condition?
+question: 3\. A child was diagnosed with a congenital condition at birth known as syndactyly, where her toes were conjoined on both feet. How would you best explain this condition?
 ---
 
 - [ ] The child likely developed tumors later in fetal development.
@@ -50,7 +51,8 @@ question: 3. A child was diagnosed with a congenital condition at birth known as
 ```mcq
 ---
 type: single
-question: 4. Spontaneous electrical activity in the developing brain helps shape early neural connections even before birth. This process reflects:
+question: >-
+  4\. Spontaneous electrical activity in the developing brain helps shape early neural connections even before birth. This process reflects:
 ---
 
 - [ ] Neural differentiation
@@ -66,7 +68,7 @@ question: 4. Spontaneous electrical activity in the developing brain helps shape
 ```mcq
 ---
 type: single
-question: 5. Researchers presented fetuses with different patterns of light projected through the uterine wall. They found that fetuses turned their heads more often toward lights arranged in a face-like configuration than toward inverted patterns. What does this suggest?
+question: 5\. Researchers presented fetuses with different patterns of light projected through the uterine wall. They found that fetuses turned their heads more often toward lights arranged in a face-like configuration than toward inverted patterns. What does this suggest?
 ---
 
 - [ ] Fetuses prefer inverted face-like patterns.
@@ -82,7 +84,7 @@ question: 5. Researchers presented fetuses with different patterns of light proj
 ```mcq
 ---
 type: single
-question: 6. Dena is 30 weeks pregnant and has volunteered for a study. She reads a book aloud every night for two weeks. Then, a friend reads the same book. Which finding would demonstrate that the fetus has dishabituated after becoming habituated to Dena’s voice?
+question: 6\. Dena is 30 weeks pregnant and has volunteered for a study. She reads a book aloud every night for two weeks. Then, a friend reads the same book. Which finding would demonstrate that the fetus has dishabituated after becoming habituated to Dena’s voice?
 ---
 
 - [ ] The fetus’s responses became less reactive by the end of the first two weeks.
@@ -98,7 +100,7 @@ question: 6. Dena is 30 weeks pregnant and has volunteered for a study. She read
 ```mcq
 ---
 type: single
-question: 7. Which biological process is responsible for the production of gametes (egg and sperm) containing half the genetic material of normal cells?
+question: 7\. Which biological process is responsible for the production of gametes (egg and sperm) containing half the genetic material of normal cells?
 ---
 
 - [x] Meiosis
@@ -114,7 +116,8 @@ question: 7. Which biological process is responsible for the production of gamet
 ```mcq
 ---
 type: single
-question: 8. During prenatal development, stem cells transform into roughly 350 different types of specialized cells. This process is known as:
+question: >-
+  8\. During prenatal development, stem cells transform into roughly 350 different types of specialized cells. This process is known as:
 ---
 
 - [ ] Cell migration
@@ -130,7 +133,8 @@ question: 8. During prenatal development, stem cells transform into roughly 350 
 ```mcq
 ---
 type: single
-question: 9. The embryonic period of prenatal development lasts from:
+question: >-
+  9\. The embryonic period of prenatal development lasts from:
 ---
 
 - [ ] Conception to 2 weeks
@@ -146,7 +150,7 @@ question: 9. The embryonic period of prenatal development lasts from:
 ```mcq
 ---
 type: single
-question: 10. Which statement regarding the placenta is correct?
+question: 10\. Which statement regarding the placenta is correct?
 ---
 
 - [ ] It is a perfect barrier that blocks all toxins and viruses.
@@ -162,7 +166,8 @@ question: 10. Which statement regarding the placenta is correct?
 ```mcq
 ---
 type: single
-question: 11. The neural tube, which eventually differentiates into the brain and spinal cord, is formed from:
+question: >-
+  11\. The neural tube, which eventually differentiates into the brain and spinal cord, is formed from:
 ---
 
 - [x] A U-shaped groove in the top layer of differentiated cells
@@ -178,7 +183,7 @@ question: 11. The neural tube, which eventually differentiates into the brain an
 ```mcq
 ---
 type: single
-question: 12. During the early stages of prenatal brain development, approximately how many neurons are produced per minute?
+question: 12\. During the early stages of prenatal brain development, approximately how many neurons are produced per minute?
 ---
 
 - [ ] 10,000
@@ -194,7 +199,7 @@ question: 12. During the early stages of prenatal brain development, approximate
 ```mcq
 ---
 type: single
-question: 13. Which theory of development suggests that genes, brain structure, brain function, and experience all interact bidirectionally?
+question: 13\. Which theory of development suggests that genes, brain structure, brain function, and experience all interact bidirectionally?
 ---
 
 - [ ] Blueprint analogy
@@ -210,7 +215,7 @@ question: 13. Which theory of development suggests that genes, brain structure, 
 ```mcq
 ---
 type: single
-question: 14. Minamata disease, which caused severe neurological symptoms in newborns, was caused by which teratogen?
+question: 14\. Minamata disease, which caused severe neurological symptoms in newborns, was caused by which teratogen?
 ---
 
 - [ ] Thalidomide
@@ -226,7 +231,7 @@ question: 14. Minamata disease, which caused severe neurological symptoms in new
 ```mcq
 ---
 type: single
-question: 15. The drug Thalidomide, used in the 1960s, is a classic example of how timing affects teratogenic impact. What specific deformity did it cause when taken between the 4th and 6th week?
+question: 15\. The drug Thalidomide, used in the 1960s, is a classic example of how timing affects teratogenic impact. What specific deformity did it cause when taken between the 4th and 6th week?
 ---
 
 - [x] Major limb deformities
@@ -242,7 +247,8 @@ question: 15. The drug Thalidomide, used in the 1960s, is a classic example of h
 ```mcq
 ---
 type: single
-question: 16. The "Sleeper Effect" in teratology refers to:
+question: >-
+  16\. The "Sleeper Effect" in teratology refers to:
 ---
 
 - [ ] The fetus sleeping more due to drug exposure.
@@ -258,7 +264,7 @@ question: 16. The "Sleeper Effect" in teratology refers to:
 ```mcq
 ---
 type: single
-question: 17. Which prenatal imaging technique uses the different physical properties of tissues (skull, grey matter, fluid) to create STATIC maps of the developing brain?
+question: 17\. Which prenatal imaging technique uses the different physical properties of tissues (skull, grey matter, fluid) to create STATIC maps of the developing brain?
 ---
 
 - [ ] Prenatal MEG
@@ -274,7 +280,7 @@ question: 17. Which prenatal imaging technique uses the different physical prope
 ```mcq
 ---
 type: single
-question: 18. At what gestational age does spontaneous movement generally begin in the fetus?
+question: 18\. At what gestational age does spontaneous movement generally begin in the fetus?
 ---
 
 - [x] 5 weeks
@@ -290,7 +296,8 @@ question: 18. At what gestational age does spontaneous movement generally begin 
 ```mcq
 ---
 type: single
-question: 19. By 18-19 weeks of gestation, the majority of fetal arm movements are directed towards:
+question: >-
+  19\. By 18-19 weeks of gestation, the majority of fetal arm movements are directed towards:
 ---
 
 - [ ] The uterine wall
@@ -306,7 +313,8 @@ question: 19. By 18-19 weeks of gestation, the majority of fetal arm movements a
 ```mcq
 ---
 type: single
-question: 20. Evidence suggests that fetuses can hear and process sounds from the external environment (outside the womb) starting from around:
+question: >-
+  20\. Evidence suggests that fetuses can hear and process sounds from the external environment (outside the womb) starting from around:
 ---
 
 - [ ] 12 weeks
@@ -322,7 +330,8 @@ question: 20. Evidence suggests that fetuses can hear and process sounds from th
 ```mcq
 ---
 type: single
-question: 21. DeSnoo (1937) demonstrated that fetuses have a preference for sweet tastes by:
+question: >-
+  21\. DeSnoo (1937) demonstrated that fetuses have a preference for sweet tastes by:
 ---
 
 - [ ] Measuring fetal heart rate when the mother ate chocolate.
@@ -338,7 +347,7 @@ question: 21. DeSnoo (1937) demonstrated that fetuses have a preference for swee
 ```mcq
 ---
 type: single
-question: 22. Which of the following best supports the idea that prenatal auditory experience influences postnatal preferences?
+question: 22\. Which of the following best supports the idea that prenatal auditory experience influences postnatal preferences?
 ---
 
 - [x] Newborns prefer the language they heard in the womb over a foreign language.
@@ -354,7 +363,7 @@ question: 22. Which of the following best supports the idea that prenatal audito
 ```mcq
 ---
 type: single
-question: 23. A recent study by Ronga et al. (2025) found a correlation between fetal eye movements in response to face-like stimuli and the size of which brain structure?
+question: 23\. A recent study by Ronga et al. (2025) found a correlation between fetal eye movements in response to face-like stimuli and the size of which brain structure?
 ---
 
 - [ ] The Hippocampus
@@ -370,7 +379,7 @@ question: 23. A recent study by Ronga et al. (2025) found a correlation between 
 ```mcq
 ---
 type: single
-question: 24. What mechanism is proposed to help pull the developing cortex into its folded shape (gyri and sulci)?
+question: 24\. What mechanism is proposed to help pull the developing cortex into its folded shape (gyri and sulci)?
 ---
 
 - [ ] Fluid pressure from the ventricles
@@ -386,7 +395,7 @@ question: 24. What mechanism is proposed to help pull the developing cortex into
 ```mcq
 ---
 type: single
-question: 25. What is the primary function of the umbilical cord?
+question: 25\. What is the primary function of the umbilical cord?
 ---
 
 - [x] It is the tube containing blood vessels connecting the placenta and fetus.
@@ -402,7 +411,8 @@ question: 25. What is the primary function of the umbilical cord?
 ```mcq
 ---
 type: single
-question: 26. Developmental trends during the embryonic period follow a "cephalocaudal" pattern. This means development proceeds:
+question: >-
+  26\. Developmental trends during the embryonic period follow a "cephalocaudal" pattern. This means development proceeds:
 ---
 
 - [ ] From the extremities inward.
@@ -418,7 +428,8 @@ question: 26. Developmental trends during the embryonic period follow a "cephalo
 ```mcq
 ---
 type: single
-question: 27. The case study of "AH," who was born with no right hemisphere, demonstrates the concept of:
+question: >-
+  27\. The case study of "AH," who was born with no right hemisphere, demonstrates the concept of:
 ---
 
 - [ ] Failed neurogenesis
@@ -434,7 +445,8 @@ question: 27. The case study of "AH," who was born with no right hemisphere, dem
 ```mcq
 ---
 type: single
-question: 28. In the context of teratogens, the "dose-response relation" implies that:
+question: >-
+  28\. In the context of teratogens, the "dose-response relation" implies that:
 ---
 
 - [ ] Any exposure, no matter how small, causes severe damage.
@@ -450,7 +462,7 @@ question: 28. In the context of teratogens, the "dose-response relation" implies
 ```mcq
 ---
 type: single
-question: 29. A study by Ustun et al. (2022) used 4D ultrasound to observe fetal reactions to maternal ingestion of kale and carrot capsules. What did they measure?
+question: 29\. A study by Ustun et al. (2022) used 4D ultrasound to observe fetal reactions to maternal ingestion of kale and carrot capsules. What did they measure?
 ---
 
 - [ ] Heart rate variability
@@ -466,7 +478,7 @@ question: 29. A study by Ustun et al. (2022) used 4D ultrasound to observe fetal
 ```mcq
 ---
 type: single
-question: 30. Why are "critical" or "sensitive" periods important in prenatal brain development?
+question: 30\. Why are "critical" or "sensitive" periods important in prenatal brain development?
 ---
 
 - [x] Opportunities for major neural reorganization are time-limited.

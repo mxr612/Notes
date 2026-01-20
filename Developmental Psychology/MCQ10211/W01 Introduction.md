@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. If a researcher wishes to investigate how a group of children’s language skills improve between 18 to 24 months of age, which research design would give this researcher the best outcome?
+question: 1\. If a researcher wishes to investigate how a group of children’s language skills improve between 18 to 24 months of age, which research design would give this researcher the best outcome?
 ---
 
 - [ ] Cross-sectional
@@ -18,7 +18,7 @@ question: 1. If a researcher wishes to investigate how a group of children’s l
 ```mcq
 ---
 type: single
-question: 2. Some of the earliest recorded and most influential ideas about children’s development came from __________.
+question: 2\. Some of the earliest recorded and most influential ideas about children’s development came from __________.
 ---
 
 - [x] Plato and Aristotle
@@ -34,7 +34,8 @@ question: 2. Some of the earliest recorded and most influential ideas about chil
 ```mcq
 ---
 type: single
-question: 3. A mother consistently refuses to cuddle a child who has frequent tantrums and the occurrence of tantrums subsequently decreases. The mother has just used a mild form of:
+question: >-
+  3\. A mother consistently refuses to cuddle a child who has frequent tantrums and the occurrence of tantrums subsequently decreases. The mother has just used a mild form of:
 ---
 
 - [ ] Negative reinforcement
@@ -50,7 +51,7 @@ question: 3. A mother consistently refuses to cuddle a child who has frequent ta
 ```mcq
 ---
 type: single
-question: 4. Which philosopher viewed the child as a "tabula rasa" (blank slate) and advocated for instilling discipline before freedom?
+question: 4\. Which philosopher viewed the child as a "tabula rasa" (blank slate) and advocated for instilling discipline before freedom?
 ---
 
 - [ ] Plato
@@ -66,7 +67,7 @@ question: 4. Which philosopher viewed the child as a "tabula rasa" (blank slate)
 ```mcq
 ---
 type: single
-question: 5. Which of the following is considered a "nativist" view regarding child development?
+question: 5\. Which of the following is considered a "nativist" view regarding child development?
 ---
 
 - [x] Children are born with innate knowledge.
@@ -82,7 +83,8 @@ question: 5. Which of the following is considered a "nativist" view regarding ch
 ```mcq
 ---
 type: single
-question: 6. Jean-Jacques Rousseau’s philosophy on child-rearing can best be summarized as:
+question: >-
+  6\. Jean-Jacques Rousseau’s philosophy on child-rearing can best be summarized as:
 ---
 
 - [ ] Strict discipline followed by gradual freedom.
@@ -98,7 +100,7 @@ question: 6. Jean-Jacques Rousseau’s philosophy on child-rearing can best be s
 ```mcq
 ---
 type: single
-question: 7. Which of the following is a primary strength of Naturalistic Observation?
+question: 7\. Which of the following is a primary strength of Naturalistic Observation?
 ---
 
 - [ ] It allows for easy identification of causal relationships.
@@ -114,7 +116,7 @@ question: 7. Which of the following is a primary strength of Naturalistic Observ
 ```mcq
 ---
 type: single
-question: 8. Which research method allows for the direct testing of relationships between variables and offers relatively easy experimental control?
+question: 8\. Which research method allows for the direct testing of relationships between variables and offers relatively easy experimental control?
 ---
 
 - [ ] Naturalistic Observation
@@ -130,7 +132,7 @@ question: 8. Which research method allows for the direct testing of relationship
 ```mcq
 ---
 type: single
-question: 9. What is a specific limitation of the "Interview" method in developmental research?
+question: 9\. What is a specific limitation of the "Interview" method in developmental research?
 ---
 
 - [ ] It cannot focus on the individual.
@@ -146,7 +148,8 @@ question: 9. What is a specific limitation of the "Interview" method in developm
 ```mcq
 ---
 type: single
-question: 10. A "Micro-genetic" design is best described as:
+question: >-
+  10\. A "Micro-genetic" design is best described as:
 ---
 
 - [ ] Comparing children of different ages at a single point in time.
@@ -162,7 +165,7 @@ question: 10. A "Micro-genetic" design is best described as:
 ```mcq
 ---
 type: single
-question: 11. Which of the following is a disadvantage of Longitudinal designs?
+question: 11\. Which of the following is a disadvantage of Longitudinal designs?
 ---
 
 - [ ] They are uninformative about the stability of individual differences.
@@ -178,7 +181,8 @@ question: 11. Which of the following is a disadvantage of Longitudinal designs?
 ```mcq
 ---
 type: single
-question: 12. "Synaptogenesis" refers to:
+question: >-
+  12\. "Synaptogenesis" refers to:
 ---
 
 - [ ] The death of unused neurons in the brain.
@@ -194,7 +198,8 @@ question: 12. "Synaptogenesis" refers to:
 ```mcq
 ---
 type: single
-question: 13. Evidence that learning begins prenatally includes the finding that:
+question: >-
+  13\. Evidence that learning begins prenatally includes the finding that:
 ---
 
 - [x] Newborns prefer smells and tastes familiar from the womb.
@@ -210,7 +215,8 @@ question: 13. Evidence that learning begins prenatally includes the finding that
 ```mcq
 ---
 type: single
-question: 14. In the context of infant learning, a decrease in responsiveness to repeated stimulation is called:
+question: >-
+  14\. In the context of infant learning, a decrease in responsiveness to repeated stimulation is called:
 ---
 
 - [ ] Sensitization
@@ -226,7 +232,8 @@ question: 14. In the context of infant learning, a decrease in responsiveness to
 ```mcq
 ---
 type: single
-question: 15. The speed with which an infant habituates is believed to reflect:
+question: >-
+  15\. The speed with which an infant habituates is believed to reflect:
 ---
 
 - [ ] The infant's emotional stability.
@@ -242,7 +249,8 @@ question: 15. The speed with which an infant habituates is believed to reflect:
 ```mcq
 ---
 type: single
-question: 16. When an infant's interest is renewed after a new stimulus is presented following a period of habituation, this is known as:
+question: >-
+  16\. When an infant's interest is renewed after a new stimulus is presented following a period of habituation, this is known as:
 ---
 
 - [ ] Extinction
@@ -258,7 +266,8 @@ question: 16. When an infant's interest is renewed after a new stimulus is prese
 ```mcq
 ---
 type: single
-question: 17. According to Gibson (1988), "Affordances" are:
+question: >-
+  17\. According to Gibson (1988), "Affordances" are:
 ---
 
 - [ ] The emotional bonds formed between infant and caregiver.
@@ -274,7 +283,8 @@ question: 17. According to Gibson (1988), "Affordances" are:
 ```mcq
 ---
 type: single
-question: 18. Statistical learning in infants involves:
+question: >-
+  18\. Statistical learning in infants involves:
 ---
 
 - [ ] Learning through rewards and punishments.
@@ -290,7 +300,8 @@ question: 18. Statistical learning in infants involves:
 ```mcq
 ---
 type: single
-question: 19. Saffran et al. (1996) showed that 8-month-old infants could pick out words from a stream of speech after only 2 minutes. This is an example of:
+question: >-
+  19\. Saffran et al. (1996) showed that 8-month-old infants could pick out words from a stream of speech after only 2 minutes. This is an example of:
 ---
 
 - [ ] Classical conditioning
@@ -306,7 +317,8 @@ question: 19. Saffran et al. (1996) showed that 8-month-old infants could pick o
 ```mcq
 ---
 type: single
-question: 20. In Pavlov’s famous experiment with dogs, the food acted as the:
+question: >-
+  20\. In Pavlov’s famous experiment with dogs, the food acted as the:
 ---
 
 - [ ] Conditioned Stimulus (CS)
@@ -322,7 +334,7 @@ question: 20. In Pavlov’s famous experiment with dogs, the food acted as the:
 ```mcq
 ---
 type: single
-question: 21. Which type of conditioning involves learning the relation between one's own behavior and its consequences?
+question: 21\. Which type of conditioning involves learning the relation between one's own behavior and its consequences?
 ---
 
 - [ ] Classical conditioning
@@ -338,7 +350,8 @@ question: 21. Which type of conditioning involves learning the relation between 
 ```mcq
 ---
 type: single
-question: 22. In the context of instrumental conditioning, "Positive Reinforcement" means:
+question: >-
+  22\. In the context of instrumental conditioning, "Positive Reinforcement" means:
 ---
 
 - [x] Behavior is reliably rewarded by a positive experience.
@@ -354,7 +367,8 @@ question: 22. In the context of instrumental conditioning, "Positive Reinforceme
 ```mcq
 ---
 type: single
-question: 23. Rovee-Collier et al. (1978) attached a ribbon to an infant's ankle and a mobile. The infant learned that kicking made the mobile move. This is an example of:
+question: >-
+  23\. Rovee-Collier et al. (1978) attached a ribbon to an infant's ankle and a mobile. The infant learned that kicking made the mobile move. This is an example of:
 ---
 
 - [ ] Habituation
@@ -370,7 +384,8 @@ question: 23. Rovee-Collier et al. (1978) attached a ribbon to an infant's ankle
 ```mcq
 ---
 type: single
-question: 24. "Extinction" in instrumental conditioning occurs when:
+question: >-
+  24\. "Extinction" in instrumental conditioning occurs when:
 ---
 
 - [ ] A behavior is followed by a punishment.
@@ -386,7 +401,8 @@ question: 24. "Extinction" in instrumental conditioning occurs when:
 ```mcq
 ---
 type: single
-question: 25. Research by Campbell et al. (1995) suggests that infants of depressed mothers may smile less because:
+question: >-
+  25\. Research by Campbell et al. (1995) suggests that infants of depressed mothers may smile less because:
 ---
 
 - [ ] They have genetically inherited the depression.
@@ -402,7 +418,8 @@ question: 25. Research by Campbell et al. (1995) suggests that infants of depres
 ```mcq
 ---
 type: single
-question: 26. Regarding observational learning and imitation, recent work by Oostenbroek et al. (2016) suggests that:
+question: >-
+  26\. Regarding observational learning and imitation, recent work by Oostenbroek et al. (2016) suggests that:
 ---
 
 - [ ] Newborns are excellent at imitating facial expressions.
@@ -418,7 +435,8 @@ question: 26. Regarding observational learning and imitation, recent work by Oos
 ```mcq
 ---
 type: single
-question: 27. Meltzoff’s (1995) study, where 18-month-olds watched a person fail to pull a dumbbell apart, demonstrated that:
+question: >-
+  27\. Meltzoff’s (1995) study, where 18-month-olds watched a person fail to pull a dumbbell apart, demonstrated that:
 ---
 
 - [ ] Infants only imitate completed actions.
@@ -434,7 +452,7 @@ question: 27. Meltzoff’s (1995) study, where 18-month-olds watched a person fa
 ```mcq
 ---
 type: single
-question: 28. What is the format of the assessment for this Developmental Psychology unit?
+question: 28\. What is the format of the assessment for this Developmental Psychology unit?
 ---
 
 - [ ] An essay and a presentation.
@@ -447,7 +465,7 @@ question: 28. What is the format of the assessment for this Developmental Psycho
 ```mcq
 ---
 type: single
-question: 29. Which of the following contributed to the "construction of modern childhood" in the 20th Century?
+question: 29\. Which of the following contributed to the "construction of modern childhood" in the 20th Century?
 ---
 
 - [ ] The introduction of child labor in factories.
@@ -463,7 +481,7 @@ question: 29. Which of the following contributed to the "construction of modern 
 ```mcq
 ---
 type: single
-question: 30. How do "Naturalistic Experiments" differ from standard "Naturalistic Observation"?
+question: 30\. How do "Naturalistic Experiments" differ from standard "Naturalistic Observation"?
 ---
 
 - [ ] They are conducted in a laboratory with strict controls.

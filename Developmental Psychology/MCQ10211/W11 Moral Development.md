@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. Which of the following statements about the development of the conscience is true according to the lecture notes?
+question: 1\. Which of the following statements about the development of the conscience is true according to the lecture notes?
 ---
 
 - [ ] Children are born with an internal regulatory mechanism of behaviour that changes little over time
@@ -18,7 +18,7 @@ question: 1. Which of the following statements about the development of the cons
 ```mcq
 ---
 type: single
-question: 2. Which of the following factors are cited in the lecture as contributing to the development of prosocial behaviour?
+question: 2\. Which of the following factors are cited in the lecture as contributing to the development of prosocial behaviour?
 ---
 
 - [ ] Secure attachment
@@ -34,7 +34,7 @@ question: 2. Which of the following factors are cited in the lecture as contribu
 ```mcq
 ---
 type: single
-question: 3. Max is deciding whether or not to wear a bright red suit to a sombre funeral. According to Social Domain Theory, this is an example of which type of judgement?
+question: 3\. Max is deciding whether or not to wear a bright red suit to a sombre funeral. According to Social Domain Theory, this is an example of which type of judgement?
 ---
 
 - [ ] Moral judgement
@@ -50,7 +50,7 @@ question: 3. Max is deciding whether or not to wear a bright red suit to a sombr
 ```mcq
 ---
 type: single
-question: 4. According to Piaget's theory of moral development, a child in the 'Heteronomous morality' stage would most likely judge which of the following scenarios as "naughtier"?
+question: 4\. According to Piaget's theory of moral development, a child in the 'Heteronomous morality' stage would most likely judge which of the following scenarios as "naughtier"?
 ---
 
 - [x] Accidentally breaking 10 cups while trying to help
@@ -66,7 +66,7 @@ question: 4. According to Piaget's theory of moral development, a child in the '
 ```mcq
 ---
 type: single
-question: 5. Which of the following is a characteristic of Piaget's 'Autonomous morality' stage?
+question: 5\. Which of the following is a characteristic of Piaget's 'Autonomous morality' stage?
 ---
 
 - [ ] Rules are regarded as fixed and unchangeable
@@ -82,7 +82,7 @@ question: 5. Which of the following is a characteristic of Piaget's 'Autonomous 
 ```mcq
 ---
 type: single
-question: 6. Which critique of Piaget's theory is supported by research mentioned in the lecture (e.g., Grueneich, 1982)?
+question: 6\. Which critique of Piaget's theory is supported by research mentioned in the lecture (e.g., Grueneich, 1982)?
 ---
 
 - [ ] Piaget overestimated the moral reasoning of young children
@@ -98,7 +98,7 @@ question: 6. Which critique of Piaget's theory is supported by research mentione
 ```mcq
 ---
 type: single
-question: 7. In Kohlberg's 'Pre-conventional' level of moral reasoning, what is the primary focus of the individual?
+question: 7\. In Kohlberg's 'Pre-conventional' level of moral reasoning, what is the primary focus of the individual?
 ---
 
 - [ ] Upholding laws and contributing to society
@@ -114,7 +114,7 @@ question: 7. In Kohlberg's 'Pre-conventional' level of moral reasoning, what is 
 ```mcq
 ---
 type: single
-question: 8. A child argues, "I will let you play with my toy if you let me play with yours." Which stage of Kohlberg's theory does this reflect?
+question: 8\. A child argues, "I will let you play with my toy if you let me play with yours." Which stage of Kohlberg's theory does this reflect?
 ---
 
 - [ ] Stage 1: Obedience to authority
@@ -130,7 +130,8 @@ question: 8. A child argues, "I will let you play with my toy if you let me play
 ```mcq
 ---
 type: single
-question: 9. An individual reasoning at Kohlberg's Stage 4 (Social system and conscience orientation) would most likely argue that:
+question: >-
+  9\. An individual reasoning at Kohlberg's Stage 4 (Social system and conscience orientation) would most likely argue that:
 ---
 
 - [ ] Stealing is okay if it saves a life because life is more important than property
@@ -146,7 +147,7 @@ question: 9. An individual reasoning at Kohlberg's Stage 4 (Social system and co
 ```mcq
 ---
 type: single
-question: 10. Which stage of Kohlberg's theory involves moral decisions based on universal ethical principles that apply regardless of majority opinion?
+question: 10\. Which stage of Kohlberg's theory involves moral decisions based on universal ethical principles that apply regardless of majority opinion?
 ---
 
 - [ ] Stage 3
@@ -162,7 +163,7 @@ question: 10. Which stage of Kohlberg's theory involves moral decisions based on
 ```mcq
 ---
 type: single
-question: 11. Which of the following is a noted criticism of Kohlberg's theory mentioned in the lecture?
+question: 11\. Which of the following is a noted criticism of Kohlberg's theory mentioned in the lecture?
 ---
 
 - [ ] It places too much emphasis on gender differences
@@ -178,7 +179,8 @@ question: 11. Which of the following is a noted criticism of Kohlberg's theory m
 ```mcq
 ---
 type: single
-question: 12. According to Social Domain Theory, deciding whether to eat a packet of crisps for lunch is an example of a:
+question: >-
+  12\. According to Social Domain Theory, deciding whether to eat a packet of crisps for lunch is an example of a:
 ---
 
 - [ ] Moral judgement
@@ -194,7 +196,8 @@ question: 12. According to Social Domain Theory, deciding whether to eat a packe
 ```mcq
 ---
 type: single
-question: 13. Research by Miller et al. (1990) regarding cultural differences in judgement found that:
+question: >-
+  13\. Research by Miller et al. (1990) regarding cultural differences in judgement found that:
 ---
 
 - [x] Children in India are more likely to view helping others as a moral duty than children in the USA
@@ -210,7 +213,8 @@ question: 13. Research by Miller et al. (1990) regarding cultural differences in
 ```mcq
 ---
 type: single
-question: 14. In "opacity of mind" cultures (e.g., Fiji), moral judgements tend to focus more on:
+question: >-
+  14\. In "opacity of mind" cultures (e.g., Fiji), moral judgements tend to focus more on:
 ---
 
 - [ ] The individual's intentions
@@ -226,7 +230,7 @@ question: 14. In "opacity of mind" cultures (e.g., Fiji), moral judgements tend 
 ```mcq
 ---
 type: single
-question: 15. Which of the following conditions helps a child typically adopt their parents' moral values?
+question: 15\. Which of the following conditions helps a child typically adopt their parents' moral values?
 ---
 
 - [ ] The parents use harsh discipline to enforce rules
@@ -242,7 +246,7 @@ question: 15. Which of the following conditions helps a child typically adopt th
 ```mcq
 ---
 type: single
-question: 16. What is the defining characteristic of "altruistic" prosocial behaviour?
+question: 16\. What is the defining characteristic of "altruistic" prosocial behaviour?
 ---
 
 - [ ] It is motivated by the desire for social approval
@@ -258,7 +262,7 @@ question: 16. What is the defining characteristic of "altruistic" prosocial beha
 ```mcq
 ---
 type: single
-question: 17. How do the lecture notes distinguish between empathy and sympathy?
+question: 17\. How do the lecture notes distinguish between empathy and sympathy?
 ---
 
 - [ ] Empathy is a feeling of concern; sympathy is an emotional reaction similar to another's
@@ -274,7 +278,7 @@ question: 17. How do the lecture notes distinguish between empathy and sympathy?
 ```mcq
 ---
 type: single
-question: 18. At what age do children typically start to more clearly differentiate between another's emotional distress and their own?
+question: 18\. At what age do children typically start to more clearly differentiate between another's emotional distress and their own?
 ---
 
 - [ ] 6 months
@@ -290,7 +294,7 @@ question: 18. At what age do children typically start to more clearly differenti
 ```mcq
 ---
 type: single
-question: 19. According to twin studies (e.g., Matthews et al., 1981), what role do genetic factors play in prosocial behaviour?
+question: 19\. According to twin studies (e.g., Matthews et al., 1981), what role do genetic factors play in prosocial behaviour?
 ---
 
 - [ ] They have no contribution
@@ -306,7 +310,7 @@ question: 19. According to twin studies (e.g., Matthews et al., 1981), what role
 ```mcq
 ---
 type: single
-question: 20. Which type of aggression is motivated by the desire to obtain a concrete goal, such as gaining possession of a toy?
+question: 20\. Which type of aggression is motivated by the desire to obtain a concrete goal, such as gaining possession of a toy?
 ---
 
 - [ ] Hostile aggression
@@ -322,7 +326,7 @@ question: 20. Which type of aggression is motivated by the desire to obtain a co
 ```mcq
 ---
 type: single
-question: 21. What is the developmental trend for physical aggression in most children?
+question: 21\. What is the developmental trend for physical aggression in most children?
 ---
 
 - [ ] It increases steadily until age 10
@@ -338,7 +342,8 @@ question: 21. What is the developmental trend for physical aggression in most ch
 ```mcq
 ---
 type: single
-question: 22. Relational aggression is best described as:
+question: >-
+  22\. Relational aggression is best described as:
 ---
 
 - [ ] Physical harm caused to siblings
@@ -354,7 +359,8 @@ question: 22. Relational aggression is best described as:
 ```mcq
 ---
 type: single
-question: 23. Children prone to "reactive aggression" are particularly likely to:
+question: >-
+  23\. Children prone to "reactive aggression" are particularly likely to:
 ---
 
 - [ ] Anticipate positive social consequences for aggression
@@ -370,7 +376,7 @@ question: 23. Children prone to "reactive aggression" are particularly likely to
 ```mcq
 ---
 type: single
-question: 24. What does the research by Eron et al. (1987) suggest about the consistency of aggressive behaviour?
+question: 24\. What does the research by Eron et al. (1987) suggest about the consistency of aggressive behaviour?
 ---
 
 - [ ] Aggression at age 8 has no relationship to adult behaviour
@@ -386,7 +392,7 @@ question: 24. What does the research by Eron et al. (1987) suggest about the con
 ```mcq
 ---
 type: single
-question: 25. Which statement is true regarding the "Heinz dilemma"?
+question: 25\. Which statement is true regarding the "Heinz dilemma"?
 ---
 
 - [ ] It was used primarily by Piaget to test heteronomous morality
@@ -402,7 +408,8 @@ question: 25. Which statement is true regarding the "Heinz dilemma"?
 ```mcq
 ---
 type: single
-question: 26. In the context of antisocial behaviour, "early-onset" conduct problems are typically associated with:
+question: >-
+  26\. In the context of antisocial behaviour, "early-onset" conduct problems are typically associated with:
 ---
 
 - [ ] Peer interactions in adolescence
@@ -418,7 +425,7 @@ question: 26. In the context of antisocial behaviour, "early-onset" conduct prob
 ```mcq
 ---
 type: single
-question: 27. Which of the following is NOT one of the three domains in Social Domain Theory?
+question: 27\. Which of the following is NOT one of the three domains in Social Domain Theory?
 ---
 
 - [ ] Moral
@@ -434,7 +441,8 @@ question: 27. Which of the following is NOT one of the three domains in Social D
 ```mcq
 ---
 type: single
-question: 28. "Proactive aggression" is defined as:
+question: >-
+  28\. "Proactive aggression" is defined as:
 ---
 
 - [ ] Emotionally driven, antagonistic aggression
@@ -450,7 +458,8 @@ question: 28. "Proactive aggression" is defined as:
 ```mcq
 ---
 type: single
-question: 29. Regarding the biological basis of aggression, the lecture mentions that children aggressive from early in life often have:
+question: >-
+  29\. Regarding the biological basis of aggression, the lecture mentions that children aggressive from early in life often have:
 ---
 
 - [ ] Highly developed language skills
@@ -466,7 +475,7 @@ question: 29. Regarding the biological basis of aggression, the lecture mentions
 ```mcq
 ---
 type: single
-question: 30. Who proposed that moral reasoning is self-centred in the Pre-conventional level?
+question: 30\. Who proposed that moral reasoning is self-centred in the Pre-conventional level?
 ---
 
 - [ ] Piaget

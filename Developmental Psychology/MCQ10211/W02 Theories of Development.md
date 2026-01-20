@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. Which philosopher is associated with the 'Empiricist' view, depicted as knowledge coming 'from without' in the lecture background?
+question: 1\. Which philosopher is associated with the 'Empiricist' view, depicted as knowledge coming 'from without' in the lecture background?
 ---
 
 - [ ] Plato
@@ -18,7 +18,7 @@ question: 1. Which philosopher is associated with the 'Empiricist' view, depicte
 ```mcq
 ---
 type: single
-question: 2. How is the child primarily depicted in Jean Piaget’s theory of development?
+question: 2\. How is the child primarily depicted in Jean Piaget’s theory of development?
 ---
 
 - [ ] As a social being heavily reliant on cultural tools
@@ -34,7 +34,7 @@ question: 2. How is the child primarily depicted in Jean Piaget’s theory of de
 ```mcq
 ---
 type: single
-question: 3. According to Piaget, the main sources of continuity are three processes—assimilation, accommodation, and _____.
+question: 3\. According to Piaget, the main sources of continuity are three processes—assimilation, accommodation, and _____.
 ---
 
 - [ ] nature
@@ -50,7 +50,7 @@ question: 3. According to Piaget, the main sources of continuity are three proce
 ```mcq
 ---
 type: single
-question: 4. In Piaget’s theory, what is the process by which people translate incoming information into a form they already understand?
+question: 4\. In Piaget’s theory, what is the process by which people translate incoming information into a form they already understand?
 ---
 
 - [x] Assimilation
@@ -66,7 +66,7 @@ question: 4. In Piaget’s theory, what is the process by which people translate
 ```mcq
 ---
 type: single
-question: 5. When an infant adjusts their theory of the world because their current knowledge is contradicted by evidence (e.g., inanimate things coming closer when pulled), which process is occurring?
+question: 5\. When an infant adjusts their theory of the world because their current knowledge is contradicted by evidence (e.g., inanimate things coming closer when pulled), which process is occurring?
 ---
 
 - [ ] Assimilation
@@ -82,7 +82,7 @@ question: 5. When an infant adjusts their theory of the world because their curr
 ```mcq
 ---
 type: single
-question: 6. Which of the following is NOT a central property of Piaget’s stage theory?
+question: 6\. Which of the following is NOT a central property of Piaget’s stage theory?
 ---
 
 - [ ] Qualitative change
@@ -98,7 +98,7 @@ question: 6. Which of the following is NOT a central property of Piaget’s stag
 ```mcq
 ---
 type: single
-question: 7. The period (birth to 2 years) within Piaget’s theory in which intelligence is expressed through sensory and motor abilities is called the _____ stage.
+question: 7\. The period (birth to 2 years) within Piaget’s theory in which intelligence is expressed through sensory and motor abilities is called the _____ stage.
 ---
 
 - [x] sensorimotor
@@ -114,7 +114,7 @@ question: 7. The period (birth to 2 years) within Piaget’s theory in which int
 ```mcq
 ---
 type: single
-question: 8. What critical cognitive achievement is typically reached by approximately 8 months of age in the sensorimotor stage?
+question: 8\. What critical cognitive achievement is typically reached by approximately 8 months of age in the sensorimotor stage?
 ---
 
 - [ ] Conservation
@@ -130,7 +130,7 @@ question: 8. What critical cognitive achievement is typically reached by approxi
 ```mcq
 ---
 type: single
-question: 9. In the A-not-B task, what error do infants typically make until about 12 months of age?
+question: 9\. In the A-not-B task, what error do infants typically make until about 12 months of age?
 ---
 
 - [ ] They refuse to reach for the object at all.
@@ -146,7 +146,8 @@ question: 9. In the A-not-B task, what error do infants typically make until abo
 ```mcq
 ---
 type: single
-question: 10. Deferred imitation, the repetition of other people's behaviour a substantial time after it occurred, is a sign that the child has formed:
+question: >-
+  10\. Deferred imitation, the repetition of other people's behaviour a substantial time after it occurred, is a sign that the child has formed:
 ---
 
 - [ ] Reflexive responses
@@ -162,7 +163,7 @@ question: 10. Deferred imitation, the repetition of other people's behaviour a s
 ```mcq
 ---
 type: single
-question: 11. Which stage is characterized by the acquisition of symbolic representation but limited by egocentrism and centration?
+question: 11\. Which stage is characterized by the acquisition of symbolic representation but limited by egocentrism and centration?
 ---
 
 - [x] Pre-operational stage
@@ -178,7 +179,7 @@ question: 11. Which stage is characterized by the acquisition of symbolic repres
 ```mcq
 ---
 type: single
-question: 12. The "Three-Mountains Task" is used to demonstrate which limitation of pre-operational thinking?
+question: 12\. The "Three-Mountains Task" is used to demonstrate which limitation of pre-operational thinking?
 ---
 
 - [ ] Lack of object permanence
@@ -194,7 +195,7 @@ question: 12. The "Three-Mountains Task" is used to demonstrate which limitation
 ```mcq
 ---
 type: single
-question: 13. Why do pre-operational children typically fail conservation tasks (e.g., liquid quantity)?
+question: 13\. Why do pre-operational children typically fail conservation tasks (e.g., liquid quantity)?
 ---
 
 - [ ] They cannot see the objects clearly.
@@ -210,7 +211,8 @@ question: 13. Why do pre-operational children typically fail conservation tasks 
 ```mcq
 ---
 type: single
-question: 14. During the Concrete Operational stage (7–12 years), children are able to:
+question: >-
+  14\. During the Concrete Operational stage (7–12 years), children are able to:
 ---
 
 - [ ] Reason hypothetically about alternative worlds
@@ -226,7 +228,7 @@ question: 14. During the Concrete Operational stage (7–12 years), children are
 ```mcq
 ---
 type: single
-question: 15. Which stage of cognitive development did Piaget believe was not universal and depended on the quality of education?
+question: 15\. Which stage of cognitive development did Piaget believe was not universal and depended on the quality of education?
 ---
 
 - [x] Formal operational stage
@@ -242,7 +244,7 @@ question: 15. Which stage of cognitive development did Piaget believe was not un
 ```mcq
 ---
 type: single
-question: 16. In the pendulum problem, how do children below the age of 12 (pre-formal operational) typically perform?
+question: 16\. In the pendulum problem, how do children below the age of 12 (pre-formal operational) typically perform?
 ---
 
 - [ ] They systematically test one variable at a time.
@@ -258,7 +260,7 @@ question: 16. In the pendulum problem, how do children below the age of 12 (pre-
 ```mcq
 ---
 type: single
-question: 17. Which of the following is a recognized critique of Piaget’s theory?
+question: 17\. Which of the following is a recognized critique of Piaget’s theory?
 ---
 
 - [ ] It overstates the contribution of the social world.
@@ -274,7 +276,8 @@ question: 17. Which of the following is a recognized critique of Piaget’s theo
 ```mcq
 ---
 type: single
-question: 18. Lev Vygotsky’s sociocultural approach portrays children as:
+question: >-
+  18\. Lev Vygotsky’s sociocultural approach portrays children as:
 ---
 
 - [x] Social beings intertwined with others who help them gain skills
@@ -290,7 +293,7 @@ question: 18. Lev Vygotsky’s sociocultural approach portrays children as:
 ```mcq
 ---
 type: single
-question: 19. Vygotsky distinguished between "lower mental functions" (innate/biological) and "higher mental functions". How do higher mental functions develop?
+question: 19\. Vygotsky distinguished between "lower mental functions" (innate/biological) and "higher mental functions". How do higher mental functions develop?
 ---
 
 - [ ] Through biological maturation alone
@@ -306,7 +309,8 @@ question: 19. Vygotsky distinguished between "lower mental functions" (innate/bi
 ```mcq
 ---
 type: single
-question: 20. In Vygotsky’s theory, the process by which a child learns a cultural tool and eventually uses it independently is known as:
+question: >-
+  20\. In Vygotsky’s theory, the process by which a child learns a cultural tool and eventually uses it independently is known as:
 ---
 
 - [ ] Assimilation
@@ -322,7 +326,7 @@ question: 20. In Vygotsky’s theory, the process by which a child learns a cult
 ```mcq
 ---
 type: single
-question: 21. Vygotsky’s emphasis on children as social learners is evident in his perspective on the relation between _____.
+question: 21\. Vygotsky’s emphasis on children as social learners is evident in his perspective on the relation between _____.
 ---
 
 - [ ] language and emotion
@@ -338,7 +342,7 @@ question: 21. Vygotsky’s emphasis on children as social learners is evident in
 ```mcq
 ---
 type: single
-question: 22. According to Vygotsky, what is the function of "private speech" in children aged 4-6?
+question: 22\. According to Vygotsky, what is the function of "private speech" in children aged 4-6?
 ---
 
 - [ ] It is a sign of cognitive immaturity and egocentrism.
@@ -354,7 +358,8 @@ question: 22. According to Vygotsky, what is the function of "private speech" in
 ```mcq
 ---
 type: single
-question: 23. Research on counting systems (e.g., English vs. Chinese) and brick-counting tasks (Miura et al., 1994) supports Vygotsky’s idea that:
+question: >-
+  23\. Research on counting systems (e.g., English vs. Chinese) and brick-counting tasks (Miura et al., 1994) supports Vygotsky’s idea that:
 ---
 
 - [x] The content children learn and their thinking are shaped by cultural products.
@@ -370,7 +375,7 @@ question: 23. Research on counting systems (e.g., English vs. Chinese) and brick
 ```mcq
 ---
 type: single
-question: 24. Which concept refers to the "mutual understanding that people share during communication," which serves as the foundation of human cognitive development?
+question: 24\. Which concept refers to the "mutual understanding that people share during communication," which serves as the foundation of human cognitive development?
 ---
 
 - [ ] Conservation
@@ -386,7 +391,8 @@ question: 24. Which concept refers to the "mutual understanding that people shar
 ```mcq
 ---
 type: single
-question: 25. The "Zone of Proximal Development" (ZPD) refers to:
+question: >-
+  25\. The "Zone of Proximal Development" (ZPD) refers to:
 ---
 
 - [ ] The stage where a child can solve abstract problems independently.
@@ -402,7 +408,7 @@ question: 25. The "Zone of Proximal Development" (ZPD) refers to:
 ```mcq
 ---
 type: single
-question: 26. Which process involves more competent people providing a temporary framework that supports children’s thinking at a higher level than they could manage on their own?
+question: 26\. Which process involves more competent people providing a temporary framework that supports children’s thinking at a higher level than they could manage on their own?
 ---
 
 - [x] Social scaffolding
@@ -418,7 +424,7 @@ question: 26. Which process involves more competent people providing a temporary
 ```mcq
 ---
 type: single
-question: 27. How do Piaget and Vygotsky differ in their approach to education?
+question: 27\. How do Piaget and Vygotsky differ in their approach to education?
 ---
 
 - [ ] Piaget emphasizes social interaction; Vygotsky emphasizes independent discovery.
@@ -434,7 +440,7 @@ question: 27. How do Piaget and Vygotsky differ in their approach to education?
 ```mcq
 ---
 type: single
-question: 28. Regarding the direction of speech development, Piaget believed speech goes from _____ while Vygotsky believed it goes from _____.
+question: 28\. Regarding the direction of speech development, Piaget believed speech goes from _____ while Vygotsky believed it goes from _____.
 ---
 
 - [ ] Outer to Inner; Inner to Outer
@@ -450,7 +456,8 @@ question: 28. Regarding the direction of speech development, Piaget believed spe
 ```mcq
 ---
 type: single
-question: 29. Piaget’s claim that everyone goes through the stages of development in the same order without skipping is referred to as:
+question: >-
+  29\. Piaget’s claim that everyone goes through the stages of development in the same order without skipping is referred to as:
 ---
 
 - [ ] Broad applicability
@@ -466,7 +473,7 @@ question: 29. Piaget’s claim that everyone goes through the stages of developm
 ```mcq
 ---
 type: single
-question: 30. Why is it beneficial to have multiple theories of development rather than just one?
+question: 30\. Why is it beneficial to have multiple theories of development rather than just one?
 ---
 
 - [ ] Because one theory is always completely wrong.

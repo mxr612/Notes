@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. What do developmental researchers like Thelen (1984) suggest about why the stepping reflex disappears and later reappears as voluntary walking?
+question: 1\. What do developmental researchers like Thelen (1984) suggest about why the stepping reflex disappears and later reappears as voluntary walking?
 ---
 
 - [ ] The reflex fades because it serves no purpose after early infancy.
@@ -18,7 +18,7 @@ question: 1. What do developmental researchers like Thelen (1984) suggest about 
 ```mcq
 ---
 type: single
-question: 2. Why does the dynamic systems approach argue that the development of skills like walking cannot be explained by brain maturation alone?
+question: 2\. Why does the dynamic systems approach argue that the development of skills like walking cannot be explained by brain maturation alone?
 ---
 
 - [ ] Because the brain develops faster than other systems.
@@ -34,7 +34,7 @@ question: 2. Why does the dynamic systems approach argue that the development of
 ```mcq
 ---
 type: single
-question: 3. What key finding from Adolph et al.’s (1993) study with slopes best supports the idea of the specificity of motor learning?
+question: 3\. What key finding from Adolph et al.’s (1993) study with slopes best supports the idea of the specificity of motor learning?
 ---
 
 - [ ] Infants transfer knowledge about safe slopes from crawling to walking.
@@ -50,7 +50,7 @@ question: 3. What key finding from Adolph et al.’s (1993) study with slopes be
 ```mcq
 ---
 type: single
-question: 4. Why do we have a brain, according to the perspective introduced in the Motor Development lecture?
+question: 4\. Why do we have a brain, according to the perspective introduced in the Motor Development lecture?
 ---
 
 - [ ] Primarily to store memories and process language.
@@ -66,7 +66,7 @@ question: 4. Why do we have a brain, according to the perspective introduced in 
 ```mcq
 ---
 type: single
-question: 5. Which of the following best describes a reflex in a newborn?
+question: 5\. Which of the following best describes a reflex in a newborn?
 ---
 
 - [x] An innate, fixed pattern of action that occurs in response to particular stimulation.
@@ -82,7 +82,7 @@ question: 5. Which of the following best describes a reflex in a newborn?
 ```mcq
 ---
 type: single
-question: 6. The "Rooting" reflex is characterized by which behavior and disappears around which age?
+question: 6\. The "Rooting" reflex is characterized by which behavior and disappears around which age?
 ---
 
 - [ ] The baby sucks repeatedly when something is put in their mouth; disappears at 4 months.
@@ -98,7 +98,7 @@ question: 6. The "Rooting" reflex is characterized by which behavior and disappe
 ```mcq
 ---
 type: single
-question: 7. Which reflex is considered an evolutionary remnant with no clear adaptive significance in modern humans?
+question: 7\. Which reflex is considered an evolutionary remnant with no clear adaptive significance in modern humans?
 ---
 
 - [ ] Rooting reflex
@@ -114,7 +114,7 @@ question: 7. Which reflex is considered an evolutionary remnant with no clear ad
 ```mcq
 ---
 type: single
-question: 8. When does the "Babinski" reflex typically disappear, and what does its persistence suggest?
+question: 8\. When does the "Babinski" reflex typically disappear, and what does its persistence suggest?
 ---
 
 - [ ] Disappears at 2 months; persistence suggests extraordinary athletic potential.
@@ -130,7 +130,7 @@ question: 8. When does the "Babinski" reflex typically disappear, and what does 
 ```mcq
 ---
 type: single
-question: 9. According to the maturation of the Primary Motor Cortex (M1), in what order does voluntary control develop?
+question: 9\. According to the maturation of the Primary Motor Cortex (M1), in what order does voluntary control develop?
 ---
 
 - [x] Head -> Arms and Trunk -> Legs
@@ -146,7 +146,7 @@ question: 9. According to the maturation of the Primary Motor Cortex (M1), in wh
 ```mcq
 ---
 type: single
-question: 10. Thelen's experiments with the stepping reflex involved suspending infants in water. What was the result?
+question: 10\. Thelen's experiments with the stepping reflex involved suspending infants in water. What was the result?
 ---
 
 - [ ] The water made the infants too cold to move.
@@ -162,7 +162,7 @@ question: 10. Thelen's experiments with the stepping reflex involved suspending 
 ```mcq
 ---
 type: single
-question: 11. Which of the following is true regarding the impact of culture on motor development, specifically in Mali?
+question: 11\. Which of the following is true regarding the impact of culture on motor development, specifically in Mali?
 ---
 
 - [ ] Mothers avoid handling babies to protect their fragile joints, delaying development.
@@ -178,7 +178,7 @@ question: 11. Which of the following is true regarding the impact of culture on 
 ```mcq
 ---
 type: single
-question: 12. What effect has the "Back to Sleep" campaign (placing babies on backs to reduce SIDS) had on motor development?
+question: 12\. What effect has the "Back to Sleep" campaign (placing babies on backs to reduce SIDS) had on motor development?
 ---
 
 - [ ] It has caused a permanent delay in walking ability.
@@ -194,7 +194,7 @@ question: 12. What effect has the "Back to Sleep" campaign (placing babies on ba
 ```mcq
 ---
 type: single
-question: 13. At what age do infants typically begin successfully reaching for objects (as opposed to pre-reaching)?
+question: 13\. At what age do infants typically begin successfully reaching for objects (as opposed to pre-reaching)?
 ---
 
 - [ ] Birth to 1 month
@@ -210,7 +210,7 @@ question: 13. At what age do infants typically begin successfully reaching for o
 ```mcq
 ---
 type: single
-question: 14. Which grasp type is typically seen around 52 weeks (1 year) of age?
+question: 14\. Which grasp type is typically seen around 52 weeks (1 year) of age?
 ---
 
 - [ ] Ulnar grasp (clumsy swiping)
@@ -226,7 +226,7 @@ question: 14. Which grasp type is typically seen around 52 weeks (1 year) of age
 ```mcq
 ---
 type: single
-question: 15. What is the "Visual Cliff" paradigm primarily used to test?
+question: 15\. What is the "Visual Cliff" paradigm primarily used to test?
 ---
 
 - [ ] The strength of the stepping reflex.
@@ -242,7 +242,7 @@ question: 15. What is the "Visual Cliff" paradigm primarily used to test?
 ```mcq
 ---
 type: single
-question: 16. In the study by Campos et al. (1970) regarding the visual cliff, what was found about 1.5-month-old infants?
+question: 16\. In the study by Campos et al. (1970) regarding the visual cliff, what was found about 1.5-month-old infants?
 ---
 
 - [ ] They showed strong fear (increased heart rate) when placed on the deep side.
@@ -258,7 +258,7 @@ question: 16. In the study by Campos et al. (1970) regarding the visual cliff, w
 ```mcq
 ---
 type: single
-question: 17. What is "Social Referencing" in the context of the visual cliff experiment?
+question: 17\. What is "Social Referencing" in the context of the visual cliff experiment?
 ---
 
 - [ ] The infant ignores the parent to focus on the cliff.
@@ -274,7 +274,7 @@ question: 17. What is "Social Referencing" in the context of the visual cliff ex
 ```mcq
 ---
 type: single
-question: 18. What are "Affordances" in the context of perceptual and motor development?
+question: 18\. What are "Affordances" in the context of perceptual and motor development?
 ---
 
 - [ ] The cost of energy required to perform a movement.
@@ -290,7 +290,7 @@ question: 18. What are "Affordances" in the context of perceptual and motor deve
 ```mcq
 ---
 type: single
-question: 19. What is a "Scale Error"?
+question: 19\. What is a "Scale Error"?
 ---
 
 - [ ] When a child misjudges the weight of an object.
@@ -306,7 +306,7 @@ question: 19. What is a "Scale Error"?
 ```mcq
 ---
 type: single
-question: 20. Which of the following is NOT a proposed explanation for why children make scale errors?
+question: 20\. Which of the following is NOT a proposed explanation for why children make scale errors?
 ---
 
 - [ ] Dissociation between dorsal (action) and ventral (perception) visual streams.
@@ -322,7 +322,7 @@ question: 20. Which of the following is NOT a proposed explanation for why child
 ```mcq
 ---
 type: single
-question: 21. What did Campos et al. (2000) find regarding infants using a powered mobility device?
+question: 21\. What did Campos et al. (2000) find regarding infants using a powered mobility device?
 ---
 
 - [ ] The device delayed their ability to walk independently.
@@ -338,7 +338,7 @@ question: 21. What did Campos et al. (2000) find regarding infants using a power
 ```mcq
 ---
 type: single
-question: 22. At what age does the "Moro" reflex (startle response) typically disappear?
+question: 22\. At what age does the "Moro" reflex (startle response) typically disappear?
 ---
 
 - [ ] 2 months
@@ -354,7 +354,7 @@ question: 22. At what age does the "Moro" reflex (startle response) typically di
 ```mcq
 ---
 type: single
-question: 23. What behavior characterizes the "Stepping" reflex?
+question: 23\. What behavior characterizes the "Stepping" reflex?
 ---
 
 - [ ] Curling toes when the foot is stroked.
@@ -370,7 +370,7 @@ question: 23. What behavior characterizes the "Stepping" reflex?
 ```mcq
 ---
 type: single
-question: 24. What implies that the Grasping reflex in feet is an evolutionary remnant?
+question: 24\. What implies that the Grasping reflex in feet is an evolutionary remnant?
 ---
 
 - [ ] Human babies walk immediately after birth.
@@ -386,7 +386,8 @@ question: 24. What implies that the Grasping reflex in feet is an evolutionary r
 ```mcq
 ---
 type: single
-question: 25. "Pre-reaching" is best described as:
+question: >-
+  25\. "Pre-reaching" is best described as:
 ---
 
 - [ ] Precise pincer movements to pick up small items.
@@ -402,7 +403,7 @@ question: 25. "Pre-reaching" is best described as:
 ```mcq
 ---
 type: single
-question: 26. Which motor milestone typically occurs around 7 months of age?
+question: 26\. Which motor milestone typically occurs around 7 months of age?
 ---
 
 - [ ] Walking independently.
@@ -418,7 +419,7 @@ question: 26. Which motor milestone typically occurs around 7 months of age?
 ```mcq
 ---
 type: single
-question: 27. How does the concept of "Specificity of motor learning" apply to the transition from crawling to walking?
+question: 27\. How does the concept of "Specificity of motor learning" apply to the transition from crawling to walking?
 ---
 
 - [ ] Infants who are good crawlers are immediately good walkers.
@@ -434,7 +435,7 @@ question: 27. How does the concept of "Specificity of motor learning" apply to t
 ```mcq
 ---
 type: single
-question: 28. What is the typical age range for the disappearance of the "Rooting" reflex?
+question: 28\. What is the typical age range for the disappearance of the "Rooting" reflex?
 ---
 
 - [x] 3 weeks
@@ -450,7 +451,7 @@ question: 28. What is the typical age range for the disappearance of the "Rootin
 ```mcq
 ---
 type: single
-question: 29. Which of the following best explains "Utilisation Behaviour" or "Alien Hand Syndrome" in the context of scale errors?
+question: 29\. Which of the following best explains "Utilisation Behaviour" or "Alien Hand Syndrome" in the context of scale errors?
 ---
 
 - [ ] It is a condition where the hand refuses to move.
@@ -466,7 +467,7 @@ question: 29. Which of the following best explains "Utilisation Behaviour" or "A
 ```mcq
 ---
 type: single
-question: 30. According to Gibson (1979), why are perception and action interdependent?
+question: 30\. According to Gibson (1979), why are perception and action interdependent?
 ---
 
 - [ ] "We must think in order to act."

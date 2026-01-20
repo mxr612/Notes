@@ -2,7 +2,7 @@
 ```mcq
 ---
 type: single
-question: 1. According to Piaget’s theory of moral judgment, a child who is in the "Heteronomous morality" stage would most likely consider which of the following children to be the naughtiest?
+question: 1\. According to Piaget’s theory of moral judgment, a child who is in the "Heteronomous morality" stage would most likely consider which of the following children to be the naughtiest?
 ---
 
 - [ ] A child who intentionally steals one cookie while their mother is not looking.
@@ -18,7 +18,7 @@ question: 1. According to Piaget’s theory of moral judgment, a child who is in
 ```mcq
 ---
 type: single
-question: 2. At approximately what age did Piaget suggest children transition from Heteronomous morality to Autonomous morality?
+question: 2\. At approximately what age did Piaget suggest children transition from Heteronomous morality to Autonomous morality?
 ---
 
 - [ ] 3 years old
@@ -34,7 +34,7 @@ question: 2. At approximately what age did Piaget suggest children transition fr
 ```mcq
 ---
 type: single
-question: 3. Which of the following is a key characteristic of Piaget’s "Autonomous morality" stage?
+question: 3\. Which of the following is a key characteristic of Piaget’s "Autonomous morality" stage?
 ---
 
 - [ ] Rules are regarded as fixed and unchangeable things ("things in themselves").
@@ -50,7 +50,8 @@ question: 3. Which of the following is a key characteristic of Piaget’s "Auton
 ```mcq
 ---
 type: single
-question: 4. Modern research has critiqued Piaget’s theory by demonstrating that younger children can understand intentions if:
+question: >-
+  4\. Modern research has critiqued Piaget’s theory by demonstrating that younger children can understand intentions if:
 ---
 
 - [ ] The consequences are very severe.
@@ -66,7 +67,8 @@ question: 4. Modern research has critiqued Piaget’s theory by demonstrating th
 ```mcq
 ---
 type: single
-question: 5. In Kohlberg’s theory, "Pre-conventional moral reasoning" is primarily characterised by:
+question: >-
+  5\. In Kohlberg’s theory, "Pre-conventional moral reasoning" is primarily characterised by:
 ---
 
 - [ ] A focus on upholding laws and contributing to society.
@@ -82,7 +84,7 @@ question: 5. In Kohlberg’s theory, "Pre-conventional moral reasoning" is prima
 ```mcq
 ---
 type: single
-question: 6. A child who says, "I will let you play with my toy if you share your sweets with me," is demonstrating which stage of Kohlberg’s moral development?
+question: 6\. A child who says, "I will let you play with my toy if you share your sweets with me," is demonstrating which stage of Kohlberg’s moral development?
 ---
 
 - [ ] Stage 1: Obedience to authority
@@ -98,7 +100,7 @@ question: 6. A child who says, "I will let you play with my toy if you share you
 ```mcq
 ---
 type: single
-question: 7. Which stage of Kohlberg’s theory is associated with the "Good boy/Good girl" orientation, where being socially acceptable and showing concern for others is paramount?
+question: 7\. Which stage of Kohlberg’s theory is associated with the "Good boy/Good girl" orientation, where being socially acceptable and showing concern for others is paramount?
 ---
 
 - [ ] Stage 2
@@ -114,7 +116,7 @@ question: 7. Which stage of Kohlberg’s theory is associated with the "Good boy
 ```mcq
 ---
 type: single
-question: 8. An individual who reasons that "stealing is wrong because if everyone stole, society would collapse" is likely at which Kohlberg stage?
+question: 8\. An individual who reasons that "stealing is wrong because if everyone stole, society would collapse" is likely at which Kohlberg stage?
 ---
 
 - [ ] Stage 1: Obedience to authority
@@ -130,7 +132,8 @@ question: 8. An individual who reasons that "stealing is wrong because if everyo
 ```mcq
 ---
 type: single
-question: 9. According to Social Domain Theory, a decision about whether to eat a packet of crisps for lunch is considered a:
+question: >-
+  9\. According to Social Domain Theory, a decision about whether to eat a packet of crisps for lunch is considered a:
 ---
 
 - [ ] Moral judgment
@@ -146,7 +149,8 @@ question: 9. According to Social Domain Theory, a decision about whether to eat 
 ```mcq
 ---
 type: single
-question: 10. Research on cultural differences in moral judgment (e.g., Miller et al., 1990) found that compared to children in the United States, children in India were more likely to:
+question: >-
+  10\. Research on cultural differences in moral judgment (e.g., Miller et al., 1990) found that compared to children in the United States, children in India were more likely to:
 ---
 
 - [ ] View helping others as a personal choice.
@@ -162,7 +166,8 @@ question: 10. Research on cultural differences in moral judgment (e.g., Miller e
 ```mcq
 ---
 type: single
-question: 11. In "WEIRD" societies (e.g., USA), moral judgments tend to focus on intentions. In contrast, in small-scale "opacity of mind" cultures (e.g., Fiji), judgments often focus more on:
+question: >-
+  11\. In "WEIRD" societies (e.g., USA), moral judgments tend to focus on intentions. In contrast, in small-scale "opacity of mind" cultures (e.g., Fiji), judgments often focus more on:
 ---
 
 - [ ] The age of the individual.
@@ -178,7 +183,7 @@ question: 11. In "WEIRD" societies (e.g., USA), moral judgments tend to focus on
 ```mcq
 ---
 type: single
-question: 12. Which of the following parental behaviours is most effective in fostering the development of a conscience and the adoption of moral values in children?
+question: 12\. Which of the following parental behaviours is most effective in fostering the development of a conscience and the adoption of moral values in children?
 ---
 
 - [ ] Harsh discipline to ensure compliance.
@@ -194,7 +199,7 @@ question: 12. Which of the following parental behaviours is most effective in fo
 ```mcq
 ---
 type: single
-question: 13. What is the key difference between empathy and sympathy?
+question: 13\. What is the key difference between empathy and sympathy?
 ---
 
 - [ ] Sympathy is an emotional reaction, while empathy is purely cognitive.
@@ -210,7 +215,7 @@ question: 13. What is the key difference between empathy and sympathy?
 ```mcq
 ---
 type: single
-question: 14. At what age do children typically start to clearly differentiate between another person's emotional distress and their own, although their responses may still be egocentric?
+question: 14\. At what age do children typically start to clearly differentiate between another person's emotional distress and their own, although their responses may still be egocentric?
 ---
 
 - [ ] 6 months
@@ -226,7 +231,7 @@ question: 14. At what age do children typically start to clearly differentiate b
 ```mcq
 ---
 type: single
-question: 15. Which of the following statements about the genetic influence on prosocial behaviour is true?
+question: 15\. Which of the following statements about the genetic influence on prosocial behaviour is true?
 ---
 
 - [ ] Genetics plays no role in prosocial behaviour.
@@ -242,7 +247,8 @@ question: 15. Which of the following statements about the genetic influence on p
 ```mcq
 ---
 type: single
-question: 16. Instrumental aggression is motivated by:
+question: >-
+  16\. Instrumental aggression is motivated by:
 ---
 
 - [ ] The desire to injure others out of anger.
@@ -258,7 +264,8 @@ question: 16. Instrumental aggression is motivated by:
 ```mcq
 ---
 type: single
-question: 17. The frequency of physical aggression in most children typically:
+question: >-
+  17\. The frequency of physical aggression in most children typically:
 ---
 
 - [ ] Increases steadily from age 2 to age 10.
@@ -274,7 +281,8 @@ question: 17. The frequency of physical aggression in most children typically:
 ```mcq
 ---
 type: single
-question: 18. As children develop language skills, physical aggression tends to decrease and be replaced by:
+question: >-
+  18\. As children develop language skills, physical aggression tends to decrease and be replaced by:
 ---
 
 - [ ] Prosocial behaviour only.
@@ -290,7 +298,8 @@ question: 18. As children develop language skills, physical aggression tends to 
 ```mcq
 ---
 type: single
-question: 19. Relational aggression, which is observed in preschoolers, involves:
+question: >-
+  19\. Relational aggression, which is observed in preschoolers, involves:
 ---
 
 - [ ] Hitting or pushing others to get a toy.
@@ -306,7 +315,8 @@ question: 19. Relational aggression, which is observed in preschoolers, involves
 ```mcq
 ---
 type: single
-question: 20. Children prone to "reactive aggression" are particularly likely to:
+question: >-
+  20\. Children prone to "reactive aggression" are particularly likely to:
 ---
 
 - [ ] Anticipate positive social consequences for aggression.
@@ -322,7 +332,7 @@ question: 20. Children prone to "reactive aggression" are particularly likely to
 ```mcq
 ---
 type: single
-question: 21. Which of the following is true regarding the stability of aggressive behaviour?
+question: 21\. Which of the following is true regarding the stability of aggressive behaviour?
 ---
 
 - [ ] Aggression at age 8 does not predict aggression in adulthood.
@@ -338,7 +348,8 @@ question: 21. Which of the following is true regarding the stability of aggressi
 ```mcq
 ---
 type: single
-question: 22. Late-onset (adolescent) conduct problems are most likely to emerge from:
+question: >-
+  22\. Late-onset (adolescent) conduct problems are most likely to emerge from:
 ---
 
 - [ ] Neurological deficits.
@@ -354,7 +365,8 @@ question: 22. Late-onset (adolescent) conduct problems are most likely to emerge
 ```mcq
 ---
 type: single
-question: 23. A 4-year-old child decides not to open a crisp packet noisily in a cinema. According to Social Domain Theory, this is a:
+question: >-
+  23\. A 4-year-old child decides not to open a crisp packet noisily in a cinema. According to Social Domain Theory, this is a:
 ---
 
 - [ ] Moral judgment.
@@ -370,7 +382,7 @@ question: 23. A 4-year-old child decides not to open a crisp packet noisily in a
 ```mcq
 ---
 type: single
-question: 24. Which criticism is frequently levelled at Kohlberg's theory of moral development?
+question: 24\. Which criticism is frequently levelled at Kohlberg's theory of moral development?
 ---
 
 - [ ] It focuses too much on behaviour and not enough on reasoning.
@@ -386,7 +398,7 @@ question: 24. Which criticism is frequently levelled at Kohlberg's theory of mor
 ```mcq
 ---
 type: single
-question: 25. In the Heinz dilemma, a person who argues "He should not steal the drug because he will go to prison" is reasoning at which level?
+question: 25\. In the Heinz dilemma, a person who argues "He should not steal the drug because he will go to prison" is reasoning at which level?
 ---
 
 - [x] Pre-conventional.
@@ -402,7 +414,7 @@ question: 25. In the Heinz dilemma, a person who argues "He should not steal the
 ```mcq
 ---
 type: single
-question: 26. Which of the following is an example of "proactive aggression"?
+question: 26\. Which of the following is an example of "proactive aggression"?
 ---
 
 - [ ] Hitting a child back immediately after being pushed.
@@ -418,7 +430,8 @@ question: 26. Which of the following is an example of "proactive aggression"?
 ```mcq
 ---
 type: single
-question: 27. The concept of "conscience" in young children primarily reflects:
+question: >-
+  27\. The concept of "conscience" in young children primarily reflects:
 ---
 
 - [ ] Universal ethical principles.
@@ -434,7 +447,7 @@ question: 27. The concept of "conscience" in young children primarily reflects:
 ```mcq
 ---
 type: single
-question: 28. Baby Andrew is 7 months old. Which of the following is Andrew likely to express?
+question: 28\. Baby Andrew is 7 months old. Which of the following is Andrew likely to express?
 ---
 
 - [x] Anger when their control of the environment is taken away
@@ -450,7 +463,8 @@ question: 28. Baby Andrew is 7 months old. Which of the following is Andrew like
 ```mcq
 ---
 type: single
-question: 29. Baby Alice is 9 months old and is afraid of loud noises and the visual cliff. By the time she is 20 months old, she is likely to show a fear response towards:
+question: >-
+  29\. Baby Alice is 9 months old and is afraid of loud noises and the visual cliff. By the time she is 20 months old, she is likely to show a fear response towards:
 ---
 
 - [ ] Loud noises only
@@ -466,7 +480,7 @@ question: 29. Baby Alice is 9 months old and is afraid of loud noises and the vi
 ```mcq
 ---
 type: single
-question: 30. Rahim smiles when his aunt gives him a coconut cake on his birthday, even though he doesn’t like coconut. What sort of emotional display is Rahim using?
+question: 30\. Rahim smiles when his aunt gives him a coconut cake on his birthday, even though he doesn’t like coconut. What sort of emotional display is Rahim using?
 ---
 
 - [x] A prosocial display rule
