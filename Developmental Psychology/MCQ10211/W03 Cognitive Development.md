@@ -88,11 +88,11 @@ question: 6\. The "Violation of Expectancy" (VoE) procedure relies on which logi
 
 - [ ] Infants will smile more at events they find probable.
     > Looking time, not affect (smiling), is the primary measure.
-- [ ] Infants will look longer at an event that violates their expectations (is "impossible") compared to a possible event.
+- [x] Infants will look longer at an event that violates their expectations (is "impossible") compared to a possible event.
     > The premise is that infants look longer at "impossible" events because they are surprised, implying they possess the physical knowledge being violated (e.g., object permanence).
 - [ ] Infants will look away quickly from events that are confusing or impossible.
     > The opposite is true; they tend to stare longer at the violation.
-- [x] Infants will reach for objects that violate the laws of physics.
+- [ ] Infants will reach for objects that violate the laws of physics.
     > VoE measures visual attention (looking time), not reaching behavior.
 ```
 
@@ -329,7 +329,7 @@ question: 21\. How does understanding causal relations help children learn categ
 
 - [ ] It makes no difference; children learn by rote memorization.
     > The study showed a significant benefit to causal explanations.
-- [ ] Children remember categories better if they are told *why* objects have certain features (e.g., claws to fight).
+- [x] Children remember categories better if they are told *why* objects have certain features (e.g., claws to fight).
     > Hearing that "wugs" have claws to help them fight allowed children to categorize novel pictures better than children who just saw the physical features without the explanation.
 - [ ] Causal explanations confuse children and lower their performance.
     > The opposite was found; it improved performance.

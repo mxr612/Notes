@@ -1,494 +1,509 @@
-
-```mcq
----
-type: single
-question: 1\. According to Piaget’s theory of moral judgment, a child who is in the "Heteronomous morality" stage would most likely consider which of the following children to be the naughtiest?
----
-
-- [ ] A child who intentionally steals one cookie while their mother is not looking.
-    > This reasoning aligns with Autonomous morality, where intentions are considered over consequences.
-- [ ] A child who refuses to eat a cookie because they are not hungry.
-    > This is a personal choice and does not reflect a moral transgression in this context.
-- [x] A child who accidentally drops a whole jar of cookies and breaks them all while trying to help.
-    > Piaget (1932) concluded that children in the Heteronomous stage (pre-operational, <7 years) focus on the consequences of an action (i.e., the outcome), not the intent. Thus, breaking a whole jar (larger consequence) is viewed as naughtier than stealing one cookie, even if accidental.
-- [ ] A child who asks for a cookie before taking one.
-    > This behaviour follows rules and is not considered naughty in either stage.
-```
-
-```mcq
----
-type: single
-question: 2\. At approximately what age did Piaget suggest children transition from Heteronomous morality to Autonomous morality?
----
-
-- [ ] 3 years old
-    > This is typically the age associated with early differentiation of domains, but firmly within the pre-operational/heteronomous stage.
-- [ ] 5 years old
-    > This is still within the pre-operational stage associated with Heteronomous morality.
-- [x] 7 years old
-    > Children firmly in the concrete operational stage or beyond (approx. 7 years) transition to Autonomous morality, where they no longer blindly accept rules and begin to consider intentions.
-- [ ] 11 years old
-    > This age is associated with the formal operational stage, well after the transition to Autonomous morality usually begins.
-```
-
-```mcq
----
-type: single
-question: 3\. Which of the following is a key characteristic of Piaget’s "Autonomous morality" stage?
----
-
-- [ ] Rules are regarded as fixed and unchangeable things ("things in themselves").
-    > This is a characteristic of Heteronomous morality.
-- [ ] Moral judgments are governed strictly by parents' expectations.
-    > This reliance on external authority is characteristic of Heteronomous morality.
-- [x] The individual considers others' intentions when evaluating behaviour (outcome-to-intent shift).
-    > In the Autonomous morality stage, children possess the ability to take others' perspectives (Theory of Mind) and consider intentions rather than just outcomes.
-- [ ] The focus is primarily on the magnitude of the consequences (e.g., how many cups were broken).
-    > Focusing on consequences over intent is the defining feature of Heteronomous morality.
-```
-
 ```mcq
 ---
 type: single
 question: >-
-  4\. Modern research has critiqued Piaget’s theory by demonstrating that younger children can understand intentions if:
+  1\. Baby Andrew is 7 months old. Which of the following is Andrew likely to express?
 ---
 
-- [ ] The consequences are very severe.
-    > Severity of consequences tends to reinforce the outcome focus in young children rather than intent.
-- [x] The moral scenarios are presented in ways that make the individual's intentions more obvious.
-    > Research (e.g., Grueneich, 1982) shows that when intentions are made obvious, pre-operational children are more likely to correctly identify the morally dubious act, suggesting they have the capacity earlier than Piaget thought.
-- [ ] They are explicitly told the rules beforehand.
-    > While rules are important, the critique focuses on the *capacity* to judge intent, which is improved by scenario design, not just rule-telling.
-- [ ] They have high IQ scores.
-    > While IQ is associated with moral judgment, the specific critique regarding Piaget's staging involves the methodology of the scenarios used.
-```
-
-```mcq
----
-type: single
-question: >-
-  5\. In Kohlberg’s theory, "Pre-conventional moral reasoning" is primarily characterised by:
----
-
-- [ ] A focus on upholding laws and contributing to society.
-    > This characterises the Conventional level (Stage 4).
-- [ ] A commitment to universal ethical principles.
-    > This characterises the Post-conventional level (Stage 6).
-- [x] A self-centred focus on maximising rewards and minimising punishment.
-    > Level 1 (Pre-conventional) reasoning is self-centred, focusing on obedience to avoid punishment (Stage 1) or instrumental exchange (Stage 2).
-- [ ] A desire to maintain good relationships and be seen as a "good" person.
-    > This characterises the Conventional level (Stage 3).
-```
-
-```mcq
----
-type: single
-question: 6\. A child who says, "I will let you play with my toy if you share your sweets with me," is demonstrating which stage of Kohlberg’s moral development?
----
-
-- [ ] Stage 1: Obedience to authority
-    > Stage 1 focuses on avoiding punishment, not exchange.
-- [x] Stage 2: Instrumental and exchange orientation
-    > Stage 2 focuses on the child's best interests or involves equal exchange between people (e.g., "you hurt me, so I hurt you" or "you help me, I help you").
-- [ ] Stage 3: Mutual interpersonal expectations
-    > Stage 3 focuses on social approval and being a "good boy/girl," not specific instrumental exchange.
-- [ ] Stage 4: Social system and conscience orientation
-    > Stage 4 focuses on duty and law, not personal exchange.
-```
-
-```mcq
----
-type: single
-question: 7\. Which stage of Kohlberg’s theory is associated with the "Good boy/Good girl" orientation, where being socially acceptable and showing concern for others is paramount?
----
-
-- [ ] Stage 2
-    > Stage 2 is instrumental and self-interested.
-- [x] Stage 3
-    > Stage 3 (Mutual interpersonal expectations, relationships, and interpersonal conformity) is focused on what is socially acceptable and being a "good" person in the eyes of others.
-- [ ] Stage 4
-    > Stage 4 shifts focus to the wider social system, laws, and duties.
-- [ ] Stage 5
-    > Stage 5 focuses on social contracts and individual rights, often questioning social acceptance if it violates rights.
-```
-
-```mcq
----
-type: single
-question: 8\. An individual who reasons that "stealing is wrong because if everyone stole, society would collapse" is likely at which Kohlberg stage?
----
-
-- [ ] Stage 1: Obedience to authority
-    > This stage focuses on avoiding personal punishment, not societal stability.
-- [ ] Stage 3: Interpersonal conformity
-    > This stage focuses on immediate relationships and approval, not the abstract concept of societal order.
-- [x] Stage 4: Social system and conscience orientation
-    > Stage 4 involves fulfilling one's duties, upholding laws, and contributing to the social group or society to maintain the social system.
-- [ ] Stage 6: Universal ethical principles
-    > Stage 6 reasoning is based on abstract ethical principles that may supersede laws/order, rather than maintaining the system for its own sake.
-```
-
-```mcq
----
-type: single
-question: >-
-  9\. According to Social Domain Theory, a decision about whether to eat a packet of crisps for lunch is considered a:
----
-
-- [ ] Moral judgment
-    > Moral judgments pertain to right/wrong, fairness, and justice.
-- [ ] Social conventional judgment
-    > Social conventional judgments pertain to customs or regulations for social coordination (e.g., table manners).
-- [x] Personal judgment
-    > Personal judgments refer to actions in which individual preferences are the main consideration.
-- [ ] Prosocial judgment
-    > Prosocial judgments relate to actions intended to benefit others.
-```
-
-```mcq
----
-type: single
-question: >-
-  10\. Research on cultural differences in moral judgment (e.g., Miller et al., 1990) found that compared to children in the United States, children in India were more likely to:
----
-
-- [ ] View helping others as a personal choice.
-    > US children were more likely to view it as a personal choice.
-- [x] View helping others as a moral obligation.
-    > Children in India are more likely to say that helping others is a moral issue rather than a personal choice.
-- [ ] Distinguish less between moral and social conventional issues.
-    > The notes state it is likely people in *all* cultures differentiate between these domains; the difference is in the categorization of specific behaviours.
-- [ ] Ignore the intentions of the actor completely.
-    > While some cultures focus more on consequences, this specific finding relates to the classification of helping behaviour.
-```
-
-```mcq
----
-type: single
-question: >-
-  11\. In "WEIRD" societies (e.g., USA), moral judgments tend to focus on intentions. In contrast, in small-scale "opacity of mind" cultures (e.g., Fiji), judgments often focus more on:
----
-
-- [ ] The age of the individual.
-    > This is not the primary distinction highlighted in the research.
-- [ ] The gender of the individual.
-    > This is not the primary distinction highlighted in the research.
-- [x] The consequences of a person's actions.
-    > Research (McNamara et al., 2019) suggests that in "opacity of mind" cultures, individuals focus more on the consequences (outcome) when making moral judgments.
-- [ ] The religious context of the action.
-    > While religion is a factor in culture, the specific contrast drawn is between intent and consequence.
-```
-
-```mcq
----
-type: single
-question: 12\. Which of the following parental behaviours is most effective in fostering the development of a conscience and the adoption of moral values in children?
----
-
-- [ ] Harsh discipline to ensure compliance.
-    > Harsh discipline is less effective than rational explanation for internalisation.
-- [x] Rational explanations rather than harsh discipline.
-    > Children typically adopt their parents' moral values if parents use rational explanations and the children are securely attached.
-- [ ] Allowing the child to make all their own rules.
-    > This is permissive and does not necessarily foster the internalisation of moral standards.
-- [ ] Ignoring minor transgressions to build self-esteem.
-    > Conscience is built through internalising standards, which requires guidance/feedback, not ignoring behaviour.
-```
-
-```mcq
----
-type: single
-question: 13\. What is the key difference between empathy and sympathy?
----
-
-- [ ] Sympathy is an emotional reaction, while empathy is purely cognitive.
-    > Both involve emotional components.
-- [x] Empathy is feeling the same emotion as another; sympathy is feeling concern for another.
-    > Empathy is an emotional reaction similar to the other person's state; Sympathy is a feeling of concern *for* the other person, often resulting from empathy.
-- [ ] Sympathy appears in infancy, while empathy develops in adolescence.
-    > Infants show signs of responding to distress (precursors to empathy/sympathy) much earlier than adolescence.
-- [ ] Empathy leads to antisocial behaviour, while sympathy leads to prosocial behaviour.
-    > Both are roots of prosocial behaviour; empathy does not inherently lead to antisocial behaviour.
-```
-
-```mcq
----
-type: single
-question: 14\. At what age do children typically start to clearly differentiate between another person's emotional distress and their own, although their responses may still be egocentric?
----
-
-- [ ] 6 months
-    > Infants this young may respond to distress but do not differentiate self from other clearly.
-- [ ] 1 year
-    > Differentiation is still developing.
-- [x] 2 years
-    > At about age 2, children start to more clearly differentiate between another's emotional distress and their own (Radke-Yarrow & Zahn-Waxler, 1984).
-- [ ] 5 years
-    > By 5, children have a much more advanced Theory of Mind and less egocentric response.
-```
-
-```mcq
----
-type: single
-question: 15\. Which of the following statements about the genetic influence on prosocial behaviour is true?
----
-
-- [ ] Genetics plays no role in prosocial behaviour.
-    > Evidence suggests a genetic component.
-- [ ] Non-identical twins are more similar in prosocial behaviour than identical twins.
-    > The opposite is true; identical twins are more similar.
-- [x] Identical twins are more similar in their prosocial behaviour than non-identical twins.
-    > This suggests a genetic factor, potentially arising indirectly from differences in temperament.
-- [ ] Genetic factors are the single strongest predictor, engaging environmental factors.
-    > Genetic factors have only a "modest contribution"; socialisation is a strong influence.
-```
-
-```mcq
----
-type: single
-question: >-
-  16\. Instrumental aggression is motivated by:
----
-
-- [ ] The desire to injure others out of anger.
-    > This is the definition of Hostile aggression.
-- [x] The desire to obtain a concrete goal.
-    > Instrumental aggression is motivated by the desire to obtain a goal, such as gaining possession of a peer's toy.
-- [ ] The desire to damage peer relationships through exclusion.
-    > This is the definition of Relational aggression.
-- [ ] A lack of empathy for the victim.
-    > While empathy might be low, the *motivation* is the concrete goal.
-```
-
-```mcq
----
-type: single
-question: >-
-  17\. The frequency of physical aggression in most children typically:
----
-
-- [ ] Increases steadily from age 2 to age 10.
-    > Physical aggression usually declines after age 2.
-- [x] Increases until about age 2, then decreases.
-    > Physically aggressive behaviour emerges around 18 months, increases until about age 2, and then decreases as language skills develop.
-- [ ] Remains constant throughout childhood.
-    > It shows a clear developmental trajectory (rise then fall).
-- [ ] Is non-existent until school age.
-    > It emerges around 18 months.
-```
-
-```mcq
----
-type: single
-question: >-
-  18\. As children develop language skills, physical aggression tends to decrease and be replaced by:
----
-
-- [ ] Prosocial behaviour only.
-    > While prosocial behaviour may increase, the specific replacement for physical aggression in conflict is often verbal aggression.
-- [x] Verbal aggression.
-    > The development of language skills sees an increase in verbal aggression (e.g., teasing/name-calling) as physical aggression declines.
-- [ ] Relational aggression only.
-    > Relational aggression is a specific type; verbal aggression is the broader category cited in this developmental shift.
-- [ ] Reactive aggression.
-    > Reactive aggression can be physical or verbal; the shift is specifically in the *form* (physical to verbal).
-```
-
-```mcq
----
-type: single
-question: >-
-  19\. Relational aggression, which is observed in preschoolers, involves:
----
-
-- [ ] Hitting or pushing others to get a toy.
-    > This is instrumental physical aggression.
-- [ ] Yelling at others to express anger.
-    > This is verbal aggression (hostile).
-- [x] Harming others' peer relationships, such as by excluding them from a group.
-    > Relational aggression is defined by harming relationships or social status (Crick et al., 1997).
-- [ ] Unemotional aggression aimed at fulfilling a need.
-    > This describes proactive aggression generally, not the specific method of relational harm.
-```
-
-```mcq
----
-type: single
-question: >-
-  20\. Children prone to "reactive aggression" are particularly likely to:
----
-
-- [ ] Anticipate positive social consequences for aggression.
-    > This is characteristic of *proactive* aggression.
-- [x] Perceive other people's motives as hostile.
-    > Reactive aggression is emotionally driven and antagonistic; these children often have a "hostile attribution bias."
-- [ ] Use aggression unemotionally to fulfill a desire.
-    > This is characteristic of *proactive* aggression.
-- [ ] Be identified as popular by their peers.
-    > Reactive aggression is often associated with rejection or controversy, not necessarily popularity in the same way proactive strategies might be.
-```
-
-```mcq
----
-type: single
-question: 21\. Which of the following is true regarding the stability of aggressive behaviour?
----
-
-- [ ] Aggression at age 8 does not predict aggression in adulthood.
-    > Research shows strong continuity.
-- [ ] Late-onset (adolescent) conduct problems are more likely to persist into adulthood than early-onset problems.
-    > Early-onset problems are associated with higher risk of persistence.
-- [x] Children identified as aggressive at age 8 have higher self-reported aggression and more criminal convictions at age 30.
-    > Eron et al. (1987) found significant stability in aggressive behaviour from childhood to adulthood.
-- [ ] Aggressive behaviour is entirely situational and has no stability over time.
-    > Longitudinal studies contradict this.
-```
-
-```mcq
----
-type: single
-question: >-
-  22\. Late-onset (adolescent) conduct problems are most likely to emerge from:
----
-
-- [ ] Neurological deficits.
-    > These are more associated with early-onset conduct problems.
-- [ ] Family risk factors.
-    > These are more strongly associated with early-onset conduct problems.
-- [x] Peer interactions.
-    > Late-onset conduct problems tend to emerge from peer interactions (McCabe et al., 2001).
-- [ ] High levels of prosocial behaviour.
-    > Conduct problems are the opposite of prosocial behaviour.
-```
-
-```mcq
----
-type: single
-question: >-
-  23\. A 4-year-old child decides not to open a crisp packet noisily in a cinema. According to Social Domain Theory, this is a:
----
-
-- [ ] Moral judgment.
-    > It does not involve harm or justice directly.
-- [x] Social conventional judgment.
-    > It pertains to regulations intended to secure social coordination (e.g., silence in a cinema).
-- [ ] Personal judgment.
-    > It is regulated by social context/rules, not just personal preference.
-- [ ] Pre-conventional judgment.
-    > This is a Kohlberg stage, not a Social Domain category.
-```
-
-```mcq
----
-type: single
-question: 24\. Which criticism is frequently levelled at Kohlberg's theory of moral development?
----
-
-- [ ] It focuses too much on behaviour and not enough on reasoning.
-    > Kohlberg focused almost exclusively on reasoning (cognitive), which is sometimes a critique in itself, but the opposite of this statement.
-- [ ] It overestimates the moral reasoning of young children.
-    > Piaget is often critiqued for *underestimating* children; Kohlberg is critiqued for other reasons.
-- [x] It did not sufficiently differentiate between moral issues and social convention issues.
-    > Critics (e.g., Nucci & Gingo, 2011) argue Kohlberg conflated these domains.
-- [ ] It places too much emphasis on the role of parents.
-    > Kohlberg (like Piaget) actually emphasised peer interaction more than parental direct instruction compared to Social Learning theorists.
-```
-
-```mcq
----
-type: single
-question: 25\. In the Heinz dilemma, a person who argues "He should not steal the drug because he will go to prison" is reasoning at which level?
----
-
-- [x] Pre-conventional.
-    > The focus is on the direct consequence to self (avoidance of punishment), which is Stage 1 (Pre-conventional).
-- [ ] Conventional.
-    > Conventional reasoning would focus on the law itself ("stealing is illegal") or social approval ("people will think he is a thief").
-- [ ] Post-conventional.
-    > Post-conventional reasoning would focus on the right to life vs property rights.
-- [ ] Autonomous.
-    > This is a Piagetian term, though it overlaps; the specific "prison" justification is the hallmark of Kohlberg's Pre-conventional Stage 1.
-```
-
-```mcq
----
-type: single
-question: 26\. Which of the following is an example of "proactive aggression"?
----
-
-- [ ] Hitting a child back immediately after being pushed.
-    > This is reactive (retaliatory).
-- [ ] Yelling at a teacher when frustrated by a difficult task.
-    > This is reactive (emotionally driven).
-- [x] Deliberately pushing a child to get to the front of the line.
-    > Proactive aggression is unemotional and aimed at fulfilling a need or desire (instrumental).
-- [ ] Crying when a toy is taken away.
-    > This is an emotional response, not aggression.
-```
-
-```mcq
----
-type: single
-question: >-
-  27\. The concept of "conscience" in young children primarily reflects:
----
-
-- [ ] Universal ethical principles.
-    > This is a much later development (Kohlberg Stage 6).
-- [ ] Peer group standards.
-    > Peers become influential later; early conscience is parental.
-- [x] Internalised parental standards.
-    > Hoffman (1982) and Konchanska (2002) note that the conscience of a young child primarily reflects internalised parental standards.
-- [ ] Genetic programming only.
-    > While temperament plays a role, the *content* of conscience is internalised from socialisation.
-```
-
-```mcq
----
-type: single
-question: 28\. Baby Andrew is 7 months old. Which of the following is Andrew likely to express?
----
-
-- [x] Anger when their control of the environment is taken away
-    > Research (e.g., Stenberg & Campos) shows that distinct anger expressions in response to blocked goals or loss of control emerge around 4-6 months and are clear by 7 months.
-- [ ] Fear of unfamiliar people
-    > While stranger anxiety can begin around this time, the specific reaction to *loss of control* (frustration) is the classic "anger" milestone often cited for this age in this curriculum.
+- [x] Fear of unfamiliar people
+    > The first clear signs of fear, specifically the fear of strangers, emerge at around 6 or 7 months of age.
 - [ ] Smiling at strangers
-    > By 7 months, indiscriminate smiling (social smile) has typically been replaced by selective smiling for caregivers; strangers may elicit wariness.
+    > By 7 months, infants start to smile primarily at familiar people rather than people in general.
 - [ ] Guilt and/or shame
-    > Self-conscious emotions like guilt and shame typically do not emerge until the second year of life (18-24 months).
+    > Self-conscious emotions like guilt and shame do not begin to emerge until the second year of life.
+- [ ] Anger when their control of the environment is taken away
+    > Anger related to the loss of control typically emerges during the second year of life.
 ```
 
 ```mcq
 ---
 type: single
 question: >-
-  29\. Baby Alice is 9 months old and is afraid of loud noises and the visual cliff. By the time she is 20 months old, she is likely to show a fear response towards:
+  2\. Baby Alice is 9 months old and is afraid of loud noises and the visual cliff. By the time she is 20 months old, she is likely to show a fear response towards:
 ---
 
 - [ ] Loud noises only
-    > Fear of heights (visual cliff) persists as a safety mechanism.
+    > Fears of loud noises tend to decline after 12 months, whereas fear associated with the visual cliff persists.
 - [ ] Neither loud noises nor the visual cliff
-    > Fear of the visual cliff (danger of falling) persists.
-- [ ] Loud noises and the visual cliff
-    > While possible, developmental trends often emphasise the decline of early reflexive fears (like simple loud noises) or separation anxiety, while safety fears (heights) remain. However, "The visual cliff only" is the stronger distractor if implying developmental shift.
+    > While fear of loud noises declines, the fear response to the visual cliff does not disappear by 20 months.
 - [x] The visual cliff only
-    > Fear of heights (avoidance of the visual cliff) is a learned safety response that emerges with crawling and persists. Early reflexive fears or specific infant anxieties often decline or transform by toddlerhood.
+    > Research (e.g., Kagan et al., 1978; Scarr & Salapatek, 1970) suggests that fears of loud noises decline after 12 months, while fear responses to the visual cliff (heights) persist into the second year.
+- [ ] Loud noises and the visual cliff
+    > Fear of loud noises typically declines after 12 months.
 ```
 
 ```mcq
 ---
 type: single
-question: 30\. Rahim smiles when his aunt gives him a coconut cake on his birthday, even though he doesn’t like coconut. What sort of emotional display is Rahim using?
+question: >-
+  3\. Rahim smiles when his aunt gives him a coconut cake on his birthday, even though he doesn’t like coconut. What sort of emotional display is Rahim using?
 ---
 
-- [x] A prosocial display rule
-    > Prosocial display rules involve altering emotional expression to protect the feelings of others (e.g., faking delight at an unwanted gift).
 - [ ] An ambivalent display rule
-    > Ambivalence is feeling two emotions; a display rule is about the *expression*.
+    > This term is not a standard category of display rules defined in the lecture; the categories are prosocial and self-protective.
 - [ ] A verbal display rule
-    > Display rules refer to non-verbal emotional expression (smiling).
+    > While Rahim might say thank you, the question refers to his smile (a facial display), and the motivation fits the prosocial category.
 - [ ] A self-protective display rule
-    > Self-protective display rules involve hiding emotion to save face or avoid punishment (e.g., not crying when teased), rather than protecting another's feelings.
+    > Self-protective display rules are used for personal gain or to save face (e.g., hiding disappointment to look tough), not to protect others' feelings.
+- [x] A prosocial display rule
+    > Prosocial display rules are used to protect another's feelings, such as pretending to like a gift or food to avoid hurting the giver.
+```
+
+```mcq
+---
+type: single
+question: >-
+  4\. According to researchers, emotions generally involve three aspects. Which of the following is NOT one of these aspects?
+---
+
+- [ ] Physiological response
+    > This is one of the three aspects, involving physical effects like increased pulse or sweating.
+- [ ] Cognition
+    > This is one of the three aspects, involving subjective conscious experience and interpretation.
+- [ ] Behaviour
+    > This is one of the three aspects, involving overt expressions such as facial expressions or gestures.
+- [x] Social reinforcement
+    > The three agreed-upon aspects of emotion are physiological response, cognition, and behaviour. Social reinforcement is not one of the fundamental components in this definition.
+```
+
+```mcq
+---
+type: single
+question: >-
+  5\. Which theory argues that emotions are innate, distinct from one another from very early in life, and packaged with specific bodily reactions?
+---
+
+- [ ] Functionalist Approach
+    > The Functionalist approach argues emotions are not distinct early in life and are influenced by the environment.
+- [ ] Social Learning Theory
+    > This theory focuses on learning through observation and is not the specific theory describing innate, packaged emotions in this context.
+- [x] Discrete Emotions Theory
+    > Discrete Emotions Theory (Tomkins, 1962; Izard, 1991) argues that emotions are innate, distinct early in life, and have specific bodily/facial reactions.
+- [ ] Cognitive Developmental Theory
+    > This focuses on the development of thought processes rather than the innate packaging of discrete emotions.
+```
+
+```mcq
+---
+type: single
+question: >-
+  6\. According to the functionalist approach (Campos et al., 1994), what is the basic function of emotions?
+---
+
+- [ ] To communicate biological needs to the mother
+    > While emotions signal needs, the specific definition in the functionalist approach focuses on goal achievement.
+- [ ] To release physiological tension
+    > This is not the core definition provided by the functionalist approach in the lecture.
+- [ ] To mimic the facial expressions of caregivers
+    > This relates to social referencing or imitation, not the basic function of emotions defined by functionalists.
+- [x] To promote action toward achieving a goal
+    > The functionalist approach argues that the basic function of emotions is to promote action toward achieving a goal.
+```
+
+```mcq
+---
+type: single
+question: >-
+  7\. In the context of emotion characteristics, what is the goal connected with the emotion of "Disgust"?
+---
+
+- [ ] Maintaining physical integrity
+    > This is the goal connected with Fear.
+- [ ] Attaining an invested end state
+    > This is the goal connected with Anger or Sadness.
+- [ ] Meeting internalised values
+    > This is the goal connected with Guilt.
+- [x] Avoiding contamination or illness
+    > The goal of disgust is avoiding contamination or illness, and the action tendency is active rejection of the stimulus.
+```
+
+```mcq
+---
+type: single
+question: >-
+  8\. At what age do "Social Smiles" (smiles directed toward people) first emerge?
+---
+
+- [x] 6 to 7 weeks
+    > Social smiles are directed toward people and first emerge as early as 6 to 7 weeks old (White, 1985).
+- [ ] At birth
+    > Infants smile from their earliest days, but these are not yet social smiles directed at people.
+- [ ] 3 to 4 months
+    > By 3 or 4 months, infants begin to laugh, but social smiling appears earlier.
+- [ ] 7 months
+    > By 7 months, infants smile primarily at familiar people, but social smiling itself begins earlier.
+```
+
+```mcq
+---
+type: single
+question: >-
+  9\. Which of the following best describes the development of fear of loud noises?
+---
+
+- [ ] It emerges at 2 months and increases steadily until age 3
+    > Fear of loud noises is evident around 7 months, not 2 months, and declines later.
+- [ ] It is innate and remains constant throughout childhood
+    > Evidence suggests it changes, specifically declining after the first year.
+- [ ] It emerges around 12 months and peaks at age 2
+    > It is evident earlier, around 7 months.
+- [x] It is evident around 7 months but tends to decline after 12 months
+    > Kagan et al. (1978) found that fears of loud noises are evident at around 7 months but tend to decline after 12 months.
+```
+
+```mcq
+---
+type: single
+question: >-
+  10\. During the second year of life, children are most likely to express anger in which of the following situations?
+---
+
+- [ ] When they hear a loud noise
+    > Loud noises typically elicit fear, not anger.
+- [x] When control is taken away from them
+    > During the second year, as children better control their environments, they often show anger when control is taken away or they get frustrated.
+- [ ] When they are separated from their parents
+    > Separation typically elicits sadness or distress.
+- [ ] When they encounter a stranger
+    > Strangers typically elicit fear.
+```
+
+```mcq
+---
+type: single
+question: >-
+  11\. Which of the following is a characteristic of "Guilt" as opposed to "Shame"?
+---
+
+- [ ] It involves a desire to hide and be less conspicuous
+    > This is a characteristic of Shame.
+- [ ] It is unrelated to concern about others
+    > Shame is unrelated to concern about others; Guilt is associated with empathy.
+- [ ] The focus is on the self ("I am bad")
+    > This focus on the self is characteristic of Shame; Guilt focuses on the action ("I did a bad thing").
+- [x] It involves feelings of remorse and a desire to make amends
+    > Guilt is associated with empathy for others and involves remorse, regret, and the desire to make reparation.
+```
+
+```mcq
+---
+type: single
+question: >-
+  12\. In the experiment by Barrett et al. (1993) where 2-year-olds "broke" a rigged doll, how did the children who experienced **shame** react?
+---
+
+- [ ] They repaired the doll immediately
+    > This was the reaction of children who showed guilt.
+- [ ] They told the adult about the broken doll upon their return
+    > This was the reaction of children who showed guilt.
+- [ ] They laughed and clowned around
+    > This is not a reaction associated with shame in this context.
+- [x] They avoided the adult and delayed telling them
+    > Children who showed shame avoided the adult when they returned and delayed telling them about the broken doll.
+```
+
+```mcq
+---
+type: single
+question: >-
+  13\. At what age do children typically begin to show embarrassment when made the centre of attention?
+---
+
+- [ ] 6-7 months
+    > This is when stranger anxiety and social smiling preferences emerge.
+- [ ] 12 months
+    > This is too early for self-conscious emotions like embarrassment.
+- [ ] 3 years
+    > By 3 years, children show pride, but embarrassment emerges earlier.
+- [x] 15-24 months
+    > Lewis (1995) identifies 15-24 months as the period when embarrassment emerges when the child is made the centre of attention.
+```
+
+```mcq
+---
+type: single
+question: >-
+  14\. Research by Furukawa et al. (2012) on self-conscious emotions found a cultural difference regarding pride. What was this difference?
+---
+
+- [ ] Japanese children were more likely to be proud of personal success than group success
+    > The finding was the opposite; they were *less* likely to be proud of personal success.
+- [ ] Western children showed no pride in personal success
+    > Western culture typically emphasises personal success.
+- [ ] There were no differences between Japanese and Western children
+    > The study specifically highlighted a difference in the situations likely to induce pride.
+- [x] Japanese children were less likely to be proud of personal success compared to group success
+    > The study found that Japanese children were less likely to be proud of personal success compared to group success, highlighting cultural variations.
+```
+
+```mcq
+---
+type: single
+question: >-
+  15\. According to Dodge et al. (1984), by the early school years, what becomes important in determining whether a child will be angered by another's action?
+---
+
+- [ ] The amount of damage caused
+    > While damage is a factor, the shift in middle childhood is towards understanding the *cause* behind the damage.
+- [ ] Whether the other person is a stranger or friend
+    > While relationships matter, the key cognitive development mentioned is the understanding of intent.
+- [ ] The presence of a teacher
+    > This is an external factor, not the cognitive shift described.
+- [x] The perception of others' motives and intentions
+    > Children's perceptions of others' motives and intentions become important; for example, accidental damage is viewed differently than intentional malice.
+```
+
+```mcq
+---
+type: single
+question: >-
+  16\. Young infants (4-7 months) are best at distinguishing which type of emotional expressions?
+---
+
+- [ ] Complex negative emotions like guilt
+    > Guilt does not emerge until the second year.
+- [ ] Sadness vs. Anger
+    > Differentiating various negative emotions is difficult for young infants.
+- [ ] False vs. Real emotions
+    > Understanding real vs. false emotions develops significantly later, between ages 3 and 5.
+- [x] Basic expressions such as happiness and surprise
+    > By 4-7 months, infants can distinguish certain basic emotional expressions, such as happiness and surprise.
+```
+
+```mcq
+---
+type: single
+question: >-
+  17\. What is "social referencing," which typically begins between 8 and 12 months?
+---
+
+- [ ] Smiling at familiar people only
+    > This is a preference that emerges around 7 months but is not the definition of social referencing.
+- [ ] Using self-distraction to regulate emotions
+    > This is an emotion regulation strategy, not social referencing.
+- [ ] Hiding emotions to protect others' feelings
+    > This refers to prosocial display rules.
+- [x] Reading others' cues to decide how to deal with novel situations
+    > Social referencing is using others' facial, gestural, or vocal cues to decide how to deal with novel or uncertain situations.
+```
+
+```mcq
+---
+type: single
+question: >-
+  18\. By what age do children generally become accurate in identifying sad situations (e.g., losing a pet)?
+---
+
+- [ ] 2 years
+    > By age 2, children identify happy situations but are less accurate with sad ones.
+- [ ] 3 years
+    > Accuracy with sad situations improves later than happiness.
+- [ ] 6 years
+    > Identification of sadness is achieved earlier, around age 4.
+- [x] 4 years
+    > Children are less accurate in identifying sad situations until age 4 (Borke, 1971).
+```
+
+```mcq
+---
+type: single
+question: >-
+  19\. Which of the following is an example of a "Self-protective" display rule?
+---
+
+- [ ] Pretending to like a meal you dislike to make the cook happy
+    > This is a prosocial display rule (protecting another).
+- [ ] Smiling when receiving a gift you don't want
+    > This is a prosocial display rule.
+- [ ] Crying when you are hurt to get attention
+    > This is an expression of genuine distress or a signal, not typically a "display rule" of masking for face-saving in the definitions provided.
+- [x] Pretending not to be bothered about losing a race
+    > Self-protective display rules are used for personal gain or to save face, such as hiding disappointment.
+```
+
+```mcq
+---
+type: single
+question: >-
+  20\. In studies of children's understanding of display rules, which type of rule was understood better by children?
+---
+
+- [ ] Facial display rules were understood better than verbal ones
+    > The lecture notes state the opposite: verbal understanding was greater.
+- [ ] Self-protective rules were understood better than prosocial ones
+    > Children understood prosocial rules better than self-protective ones.
+- [ ] Both were understood equally well by age 5
+    > There were distinct differences in understanding between the types.
+- [x] Verbal display rules were understood better than facial ones
+    > Children's understanding was greater for verbal display rules than for facial display rules.
+```
+
+```mcq
+---
+type: single
+question: >-
+  21\. At approximately what age do children begin to understand "emotional ambivalence" (e.g., being mad at a cat for running away but glad it came home)?
+---
+
+- [ ] 5 years
+    > At 5, they understand two compatible emotions, not ambivalent ones from the same source.
+- [ ] 7 years
+    > At this age, they are realising compatible emotions or positive/negative from *different* sources.
+- [ ] 14 years
+    > Understanding emerges earlier, around age 10.
+- [x] 10 years
+    > At age 10, children begin to understand emotional ambivalence resulting from the interaction of positive and negative emotions.
+```
+
+```mcq
+---
+type: single
+question: >-
+  22\. What is "co-regulation" in the context of infant emotion regulation?
+---
+
+- [ ] The infant regulating their own emotions by sucking their thumb
+    > This is a self-comforting behaviour.
+- [ ] Two infants influencing each other's emotional states
+    > This is not the definition of co-regulation provided.
+- [ ] The infant regulating the parent's emotions
+    > Co-regulation refers to the caregiver helping the infant.
+- [x] A caregiver providing comfort or distraction to help the child reduce distress
+    > Young infants' emotions are externally controlled through co-regulation by the caregiver.
+```
+
+```mcq
+---
+type: single
+question: >-
+  23\. During the first year of life, how does an infant's strategy for emotion regulation typically change?
+---
+
+- [ ] They increase self-comforting behaviours and decrease self-distraction
+    > The trend is the opposite.
+- [ ] They stop using any regulation strategies and rely solely on parents
+    > Infants continue to develop and use their own strategies.
+- [ ] They switch from cognitive strategies to physical strategies
+    > Cognitive strategies (like rethinking a situation) develop much later in childhood.
+- [x] They decrease self-comforting behaviours and increase self-distraction
+    > Infants steadily decrease use of self-comforting behaviours (like sucking) and increase use of self-distraction (like looking away).
+```
+
+```mcq
+---
+type: single
+question: >-
+  24\. Which of the following best describes the "Action Tendency" associated with Sadness?
+---
+
+- [ ] Forward movement to eliminate obstacles
+    > This is the action tendency for Anger.
+- [ ] Active rejection of the thing causing sadness
+    > This is the action tendency for Disgust.
+- [ ] Movement to make reparation
+    > This is the action tendency for Guilt.
+- [x] Disengagement and withdrawal
+    > The action tendency for sadness is disengagement and withdrawal.
+```
+
+```mcq
+---
+type: single
+question: >-
+  25\. When young children (preschool/primary school) develop, how does their emotional expression generally change?
+---
+
+- [ ] They become more intense and more emotionally negative
+    > Children become *less* intense and less emotionally negative.
+- [ ] Their fears shift to imaginary creatures like monsters
+    > School-age fears shift *to* real-life issues *from* monsters.
+- [ ] They lose the ability to feel pride
+    > Pride is a self-conscious emotion that they continue to experience and develop.
+- [x] They become less intense and less emotionally negative
+    > Murphy et al. (1999) found children become less intense and less emotionally negative as they age into preschool and school.
+```
+
+```mcq
+---
+type: single
+question: >-
+  26\. "I can't believe I did that." This statement best reflects which emotion?
+---
+
+- [ ] Shame
+    > Shame focuses on the self: "I can't believe *I* did that" (meaning "I am bad").
+- [ ] Fear
+    > Fear is related to threat.
+- [ ] Disgust
+    > Disgust is related to contamination.
+- [x] Guilt
+    > Guilt focuses on the behavior and values: "I can't believe I *did* that" (meaning the action was wrong).
+```
+
+```mcq
+---
+type: single
+question: >-
+  27\. Which researcher(s) are associated with the "Discrete Emotions Theory"?
+---
+
+- [ ] Campos and Saarni
+    > These researchers are associated with the Functionalist approach.
+- [ ] Piaget and Vygotsky
+    > These are cognitive developmental theorists.
+- [ ] Freud and Erikson
+    > These are psychoanalytic theorists.
+- [x] Tomkins and Izard
+    > Tomkins (1962) and Izard (1991) argue for Discrete Emotions Theory.
+```
+
+```mcq
+---
+type: single
+question: >-
+  28\. At what age do children realise they can feel two compatible emotions simultaneously (e.g., "I'm happy and excited")?
+---
+
+- [ ] 2-3 years
+    > This is too early for understanding simultaneous emotions.
+- [ ] 10-11 years
+    > By age 10, they understand ambivalent (conflicting) emotions.
+- [ ] 15 years
+    > This understanding is acquired much earlier.
+- [x] 5-7 years
+    > Between ages 5 and 7, children come to realise they can feel two compatible emotions simultaneously.
+```
+
+```mcq
+---
+type: single
+question: >-
+  29\. What is the primary difference in how 2-year-olds identify emotional situations compared to 4-year-olds?
+---
+
+- [ ] 2-year-olds are better at identifying sad situations
+    > 2-year-olds are less accurate with sad situations.
+- [ ] 4-year-olds can no longer identify happy situations
+    > This ability is retained and refined.
+- [ ] There is no difference; both ages identify all emotions equally well
+    > Development occurs between these ages regarding negative/sad emotions.
+- [x] 2-year-olds are accurate with happy situations but struggle with sad ones until age 4
+    > Borke (1971) found 2-year-olds identify happy situations well, but accuracy with sad situations appears around age 4.
+```
+
+```mcq
+---
+type: single
+question: >-
+  30\. Which of the following is considered a "self-comforting behaviour" used by 5-month-old infants?
+---
+
+- [ ] Looking away from a distressing stimulus
+    > This is a self-distraction strategy.
+- [ ] Crying loudly for a parent
+    > This is signaling/co-regulation seeking, not the self-comforting behaviours listed (rubbing/sucking).
+- [ ] Throwing a toy
+    > This is an external action, possibly anger, not self-comforting.
+- [x] Rubbing their hands together or sucking a thumb
+    > Planalp & Braungart-Rieker (2015) identify these as self-comforting behaviours used to manage emotions.
 ```
